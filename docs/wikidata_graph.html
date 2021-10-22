@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Network</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <script type="text/javascript" src="graph.js"></script>
+    <script type="text/javascript" src="testjson.js"></script>
+    <style type="text/css">
+        #mynetwork {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            /* border: 1px solid lightgray; */
+            z-index: -10;
+        }
+
+        #content {
+            /* position: absolute; */
+            float: right;
+            border: 1px solid lightgray;
+            padding: 10px;
+            z-index: 10;
+            width: 300px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="mynetwork"></div>
+    <div id="content">
+        <b>Instructions:</b>
+        <ul>
+            <li>Zoom in or out to view more.</li>
+            <li>
+                Drag nodes if required for visibility. The nodes may take time to stabilize into a 
+                neat graph.
+            </li>
+            <li>
+                Hover over nodes and edges to view more information. Click on nodes or edges to 
+                view the same information in this box.
+            </li>
+            <li>
+                Checkboxes to the left show different versions of the graph. 
+                <b>It will take some time to update the graph when checked/unchecked</b>.
+            </li>
+        </ul>
+    </div>
+    <div>
+        <input type="checkbox" id="rank"/> Shows size of nodes as per the subgrah rank. 
+        Default graph shows node size as per the subgraph size in terms of triples.<br/>
+        <input type="checkbox" id="weighted" /> Shows only edges that have higher weight 
+        (weight is a combination of number of common items and number of triples connecting the subgraphs).
+    </div>
+
+
+    <script type="text/javascript">
+
+        // Utils
+        function htmlTitle(html) {
+            const container = document.createElement("div");
+            container.innerHTML = html;
+            return container;
+        }
+        var container = document.getElementById("mynetwork");
+        var content = document.getElementById("content");
+        var rankCheckbox = document.getElementById("rank"); // use rank as size
+        var weightedCheckbox = document.getElementById("weighted"); // filter by high weighted edges
+        rankCheckbox.onchange = rankGraph;
+        weightedCheckbox.onchange = weightedGraph;
+
+        // load data
+        graphdata = JSON.parse(graph)
+        edges = graphdata["edges"]
+        nodes = graphdata["nodes"]
+        edges.forEach(element => {
+            element['title'] = htmlTitle(element['title'])
+        });
+        nodes.forEach(element => {
+            element['title'] = htmlTitle(element['title'])
+        });
+        nodes = new vis.DataSet(nodes);
+        edges = new vis.DataSet(edges);
+        alledges = new vis.DataSet(edges);
+
+        // create a network
+        var data = { nodes: nodes, edges: edges, };
+        var options = {
+            height: '100%',
+            width: '100%',
+            physics: {
+                solver: "barnesHut",
+                barnesHut: {
+                    gravitationalConstant: -5000,
+                    centralGravity: 0.4,
+                    springLength: 300,
+                    springConstant: 0.01,
+                    avoidOverlap: 1,
+                },
+                stabilization: {
+                    enabled: true,
+                    iterations: 500
+                },
+                timestep: 0.2,
+            },
+            nodes: {
+                shape: "dot",
+                font: {
+                    size: 40
+                },
+                scaling: {
+                    //   customScalingFunction: function (min, max, total, value) {
+                    //     return value / total;
+                    //   },
+                    min: 30,
+                    max: 150,
+                    // label: {
+                    //     enabled: true
+                    // }
+                },
+                // opacity: 0.5
+            },
+            edges: {
+                color: {
+                    // opacity: 0.5,
+                    highlight: "black",
+                    // inherit: "from"
+                },
+                // width: 0.05
+            },
+            // layout: {
+            //         hierarchical: {},
+            // },
+            interaction: {
+                hideEdgesOnDrag: true,
+            },
+        };
+        var network = new vis.Network(container, data, options);
+        // network.setOptions({
+        //     physics: { enabled: false }
+        // });
+
+        // network functions
+        network.on("click", function (e) {
+            selectedNodes = e.nodes
+            selectedEdges = e.edges
+            if (selectedNodes.length > 0) {
+                selectedNodes.forEach(element => {
+                    content.innerHTML = nodes.get()[element - 1]["title"].innerHTML;
+                });
+            }
+            else {
+                selectedEdgesValues = edges.get().filter(edge => selectedEdges.includes(edge['id']))
+                selectedEdgesValues.forEach(element => {
+                    content.innerHTML = element["title"].innerHTML;
+                });
+            }
+        })
+        network.on("selectNode", function (e) { })
+        network.on("selectEdge", function (e) { })
+        network.on("deselectNode", function (e) { })
+        network.on("deselectEdge", function (e) { })
+
+        function rankGraph(){
+            if (rankCheckbox.checked){
+                nodes.get().forEach(node => nodes.update({id: node.id, value: (50-node.rank)*2}))
+            }
+            else{
+                nodes.get().forEach(node => nodes.update({id: node.id, value: node.percent*2}))
+            }
+            network.fit()
+            network.stabilize(iterations=500)
+        }
+
+        function weightedGraph(){
+            if (weightedCheckbox.checked){
+                edges.get().forEach(edge => edges.update({id: edge.id, hidden: edge.to_hide}))
+            }
+            else{
+                edges.get().forEach(edge => edges.update({id: edge.id, hidden: false}))
+            }
+        }
+
+    </script>
+</body>
+
+</html>
+
+<!-- https://visjs.github.io/vis-network/examples/
+https://github.com/visjs/vis-network/tree/master/examples/network
+https://ww3.arb.ca.gov/ei/tools/lib/vis/docs/network.html -->
