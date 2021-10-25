@@ -9,7 +9,7 @@
     <style type="text/css">
         #mynetwork {
             position: absolute;
-            top: 0;
+            /* top: 0; */
             left: 0;
             width: 100%;
             height: 100%;
@@ -18,17 +18,37 @@
         }
 
         #content {
-            /* position: absolute; */
-            float: right;
+            right: 0px;
+            position: absolute;
             border: 1px solid lightgray;
             padding: 10px;
             z-index: 10;
             width: 300px;
         }
+        .header{
+            padding: 10px;
+        }
     </style>
 </head>
 
 <body>
+    <div class="header">
+        <h1 style="text-align: center; margin: 3px;">Wikidata Subgraphs</h1>
+        <p style="text-align: center; margin: 3px;">Details of the analysis: <a href="https://wikitech.wikimedia.org/wiki/User:AKhatun/Wikidata_Subgraph_Analysis">wikitech/User:AKhatun/Wikidata_Subgraph_Analysis</a></p>
+        <p>
+            The following graph shows the top 50 subgraphs in Wikidata, which form 85% of all Wikidata triples and items. Each node (circle) represents a subgraph and the edges represent connectivity among the nodes. This connectivity includes: number of items shared between the subgraphs number of triples connecting the subgraphs, and number of predicates used in both subgraphs.
+        </p>
+         <p>
+            Heavier edges mean the two subgraphs are overlap a lot in terms of having common items, or are connected by a large number of triples (e.g almost all 'scholarly article' has a 'human' author, therefore connecting the two subgraphs.)
+            Node sizes, on the oter hand, represent the size of the subgraph. By default it shows the relative size of each subgraph by the number of triples contained in each subgraph. There is also an option to view them in order of rank (this ignores the fact that rank 1 is 50% and rank 2 is 8%, and simply takes the rank numbers 1,2,3...)
+        </p>
+    </div>
+    <div class="graph-checkboxes">
+        <input type="checkbox" id="rank"/> Shows size of nodes as per the subgrah rank. 
+        Default graph shows node size as per the subgraph size in terms of triples.<br/>
+        <input type="checkbox" id="weighted" /> Shows only edges that have higher weight 
+        (weight is a combination of number of common items and number of triples connecting the subgraphs).
+    </div>
     <div id="mynetwork"></div>
     <div id="content">
         <b>Instructions:</b>
@@ -48,13 +68,7 @@
             </li>
         </ul>
     </div>
-    <div>
-        <input type="checkbox" id="rank"/> Shows size of nodes as per the subgrah rank. 
-        Default graph shows node size as per the subgraph size in terms of triples.<br/>
-        <input type="checkbox" id="weighted" /> Shows only edges that have higher weight 
-        (weight is a combination of number of common items and number of triples connecting the subgraphs).
-    </div>
-
+    
 
     <script type="text/javascript">
 
