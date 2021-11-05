@@ -1,0 +1,890 @@
+a,b,from_a2b,from_b2a,common_preds,common_items,a_item%,b_item%
+scholarly article,scholarly article,20374824.0,20374824.0,inf,inf,100.0,100.0
+human,human,5484911.0,5484911.0,inf,inf,100.0,100.0
+Wikimedia category,Wikimedia category,4839191.0,4839191.0,inf,inf,100.0,100.0
+taxon,taxon,2432024.0,2432024.0,inf,inf,100.0,100.0
+scholarly article,human,1813767.0,3869.0,525.0,6.0,0.0,0.0
+Wikimedia disambiguation page,Wikimedia disambiguation page,1361143.0,1361143.0,inf,inf,100.0,100.0
+protein,gene,938854.0,937527.0,170.0,12.0,0.0,0.0
+Wikimedia template,Wikimedia template,844472.0,844472.0,inf,inf,100.0,100.0
+astronomical object,astronomical object,567288.0,567288.0,inf,inf,100.0,100.0
+human settlement,human settlement,517033.0,517033.0,inf,inf,100.0,100.0
+mountain,mountain,511433.0,511433.0,inf,inf,100.0,100.0
+river,river,393790.0,393790.0,inf,inf,100.0,100.0
+encyclopedia article,encyclopedia article,386084.0,386084.0,inf,inf,100.0,100.0
+Wikimedia list article,Wikimedia list article,334727.0,334727.0,inf,inf,100.0,100.0
+human,family name,321203.0,163.0,315.0,14.0,0.0,0.0
+hill,hill,312558.0,312558.0,inf,inf,100.0,100.0
+Wikinews article,Wikinews article,286959.0,286959.0,inf,inf,100.0,100.0
+album,album,265649.0,265649.0,inf,inf,100.0,100.0
+village,village,261371.0,261371.0,inf,inf,100.0,100.0
+gene,gene,242673.0,242673.0,inf,inf,100.0,100.0
+film,film,239033.0,239033.0,inf,inf,100.0,100.0
+lake,lake,233984.0,233984.0,inf,inf,100.0,100.0
+film,human,229953.0,13087.0,732.0,26.0,0.01,0.0
+calendar day of a given year,calendar day of a given year,189363.0,189363.0,inf,inf,100.0,100.0
+watercourse,watercourse,174349.0,174349.0,inf,inf,100.0,100.0
+scholarly article,chemical compound,173924.0,136.0,237.0,4.0,0.0,0.0
+church building,church building,160597.0,160597.0,inf,inf,100.0,100.0
+sports season,sports season,158571.0,158571.0,inf,inf,100.0,100.0
+Wikimedia category,taxon,156468.0,156440.0,259.0,4.0,0.0,0.0
+biographical article,biographical article,151857.0,151857.0,inf,inf,100.0,100.0
+island,island,147736.0,147736.0,inf,inf,100.0,100.0
+family name,family name,142403.0,142403.0,inf,inf,100.0,100.0
+literary work,literary work,135498.0,135498.0,inf,inf,100.0,100.0
+business,business,132634.0,132634.0,inf,inf,100.0,100.0
+Wikimedia disambiguation page,family name,131914.0,127352.0,259.0,810.0,0.06,0.17
+prime number,prime number,127504.0,127504.0,inf,inf,100.0,100.0
+stream,stream,124009.0,124009.0,inf,inf,100.0,100.0
+street,street,115482.0,115482.0,inf,inf,100.0,100.0
+hamlet,hamlet,112591.0,112591.0,inf,inf,100.0,100.0
+scholarly article,group of stereoisomers,99653.0,16.0,130.0,0.0,0.0,0.0
+village in India,village in India,97851.0,97851.0,inf,inf,100.0,100.0
+human,position,95977.0,8917.0,574.0,2.0,0.0,0.0
+human,biographical article,93354.0,90510.0,128.0,2.0,0.0,0.0
+scholarly article,protein,91295.0,3003.0,153.0,0.0,0.0,0.0
+human,encyclopedia article,82422.0,65440.0,151.0,2.0,0.0,0.0
+scholarly article,taxon,81387.0,374.0,324.0,10.0,0.0,0.0
+building,building,73461.0,73461.0,inf,inf,100.0,100.0
+painting,human,67004.0,15820.0,579.0,10.0,0.0,0.0
+house,house,57060.0,57060.0,inf,inf,100.0,100.0
+Wikimedia category,human,55144.0,44306.0,493.0,18.0,0.0,0.0
+"version, edition, or translation","version, edition, or translation",52245.0,52245.0,inf,inf,100.0,100.0
+literary work,human,47862.0,14042.0,862.0,2.0,0.0,0.0
+taxon,human,45293.0,794.0,529.0,4.0,0.0,0.0
+scholarly article,cell line,44442.0,19405.0,48.0,0.0,0.0,0.0
+Wikimedia list article,Wikimedia category,38805.0,38535.0,445.0,66.0,0.02,0.0
+"version, edition, or translation",human,38224.0,2736.0,722.0,0.0,0.0,0.0
+chemical compound,taxon,35173.0,53.0,324.0,0.0,0.0,0.0
+architectural structure,architectural structure,34207.0,34207.0,inf,inf,100.0,100.0
+album,human,30280.0,2011.0,515.0,0.0,0.0,0.0
+painting,painting,29822.0,29822.0,inf,inf,100.0,100.0
+chemical compound,chemical compound,28553.0,28553.0,inf,inf,100.0,100.0
+human,village,26508.0,353.0,519.0,12.0,0.0,0.0
+group of stereoisomers,taxon,25789.0,1.0,138.0,0.0,0.0,0.0
+human,human settlement,24503.0,782.0,693.0,2.0,0.0,0.0
+street,human,18197.0,1662.0,389.0,0.0,0.0,0.0
+business,human,17038.0,13624.0,1286.0,6.0,0.0,0.0
+cell line,cell line,16937.0,16937.0,inf,inf,100.0,100.0
+primary school,primary school,16357.0,16357.0,inf,inf,100.0,100.0
+print,human,13499.0,200.0,229.0,0.0,0.0,0.0
+church building,village,13347.0,61.0,522.0,14.0,0.01,0.01
+church building,Wikimedia category,12488.0,10773.0,308.0,4.0,0.0,0.0
+literary work,"version, edition, or translation",11771.0,8557.0,693.0,1304.0,0.79,0.83
+human,Wikimedia disambiguation page,11746.0,2728.0,569.0,18.0,0.0,0.0
+position,position,11477.0,11477.0,inf,inf,100.0,100.0
+watercourse,river,9409.0,8971.0,263.0,14972.0,8.57,3.75
+hill,mountain,8553.0,8470.0,395.0,37102.0,11.34,7.06
+house,street,7840.0,76.0,381.0,2.0,0.0,0.0
+building,street,7515.0,121.0,479.0,44.0,0.02,0.01
+protein,protein,7504.0,7504.0,inf,inf,100.0,100.0
+human settlement,Wikimedia category,7433.0,5074.0,348.0,16.0,0.0,0.0
+Wikimedia category,position,7294.0,7251.0,276.0,4.0,0.0,0.0
+building,village,7024.0,11.0,541.0,20.0,0.01,0.01
+sports season,human,7007.0,5448.0,302.0,0.0,0.0,0.0
+house,village,6855.0,6.0,405.0,6.0,0.0,0.0
+sports season,Wikimedia category,6814.0,6786.0,188.0,0.0,0.0,0.0
+building,human,6777.0,2687.0,740.0,0.0,0.0,0.0
+calendar day of a given year,Wikimedia category,6461.0,6458.0,50.0,12.0,0.01,0.0
+church building,human,6372.0,4844.0,635.0,2.0,0.0,0.0
+human,hamlet,6331.0,46.0,266.0,0.0,0.0,0.0
+Wikimedia disambiguation page,album,6330.0,4938.0,275.0,0.0,0.0,0.0
+clinical trial,scholarly article,6235.0,333.0,98.0,562.0,0.16,0.0
+lake,river,6161.0,4251.0,412.0,14.0,0.01,0.0
+business,street,6087.0,98.0,426.0,0.0,0.0,0.0
+architectural structure,village,6058.0,4.0,480.0,0.0,0.0,0.0
+collection,collection,5875.0,5875.0,inf,inf,100.0,100.0
+Wikimedia category,business,5472.0,5148.0,411.0,2.0,0.0,0.0
+astronomical object,human,5110.0,103.0,410.0,0.0,0.0,0.0
+church building,Wikimedia list article,4839.0,25.0,394.0,6.0,0.0,0.0
+church building,street,4696.0,361.0,458.0,6.0,0.0,0.0
+village,Wikimedia category,4686.0,3911.0,293.0,2.0,0.0,0.0
+literary work,scholarly article,4506.0,4125.0,432.0,112.0,0.07,0.0
+Wikimedia category,river,4139.0,3952.0,225.0,0.0,0.0,0.0
+river,stream,3801.0,3682.0,256.0,2204.0,0.55,1.77
+taxon,encyclopedia article,3725.0,2527.0,115.0,0.0,0.0,0.0
+hamlet,village,3375.0,2749.0,386.0,5282.0,4.47,1.92
+church building,human settlement,3109.0,89.0,624.0,54.0,0.03,0.01
+primary school,village,2792.0,3.0,256.0,0.0,0.0,0.0
+Wikimedia list article,human,2760.0,1973.0,690.0,14.0,0.0,0.0
+"version, edition, or translation",scholarly article,2689.0,2032.0,435.0,640.0,0.41,0.0
+film,literary work,2620.0,2268.0,607.0,74.0,0.03,0.04
+house,human,2532.0,1023.0,446.0,2.0,0.0,0.0
+position,Wikimedia list article,2510.0,2417.0,380.0,330.0,0.27,0.1
+mountain,Wikimedia category,2368.0,2089.0,246.0,0.0,0.0,0.0
+painting,church building,2271.0,39.0,381.0,0.0,0.0,0.0
+human settlement,village,2187.0,2162.0,680.0,2986.0,0.53,1.09
+encyclopedia article,biographical article,2159.0,1297.0,84.0,42.0,0.01,0.03
+clinical trial,chemical compound,2136.0,1.0,79.0,0.0,0.0,0.0
+astronomical object,Wikimedia category,2047.0,2038.0,240.0,0.0,0.0,0.0
+primary school,street,2046.0,8.0,248.0,0.0,0.0,0.0
+architectural structure,human,2033.0,884.0,601.0,2.0,0.0,0.0
+river,encyclopedia article,1977.0,1301.0,101.0,0.0,0.0,0.0
+house,Wikimedia list article,1950.0,56.0,308.0,2.0,0.0,0.0
+building,Wikimedia list article,1840.0,64.0,437.0,10.0,0.0,0.0
+human settlement,Wikimedia list article,1828.0,143.0,464.0,22.0,0.0,0.01
+film,Wikimedia disambiguation page,1812.0,387.0,335.0,8.0,0.0,0.0
+architectural structure,Wikimedia list article,1782.0,31.0,394.0,12.0,0.01,0.0
+island,Wikimedia category,1739.0,1112.0,258.0,2.0,0.0,0.0
+Wikimedia category,Wikimedia disambiguation page,1715.0,1597.0,347.0,4.0,0.0,0.0
+hamlet,human settlement,1663.0,1590.0,387.0,3120.0,2.64,0.55
+street,village,1648.0,20.0,406.0,20.0,0.0,0.01
+human,village in India,1622.0,10.0,168.0,0.0,0.0,0.0
+film,business,1481.0,119.0,538.0,2.0,0.0,0.0
+human,island,1459.0,384.0,485.0,0.0,0.0,0.0
+protein,chemical compound,1382.0,839.0,233.0,22.0,0.0,0.0
+film,album,1335.0,922.0,484.0,162.0,0.06,0.06
+primary school,Wikimedia category,1278.0,1243.0,194.0,0.0,0.0,0.0
+item of collection or exhibition,collection,1214.0,0.0,166.0,0.0,0.0,0.0
+human settlement,encyclopedia article,1194.0,691.0,119.0,0.0,0.0,0.0
+scholarly article,Wikimedia disambiguation page,1184.0,113.0,300.0,0.0,0.0,0.0
+item of collection or exhibition,item of collection or exhibition,1179.0,1179.0,inf,inf,100.0,100.0
+painting,taxon,1175.0,1.0,282.0,0.0,0.0,0.0
+collection,human,1099.0,724.0,507.0,0.0,0.0,0.0
+business,human settlement,1082.0,45.0,671.0,6.0,0.0,0.0
+building,Wikimedia category,1071.0,823.0,335.0,0.0,0.0,0.0
+street,human settlement,1062.0,29.0,450.0,38.0,0.01,0.01
+architectural structure,church building,1042.0,1008.0,676.0,2622.0,1.8,1.24
+human,primary school,1031.0,631.0,290.0,0.0,0.0,0.0
+building,business,997.0,442.0,791.0,116.0,0.04,0.06
+astronomical object,scholarly article,973.0,921.0,236.0,2.0,0.0,0.0
+human settlement,Wikimedia disambiguation page,934.0,174.0,393.0,16.0,0.0,0.0
+scholarly article,gene,930.0,36.0,124.0,0.0,0.0,0.0
+clinical trial,human,880.0,2.0,110.0,0.0,0.0,0.0
+village,Wikimedia disambiguation page,874.0,81.0,331.0,6.0,0.0,0.0
+human,Wikimedia template,855.0,827.0,180.0,0.0,0.0,0.0
+family name,Wikimedia category,848.0,846.0,193.0,2.0,0.0,0.0
+primary school,human settlement,843.0,1.0,306.0,0.0,0.0,0.0
+encyclopedia article,Wikimedia disambiguation page,829.0,441.0,118.0,0.0,0.0,0.0
+street,Wikimedia category,823.0,803.0,239.0,0.0,0.0,0.0
+mountain,human,816.0,661.0,435.0,4.0,0.0,0.0
+architectural structure,street,802.0,58.0,452.0,34.0,0.02,0.01
+building,human settlement,733.0,45.0,697.0,48.0,0.02,0.01
+literary work,Wikimedia category,730.0,719.0,324.0,0.0,0.0,0.0
+human settlement,island,716.0,407.0,642.0,432.0,0.08,0.29
+cell line,taxon,706.0,1.0,46.0,0.0,0.0,0.0
+clinical trial,business,701.0,0.0,98.0,0.0,0.0,0.0
+village,Wikimedia list article,697.0,158.0,386.0,4.0,0.0,0.0
+business,village,690.0,21.0,501.0,0.0,0.0,0.0
+village-level division in China,village-level division in China,683.0,683.0,inf,inf,100.0,100.0
+island,encyclopedia article,671.0,408.0,102.0,0.0,0.0,0.0
+house,building,670.0,644.0,662.0,942.0,0.48,0.35
+river,mountain,667.0,95.0,418.0,0.0,0.0,0.0
+hamlet,Wikimedia category,654.0,579.0,183.0,0.0,0.0,0.0
+literary work,Wikimedia disambiguation page,642.0,183.0,385.0,4.0,0.0,0.0
+village,encyclopedia article,633.0,538.0,115.0,0.0,0.0,0.0
+scholarly article,village,626.0,1.0,253.0,0.0,0.0,0.0
+human,river,620.0,199.0,396.0,0.0,0.0,0.0
+group of stereoisomers,group of stereoisomers,610.0,610.0,inf,inf,100.0,100.0
+human settlement,village-level division in China,603.0,61.0,73.0,60.0,0.01,0.01
+church building,hamlet,597.0,10.0,300.0,6.0,0.0,0.01
+house,human settlement,577.0,162.0,489.0,14.0,0.01,0.0
+literary work,church building,576.0,207.0,399.0,0.0,0.0,0.0
+street,taxon,573.0,0.0,244.0,0.0,0.0,0.0
+"version, edition, or translation",business,566.0,29.0,544.0,2.0,0.0,0.0
+human settlement,river,542.0,284.0,459.0,30.0,0.01,0.01
+river,Wikimedia disambiguation page,529.0,56.0,279.0,4.0,0.0,0.0
+item of collection or exhibition,human,518.0,26.0,242.0,0.0,0.0,0.0
+mountain,island,496.0,480.0,510.0,104.0,0.02,0.07
+village,river,495.0,301.0,399.0,12.0,0.0,0.0
+hamlet,Wikimedia disambiguation page,493.0,15.0,196.0,0.0,0.0,0.0
+architectural structure,Wikimedia category,484.0,423.0,295.0,0.0,0.0,0.0
+architectural structure,building,482.0,444.0,821.0,946.0,0.65,0.36
+Wikinews article,human,481.0,84.0,228.0,10.0,0.0,0.0
+album,business,464.0,27.0,389.0,0.0,0.0,0.0
+business,Wikimedia disambiguation page,463.0,205.0,474.0,6.0,0.0,0.0
+literary work,business,458.0,25.0,635.0,0.0,0.0,0.0
+print,print,449.0,449.0,inf,inf,100.0,100.0
+stream,lake,433.0,360.0,240.0,0.0,0.0,0.0
+chemical compound,encyclopedia article,420.0,294.0,93.0,0.0,0.0,0.0
+Wikimedia list article,sports season,418.0,227.0,233.0,236.0,0.07,0.15
+stream,watercourse,414.0,414.0,194.0,566.0,0.45,0.32
+church building,island,414.0,3.0,484.0,0.0,0.0,0.0
+chemical compound,group of stereoisomers,407.0,127.0,216.0,22.0,0.0,0.02
+Wikimedia category,Wikimedia template,399.0,149.0,162.0,48.0,0.0,0.01
+architectural structure,house,398.0,293.0,567.0,658.0,0.45,0.33
+encyclopedia article,"version, edition, or translation",386.0,307.0,136.0,42.0,0.01,0.03
+lake,Wikimedia category,385.0,321.0,223.0,0.0,0.0,0.0
+mountain,human settlement,374.0,161.0,562.0,82.0,0.02,0.01
+position,encyclopedia article,370.0,213.0,107.0,0.0,0.0,0.0
+lake,watercourse,367.0,329.0,246.0,4.0,0.0,0.0
+island,lake,357.0,199.0,444.0,0.0,0.0,0.0
+mountain,encyclopedia article,348.0,218.0,108.0,0.0,0.0,0.0
+architectural structure,human settlement,345.0,32.0,612.0,46.0,0.03,0.01
+taxon,Wikimedia disambiguation page,342.0,221.0,384.0,20.0,0.0,0.0
+position,human settlement,321.0,182.0,394.0,0.0,0.0,0.0
+lake,human,318.0,271.0,380.0,2.0,0.0,0.0
+street,river,311.0,5.0,332.0,2.0,0.0,0.0
+village,island,311.0,204.0,534.0,144.0,0.05,0.1
+lake,encyclopedia article,308.0,218.0,100.0,0.0,0.0,0.0
+protein,taxon,302.0,10.0,171.0,0.0,0.0,0.0
+Wikinews article,calendar day of a given year,297.0,18.0,43.0,36.0,0.01,0.02
+architectural structure,business,296.0,77.0,662.0,16.0,0.01,0.01
+painting,street,289.0,7.0,262.0,0.0,0.0,0.0
+building,hamlet,286.0,6.0,319.0,2.0,0.0,0.0
+scholarly article,business,285.0,39.0,397.0,0.0,0.0,0.0
+"version, edition, or translation",album,284.0,81.0,441.0,122.0,0.08,0.05
+Wikimedia template,taxon,284.0,276.0,129.0,0.0,0.0,0.0
+Wikimedia disambiguation page,Wikimedia list article,278.0,250.0,446.0,294.0,0.02,0.09
+Wikimedia category,film,278.0,215.0,286.0,2.0,0.0,0.0
+painting,river,276.0,2.0,248.0,0.0,0.0,0.0
+astronomical object,encyclopedia article,267.0,147.0,101.0,0.0,0.0,0.0
+church building,building,264.0,256.0,832.0,380.0,0.18,0.14
+literary work,encyclopedia article,258.0,162.0,139.0,0.0,0.0,0.0
+Wikimedia template,sports season,253.0,247.0,114.0,0.0,0.0,0.0
+painting,Wikimedia disambiguation page,237.0,51.0,302.0,0.0,0.0,0.0
+position,Wikimedia template,236.0,200.0,128.0,0.0,0.0,0.0
+scholarly article,island,234.0,0.0,239.0,0.0,0.0,0.0
+village in India,human settlement,228.0,117.0,203.0,142.0,0.1,0.03
+painting,building,224.0,6.0,393.0,0.0,0.0,0.0
+painting,literary work,220.0,115.0,416.0,2.0,0.0,0.0
+print,village,219.0,2.0,131.0,0.0,0.0,0.0
+island,river,218.0,116.0,430.0,0.0,0.0,0.0
+hill,Wikimedia category,217.0,188.0,182.0,0.0,0.0,0.0
+Wikimedia list article,album,214.0,51.0,333.0,16.0,0.0,0.01
+mountain,Wikimedia disambiguation page,210.0,66.0,293.0,2.0,0.0,0.0
+Wikimedia list article,taxon,209.0,47.0,369.0,4.0,0.0,0.0
+Wikimedia list article,business,209.0,131.0,558.0,100.0,0.03,0.05
+"version, edition, or translation",chemical compound,208.0,12.0,193.0,0.0,0.0,0.0
+Wikimedia template,Wikimedia list article,203.0,191.0,176.0,20.0,0.0,0.01
+scholarly article,film,202.0,19.0,300.0,0.0,0.0,0.0
+astronomical object,taxon,196.0,15.0,313.0,0.0,0.0,0.0
+chemical compound,Wikimedia category,195.0,190.0,171.0,0.0,0.0,0.0
+village,lake,189.0,182.0,425.0,2.0,0.0,0.0
+human settlement,taxon,188.0,104.0,375.0,0.0,0.0,0.0
+scholarly article,human settlement,185.0,6.0,283.0,0.0,0.0,0.0
+hill,village,181.0,29.0,359.0,16.0,0.0,0.01
+scholarly article,family name,177.0,30.0,202.0,2.0,0.0,0.0
+hill,island,176.0,46.0,375.0,14.0,0.0,0.01
+house,hamlet,175.0,152.0,254.0,0.0,0.0,0.0
+"version, edition, or translation",Wikimedia category,172.0,167.0,280.0,2.0,0.0,0.0
+scholarly article,album,170.0,0.0,269.0,0.0,0.0,0.0
+film,street,163.0,8.0,243.0,0.0,0.0,0.0
+film,human settlement,163.0,24.0,356.0,0.0,0.0,0.0
+street,mountain,162.0,9.0,360.0,6.0,0.0,0.0
+taxon,island,160.0,43.0,320.0,0.0,0.0,0.0
+primary school,building,159.0,96.0,360.0,190.0,0.12,0.07
+painting,mountain,158.0,6.0,269.0,0.0,0.0,0.0
+scholarly article,church building,157.0,5.0,284.0,0.0,0.0,0.0
+painting,"version, edition, or translation",155.0,49.0,362.0,14.0,0.0,0.01
+human,hill,154.0,96.0,284.0,2.0,0.0,0.0
+"version, edition, or translation",film,152.0,74.0,500.0,20.0,0.01,0.01
+church building,Wikimedia disambiguation page,151.0,20.0,315.0,0.0,0.0,0.0
+scholarly article,river,150.0,0.0,205.0,0.0,0.0,0.0
+painting,business,148.0,57.0,442.0,0.0,0.0,0.0
+lake,Wikimedia disambiguation page,146.0,12.0,261.0,10.0,0.0,0.0
+"version, edition, or translation",Wikimedia disambiguation page,146.0,134.0,325.0,14.0,0.01,0.0
+astronomical object,business,145.0,35.0,373.0,2.0,0.0,0.0
+house,Wikimedia category,143.0,128.0,244.0,0.0,0.0,0.0
+street,island,142.0,4.0,384.0,2.0,0.0,0.0
+print,church building,141.0,0.0,163.0,0.0,0.0,0.0
+painting,human settlement,139.0,1.0,351.0,2.0,0.0,0.0
+biographical article,"version, edition, or translation",139.0,12.0,108.0,10.0,0.01,0.01
+scholarly article,mountain,139.0,2.0,202.0,0.0,0.0,0.0
+architectural structure,hamlet,139.0,3.0,286.0,2.0,0.0,0.0
+encyclopedia article,scholarly article,139.0,47.0,137.0,60.0,0.01,0.0
+building,island,134.0,5.0,524.0,4.0,0.0,0.0
+business,Wikimedia template,134.0,115.0,161.0,0.0,0.0,0.0
+position,building,131.0,73.0,379.0,0.0,0.0,0.0
+painting,island,131.0,1.0,281.0,0.0,0.0,0.0
+mountain,village,130.0,84.0,495.0,36.0,0.01,0.01
+literary work,street,130.0,26.0,279.0,0.0,0.0,0.0
+Wikimedia disambiguation page,sports season,129.0,93.0,182.0,2.0,0.0,0.0
+street,Wikimedia disambiguation page,129.0,23.0,251.0,0.0,0.0,0.0
+lake,human settlement,129.0,101.0,472.0,20.0,0.01,0.0
+cell line,Wikimedia disambiguation page,128.0,1.0,49.0,0.0,0.0,0.0
+astronomical object,Wikimedia disambiguation page,127.0,30.0,287.0,2.0,0.0,0.0
+street,hill,126.0,58.0,300.0,44.0,0.01,0.01
+painting,village,124.0,2.0,299.0,2.0,0.0,0.0
+Wikimedia list article,astronomical object,122.0,44.0,321.0,2.0,0.0,0.0
+scholarly article,painting,121.0,54.0,286.0,0.0,0.0,0.0
+film,Wikimedia list article,120.0,103.0,426.0,146.0,0.06,0.04
+"version, edition, or translation",village,120.0,15.0,289.0,0.0,0.0,0.0
+collection,"version, edition, or translation",120.0,40.0,355.0,10.0,0.0,0.01
+hill,human settlement,119.0,54.0,395.0,54.0,0.02,0.01
+business,chemical compound,119.0,14.0,264.0,0.0,0.0,0.0
+island,Wikimedia disambiguation page,119.0,20.0,323.0,2.0,0.0,0.0
+painting,collection,118.0,22.0,306.0,0.0,0.0,0.0
+hamlet,river,117.0,49.0,260.0,4.0,0.0,0.0
+painting,position,117.0,1.0,281.0,0.0,0.0,0.0
+family name,encyclopedia article,114.0,107.0,109.0,0.0,0.0,0.0
+Wikimedia category,stream,111.0,102.0,141.0,0.0,0.0,0.0
+literary work,taxon,111.0,26.0,367.0,0.0,0.0,0.0
+sports season,business,109.0,24.0,258.0,0.0,0.0,0.0
+mountain,Wikimedia list article,109.0,8.0,330.0,4.0,0.0,0.0
+street,hamlet,108.0,26.0,272.0,26.0,0.0,0.02
+film,island,108.0,3.0,269.0,0.0,0.0,0.0
+literary work,album,108.0,101.0,443.0,32.0,0.02,0.01
+Wikimedia list article,"version, edition, or translation",106.0,101.0,395.0,118.0,0.04,0.07
+gene,taxon,105.0,0.0,135.0,0.0,0.0,0.0
+Wikimedia list article,literary work,103.0,79.0,470.0,14.0,0.0,0.01
+film,village,102.0,15.0,290.0,2.0,0.0,0.0
+painting,lake,100.0,3.0,253.0,0.0,0.0,0.0
+Wikimedia template,gene,98.0,26.0,85.0,52.0,0.01,0.0
+chemical compound,human,98.0,73.0,308.0,0.0,0.0,0.0
+print,river,97.0,1.0,128.0,0.0,0.0,0.0
+watercourse,Wikimedia category,96.0,94.0,147.0,0.0,0.0,0.0
+print,literary work,96.0,9.0,200.0,2.0,0.0,0.0
+"version, edition, or translation",taxon,95.0,33.0,285.0,0.0,0.0,0.0
+painting,house,95.0,19.0,293.0,0.0,0.0,0.0
+sports season,human settlement,92.0,8.0,202.0,6.0,0.0,0.0
+church building,mountain,92.0,38.0,466.0,4.0,0.0,0.0
+watercourse,mountain,86.0,2.0,239.0,0.0,0.0,0.0
+Wikimedia disambiguation page,position,85.0,79.0,324.0,4.0,0.0,0.0
+"version, edition, or translation",Wikinews article,84.0,83.0,169.0,166.0,0.11,0.06
+architectural structure,island,83.0,0.0,455.0,0.0,0.0,0.0
+literary work,human settlement,83.0,11.0,424.0,0.0,0.0,0.0
+scholarly article,position,82.0,1.0,247.0,0.0,0.0,0.0
+Wikimedia category,painting,82.0,47.0,287.0,2.0,0.0,0.0
+gene,Wikimedia disambiguation page,82.0,5.0,128.0,0.0,0.0,0.0
+literary work,island,81.0,8.0,330.0,0.0,0.0,0.0
+business,island,81.0,17.0,485.0,0.0,0.0,0.0
+business,position,80.0,39.0,482.0,0.0,0.0,0.0
+family name,human settlement,79.0,50.0,239.0,2.0,0.0,0.0
+"version, edition, or translation",print,78.0,45.0,198.0,10.0,0.01,0.01
+astronomical object,mountain,77.0,15.0,277.0,0.0,0.0,0.0
+hamlet,encyclopedia article,76.0,60.0,88.0,0.0,0.0,0.0
+human,calendar day of a given year,76.0,3.0,54.0,0.0,0.0,0.0
+"version, edition, or translation",astronomical object,73.0,23.0,270.0,0.0,0.0,0.0
+business,encyclopedia article,72.0,55.0,131.0,0.0,0.0,0.0
+painting,architectural structure,71.0,2.0,344.0,0.0,0.0,0.0
+film,taxon,71.0,36.0,298.0,0.0,0.0,0.0
+collection,Wikimedia category,71.0,57.0,280.0,0.0,0.0,0.0
+architectural structure,river,70.0,5.0,378.0,0.0,0.0,0.0
+"version, edition, or translation",Wikimedia template,69.0,68.0,145.0,0.0,0.0,0.0
+Wikimedia list article,encyclopedia article,69.0,43.0,129.0,0.0,0.0,0.0
+watercourse,village,68.0,48.0,238.0,14.0,0.01,0.01
+astronomical object,river,67.0,1.0,257.0,0.0,0.0,0.0
+street,lake,66.0,8.0,332.0,0.0,0.0,0.0
+print,taxon,66.0,0.0,136.0,0.0,0.0,0.0
+taxon,river,66.0,56.0,290.0,0.0,0.0,0.0
+scholarly article,lake,66.0,0.0,201.0,0.0,0.0,0.0
+lake,taxon,65.0,36.0,271.0,0.0,0.0,0.0
+collection,literary work,65.0,44.0,368.0,52.0,0.01,0.03
+human,watercourse,64.0,35.0,209.0,0.0,0.0,0.0
+film,building,64.0,2.0,367.0,0.0,0.0,0.0
+business,taxon,64.0,34.0,421.0,0.0,0.0,0.0
+"version, edition, or translation",human settlement,63.0,22.0,334.0,0.0,0.0,0.0
+house,business,63.0,16.0,489.0,2.0,0.0,0.0
+scholarly article,building,63.0,25.0,299.0,2.0,0.0,0.0
+literary work,village,63.0,14.0,353.0,2.0,0.0,0.0
+human settlement,watercourse,62.0,59.0,260.0,48.0,0.01,0.03
+collection,Wikimedia list article,62.0,8.0,337.0,0.0,0.0,0.0
+house,island,62.0,0.0,390.0,0.0,0.0,0.0
+building,Wikimedia disambiguation page,61.0,10.0,351.0,0.0,0.0,0.0
+group of stereoisomers,protein,60.0,26.0,153.0,0.0,0.0,0.0
+stream,human settlement,60.0,45.0,240.0,4.0,0.0,0.0
+astronomical object,human settlement,59.0,7.0,346.0,0.0,0.0,0.0
+taxon,mountain,59.0,27.0,298.0,2.0,0.0,0.0
+street,astronomical object,59.0,1.0,245.0,0.0,0.0,0.0
+sports season,building,58.0,3.0,200.0,0.0,0.0,0.0
+sports season,architectural structure,58.0,1.0,189.0,0.0,0.0,0.0
+Wikinews article,sports season,58.0,1.0,135.0,2.0,0.0,0.0
+hamlet,island,57.0,10.0,318.0,2.0,0.0,0.0
+scholarly article,architectural structure,57.0,2.0,256.0,0.0,0.0,0.0
+hill,encyclopedia article,56.0,27.0,88.0,0.0,0.0,0.0
+position,village,56.0,54.0,325.0,0.0,0.0,0.0
+clinical trial,clinical trial,56.0,56.0,inf,inf,100.0,100.0
+film,position,54.0,1.0,302.0,0.0,0.0,0.0
+street,Wikimedia list article,54.0,22.0,310.0,0.0,0.0,0.0
+collection,village,54.0,3.0,326.0,0.0,0.0,0.0
+item of collection or exhibition,taxon,52.0,1.0,146.0,0.0,0.0,0.0
+"version, edition, or translation",position,51.0,24.0,292.0,0.0,0.0,0.0
+stream,village,50.0,33.0,218.0,0.0,0.0,0.0
+clinical trial,Wikimedia disambiguation page,50.0,0.0,77.0,0.0,0.0,0.0
+island,Wikimedia list article,49.0,37.0,357.0,2.0,0.0,0.0
+taxon,village,49.0,46.0,307.0,2.0,0.0,0.0
+print,painting,49.0,32.0,242.0,82.0,0.07,0.02
+clinical trial,group of stereoisomers,49.0,0.0,49.0,0.0,0.0,0.0
+print,Wikimedia disambiguation page,48.0,5.0,136.0,0.0,0.0,0.0
+album,taxon,48.0,10.0,232.0,0.0,0.0,0.0
+chemical compound,Wikimedia disambiguation page,48.0,21.0,269.0,8.0,0.0,0.0
+business,family name,47.0,27.0,261.0,2.0,0.0,0.0
+film,mountain,47.0,16.0,253.0,0.0,0.0,0.0
+Wikimedia category,album,46.0,37.0,245.0,0.0,0.0,0.0
+item of collection or exhibition,business,45.0,0.0,207.0,0.0,0.0,0.0
+Wikimedia list article,river,45.0,26.0,312.0,4.0,0.0,0.0
+street,stream,45.0,5.0,201.0,0.0,0.0,0.0
+Wikimedia list article,family name,44.0,20.0,244.0,6.0,0.0,0.0
+watercourse,Wikimedia disambiguation page,44.0,13.0,170.0,2.0,0.0,0.0
+church building,house,43.0,43.0,632.0,40.0,0.02,0.02
+"version, edition, or translation",church building,43.0,34.0,340.0,0.0,0.0,0.0
+film,river,43.0,8.0,239.0,0.0,0.0,0.0
+Wikimedia list article,painting,42.0,27.0,347.0,0.0,0.0,0.0
+building,river,42.0,8.0,407.0,0.0,0.0,0.0
+stream,island,42.0,6.0,229.0,0.0,0.0,0.0
+film,family name,42.0,5.0,203.0,0.0,0.0,0.0
+family name,taxon,42.0,14.0,229.0,0.0,0.0,0.0
+lake,mountain,41.0,35.0,443.0,12.0,0.0,0.0
+print,position,40.0,0.0,118.0,0.0,0.0,0.0
+stream,Wikimedia disambiguation page,40.0,9.0,168.0,0.0,0.0,0.0
+street,position,40.0,8.0,242.0,0.0,0.0,0.0
+river,hill,38.0,17.0,324.0,0.0,0.0,0.0
+scholarly article,Wikimedia list article,37.0,17.0,326.0,0.0,0.0,0.0
+family name,position,37.0,6.0,215.0,2.0,0.0,0.0
+human,stream,37.0,27.0,191.0,0.0,0.0,0.0
+watercourse,encyclopedia article,36.0,27.0,73.0,0.0,0.0,0.0
+print,hamlet,36.0,0.0,101.0,0.0,0.0,0.0
+hill,Wikimedia disambiguation page,35.0,23.0,212.0,0.0,0.0,0.0
+prime number,human,35.0,10.0,88.0,0.0,0.0,0.0
+church building,village in India,35.0,2.0,167.0,4.0,0.0,0.0
+astronomical object,island,35.0,2.0,302.0,0.0,0.0,0.0
+literary work,Wikimedia template,34.0,33.0,150.0,6.0,0.0,0.0
+family name,village,34.0,24.0,224.0,0.0,0.0,0.0
+village in India,Wikimedia category,34.0,29.0,130.0,0.0,0.0,0.0
+cell line,chemical compound,33.0,2.0,47.0,0.0,0.0,0.0
+Wikimedia template,protein,33.0,26.0,92.0,0.0,0.0,0.0
+Wikinews article,Wikimedia category,33.0,32.0,167.0,12.0,0.0,0.0
+prime number,Wikimedia disambiguation page,33.0,2.0,84.0,0.0,0.0,0.0
+literary work,river,33.0,14.0,298.0,0.0,0.0,0.0
+scholarly article,biographical article,33.0,9.0,104.0,42.0,0.0,0.03
+painting,family name,32.0,2.0,205.0,0.0,0.0,0.0
+painting,astronomical object,32.0,2.0,263.0,0.0,0.0,0.0
+encyclopedia article,church building,32.0,32.0,122.0,0.0,0.0,0.0
+painting,film,31.0,25.0,348.0,0.0,0.0,0.0
+church building,business,31.0,3.0,637.0,0.0,0.0,0.0
+chemical compound,gene,31.0,10.0,162.0,6.0,0.0,0.0
+scholarly article,hill,31.0,0.0,158.0,0.0,0.0,0.0
+sports season,village,31.0,0.0,175.0,0.0,0.0,0.0
+business,river,31.0,13.0,379.0,0.0,0.0,0.0
+"version, edition, or translation",family name,31.0,14.0,210.0,0.0,0.0,0.0
+scholarly article,collection,30.0,17.0,274.0,0.0,0.0,0.0
+collection,architectural structure,30.0,30.0,450.0,2.0,0.0,0.0
+business,collection,30.0,17.0,529.0,4.0,0.0,0.0
+clinical trial,protein,29.0,0.0,56.0,0.0,0.0,0.0
+painting,hill,29.0,1.0,211.0,0.0,0.0,0.0
+primary school,hamlet,29.0,6.0,179.0,0.0,0.0,0.0
+sports season,island,29.0,0.0,168.0,0.0,0.0,0.0
+"version, edition, or translation",building,29.0,22.0,358.0,0.0,0.0,0.0
+street,family name,29.0,1.0,170.0,0.0,0.0,0.0
+literary work,building,29.0,17.0,434.0,2.0,0.0,0.0
+literary work,position,29.0,9.0,371.0,0.0,0.0,0.0
+print,house,28.0,2.0,139.0,0.0,0.0,0.0
+church building,river,28.0,6.0,371.0,0.0,0.0,0.0
+biographical article,literary work,27.0,7.0,111.0,0.0,0.0,0.0
+astronomical object,literary work,27.0,24.0,331.0,0.0,0.0,0.0
+human,village-level division in China,27.0,1.0,68.0,0.0,0.0,0.0
+print,hill,27.0,1.0,111.0,0.0,0.0,0.0
+print,building,26.0,1.0,159.0,0.0,0.0,0.0
+business,hamlet,26.0,3.0,277.0,0.0,0.0,0.0
+hill,hamlet,26.0,5.0,246.0,4.0,0.0,0.0
+collection,building,26.0,21.0,482.0,10.0,0.0,0.0
+primary school,Wikimedia list article,26.0,0.0,211.0,0.0,0.0,0.0
+print,family name,26.0,0.0,109.0,0.0,0.0,0.0
+"version, edition, or translation",island,26.0,9.0,273.0,0.0,0.0,0.0
+Wikimedia disambiguation page,Wikimedia template,25.0,24.0,144.0,14.0,0.0,0.0
+scholarly article,hamlet,25.0,0.0,149.0,0.0,0.0,0.0
+position,house,25.0,21.0,263.0,0.0,0.0,0.0
+primary school,island,25.0,0.0,245.0,0.0,0.0,0.0
+hamlet,Wikimedia list article,25.0,5.0,234.0,0.0,0.0,0.0
+building,hill,25.0,5.0,367.0,2.0,0.0,0.0
+scholarly article,house,25.0,0.0,218.0,0.0,0.0,0.0
+family name,river,25.0,17.0,183.0,0.0,0.0,0.0
+"version, edition, or translation",street,24.0,15.0,246.0,0.0,0.0,0.0
+film,collection,24.0,0.0,313.0,0.0,0.0,0.0
+print,mountain,24.0,0.0,129.0,0.0,0.0,0.0
+clinical trial,taxon,23.0,0.0,77.0,0.0,0.0,0.0
+architectural structure,Wikimedia disambiguation page,23.0,13.0,323.0,0.0,0.0,0.0
+building,encyclopedia article,23.0,20.0,116.0,0.0,0.0,0.0
+mountain,family name,23.0,22.0,192.0,0.0,0.0,0.0
+print,collection,22.0,7.0,157.0,0.0,0.0,0.0
+film,lake,22.0,2.0,232.0,0.0,0.0,0.0
+clinical trial,building,22.0,0.0,89.0,0.0,0.0,0.0
+hamlet,lake,22.0,5.0,264.0,0.0,0.0,0.0
+business,mountain,22.0,10.0,416.0,0.0,0.0,0.0
+literary work,family name,22.0,3.0,238.0,0.0,0.0,0.0
+house,Wikimedia disambiguation page,22.0,1.0,253.0,0.0,0.0,0.0
+position,architectural structure,21.0,16.0,343.0,0.0,0.0,0.0
+river,village in India,21.0,13.0,154.0,2.0,0.0,0.0
+architectural structure,mountain,21.0,7.0,440.0,2.0,0.0,0.0
+primary school,business,21.0,7.0,322.0,16.0,0.01,0.01
+album,church building,21.0,2.0,268.0,0.0,0.0,0.0
+Wikinews article,business,21.0,2.0,200.0,0.0,0.0,0.0
+position,island,21.0,10.0,315.0,0.0,0.0,0.0
+church building,hill,20.0,1.0,354.0,2.0,0.0,0.0
+film,church building,20.0,1.0,338.0,0.0,0.0,0.0
+album,Wikimedia template,20.0,19.0,126.0,0.0,0.0,0.0
+river,Wikimedia template,20.0,14.0,114.0,0.0,0.0,0.0
+human,protein,20.0,6.0,152.0,0.0,0.0,0.0
+scholarly article,Wikimedia category,20.0,11.0,248.0,0.0,0.0,0.0
+astronomical object,village,20.0,1.0,280.0,0.0,0.0,0.0
+stream,mountain,20.0,9.0,225.0,0.0,0.0,0.0
+hamlet,taxon,20.0,18.0,175.0,0.0,0.0,0.0
+human,gene,20.0,4.0,125.0,0.0,0.0,0.0
+print,business,19.0,1.0,178.0,0.0,0.0,0.0
+watercourse,island,19.0,12.0,238.0,0.0,0.0,0.0
+lake,Wikimedia list article,19.0,9.0,297.0,4.0,0.0,0.0
+house,taxon,19.0,0.0,235.0,0.0,0.0,0.0
+stream,encyclopedia article,19.0,15.0,80.0,0.0,0.0,0.0
+building,mountain,19.0,6.0,482.0,2.0,0.0,0.0
+film,architectural structure,18.0,3.0,324.0,0.0,0.0,0.0
+village in India,village,18.0,18.0,186.0,18.0,0.01,0.01
+astronomical object,calendar day of a given year,18.0,0.0,49.0,0.0,0.0,0.0
+church building,position,18.0,14.0,341.0,0.0,0.0,0.0
+album,building,18.0,3.0,274.0,0.0,0.0,0.0
+astronomical object,lake,18.0,1.0,256.0,0.0,0.0,0.0
+business,village in India,18.0,0.0,158.0,0.0,0.0,0.0
+film,astronomical object,17.0,3.0,290.0,0.0,0.0,0.0
+album,position,17.0,1.0,217.0,0.0,0.0,0.0
+church building,lake,17.0,1.0,391.0,0.0,0.0,0.0
+literary work,mountain,16.0,11.0,314.0,2.0,0.0,0.0
+protein,Wikimedia disambiguation page,16.0,2.0,161.0,2.0,0.0,0.0
+print,human settlement,16.0,0.0,148.0,0.0,0.0,0.0
+street,watercourse,16.0,2.0,205.0,2.0,0.0,0.0
+item of collection or exhibition,painting,16.0,5.0,217.0,324.0,0.22,0.06
+"version, edition, or translation",river,15.0,15.0,235.0,0.0,0.0,0.0
+hill,Wikimedia list article,15.0,2.0,243.0,0.0,0.0,0.0
+family name,hill,15.0,14.0,153.0,4.0,0.0,0.0
+collection,street,15.0,2.0,280.0,0.0,0.0,0.0
+album,human settlement,15.0,9.0,252.0,0.0,0.0,0.0
+print,lake,15.0,0.0,120.0,0.0,0.0,0.0
+film,hill,15.0,9.0,177.0,0.0,0.0,0.0
+primary school,Wikimedia disambiguation page,15.0,0.0,172.0,0.0,0.0,0.0
+hamlet,position,15.0,13.0,189.0,0.0,0.0,0.0
+painting,encyclopedia article,14.0,6.0,125.0,0.0,0.0,0.0
+album,village,14.0,9.0,222.0,0.0,0.0,0.0
+house,river,14.0,0.0,311.0,0.0,0.0,0.0
+clinical trial,gene,14.0,0.0,54.0,0.0,0.0,0.0
+painting,album,14.0,7.0,278.0,0.0,0.0,0.0
+film,hamlet,14.0,1.0,168.0,0.0,0.0,0.0
+print,island,14.0,1.0,126.0,0.0,0.0,0.0
+Wikinews article,astronomical object,14.0,0.0,153.0,0.0,0.0,0.0
+album,astronomical object,14.0,8.0,226.0,0.0,0.0,0.0
+literary work,architectural structure,14.0,6.0,374.0,0.0,0.0,0.0
+family name,island,13.0,10.0,195.0,0.0,0.0,0.0
+print,architectural structure,13.0,0.0,151.0,0.0,0.0,0.0
+"version, edition, or translation",lake,13.0,7.0,231.0,0.0,0.0,0.0
+street,encyclopedia article,13.0,12.0,97.0,0.0,0.0,0.0
+taxon,hill,13.0,6.0,212.0,0.0,0.0,0.0
+literary work,lake,13.0,6.0,293.0,0.0,0.0,0.0
+album,island,12.0,5.0,208.0,0.0,0.0,0.0
+village in India,Wikimedia disambiguation page,12.0,6.0,137.0,0.0,0.0,0.0
+scholarly article,watercourse,12.0,0.0,124.0,0.0,0.0,0.0
+building,village in India,12.0,0.0,173.0,0.0,0.0,0.0
+Wikimedia list article,calendar day of a given year,12.0,3.0,52.0,6.0,0.0,0.0
+sports season,lake,12.0,0.0,163.0,0.0,0.0,0.0
+Wikimedia template,human settlement,12.0,7.0,135.0,2.0,0.0,0.0
+hill,"version, edition, or translation",12.0,2.0,185.0,0.0,0.0,0.0
+item of collection or exhibition,"version, edition, or translation",12.0,2.0,207.0,0.0,0.0,0.0
+scholarly article,prime number,12.0,0.0,67.0,0.0,0.0,0.0
+item of collection or exhibition,village,12.0,0.0,141.0,0.0,0.0,0.0
+film,village in India,12.0,0.0,115.0,0.0,0.0,0.0
+building,taxon,11.0,0.0,336.0,0.0,0.0,0.0
+group of stereoisomers,encyclopedia article,11.0,7.0,55.0,0.0,0.0,0.0
+architectural structure,encyclopedia article,11.0,8.0,108.0,0.0,0.0,0.0
+film,chemical compound,11.0,1.0,207.0,0.0,0.0,0.0
+mountain,"version, edition, or translation",11.0,11.0,237.0,0.0,0.0,0.0
+album,architectural structure,11.0,0.0,244.0,0.0,0.0,0.0
+Wikinews article,position,11.0,0.0,148.0,0.0,0.0,0.0
+building,lake,11.0,1.0,414.0,0.0,0.0,0.0
+biographical article,Wikimedia disambiguation page,11.0,5.0,95.0,0.0,0.0,0.0
+film,sports season,11.0,1.0,214.0,2.0,0.0,0.0
+sports season,mountain,11.0,0.0,164.0,0.0,0.0,0.0
+village in India,encyclopedia article,11.0,8.0,67.0,0.0,0.0,0.0
+painting,calendar day of a given year,11.0,0.0,45.0,0.0,0.0,0.0
+Wikimedia category,protein,11.0,10.0,110.0,0.0,0.0,0.0
+family name,hamlet,10.0,4.0,147.0,0.0,0.0,0.0
+painting,chemical compound,10.0,0.0,210.0,0.0,0.0,0.0
+scholarly article,street,10.0,0.0,202.0,0.0,0.0,0.0
+print,street,10.0,6.0,126.0,0.0,0.0,0.0
+taxon,village in India,10.0,3.0,119.0,0.0,0.0,0.0
+mountain,hamlet,10.0,6.0,307.0,4.0,0.0,0.0
+watercourse,hill,10.0,0.0,215.0,0.0,0.0,0.0
+architectural structure,hill,10.0,4.0,345.0,2.0,0.0,0.0
+scholarly article,Wikimedia template,10.0,6.0,143.0,0.0,0.0,0.0
+painting,stream,9.0,0.0,151.0,0.0,0.0,0.0
+primary school,architectural structure,9.0,8.0,323.0,14.0,0.01,0.01
+family name,watercourse,9.0,9.0,127.0,2.0,0.0,0.0
+item of collection or exhibition,human settlement,9.0,0.0,166.0,0.0,0.0,0.0
+business,hill,9.0,8.0,300.0,2.0,0.0,0.0
+primary school,church building,9.0,7.0,330.0,16.0,0.01,0.01
+"version, edition, or translation",hamlet,9.0,8.0,167.0,0.0,0.0,0.0
+Wikimedia template,island,9.0,4.0,122.0,0.0,0.0,0.0
+literary work,village in India,9.0,1.0,128.0,0.0,0.0,0.0
+house,family name,9.0,1.0,175.0,0.0,0.0,0.0
+building,family name,9.0,1.0,222.0,0.0,0.0,0.0
+human,cell line,9.0,4.0,44.0,0.0,0.0,0.0
+album,family name,9.0,3.0,172.0,0.0,0.0,0.0
+literary work,hill,8.0,4.0,224.0,0.0,0.0,0.0
+village in India,island,8.0,7.0,176.0,10.0,0.01,0.01
+collection,Wikimedia disambiguation page,8.0,2.0,282.0,0.0,0.0,0.0
+house,"version, edition, or translation",8.0,6.0,243.0,0.0,0.0,0.0
+film,house,8.0,2.0,257.0,0.0,0.0,0.0
+literary work,house,8.0,6.0,285.0,0.0,0.0,0.0
+Wikimedia category,gene,8.0,5.0,100.0,2.0,0.0,0.0
+church building,collection,8.0,5.0,428.0,2.0,0.0,0.0
+scholarly article,village in India,8.0,0.0,102.0,0.0,0.0,0.0
+biographical article,family name,8.0,2.0,81.0,0.0,0.0,0.0
+literary work,chemical compound,8.0,4.0,236.0,0.0,0.0,0.0
+item of collection or exhibition,position,8.0,0.0,122.0,0.0,0.0,0.0
+collection,position,8.0,6.0,285.0,0.0,0.0,0.0
+position,taxon,8.0,5.0,322.0,0.0,0.0,0.0
+painting,watercourse,8.0,0.0,151.0,0.0,0.0,0.0
+house,primary school,8.0,6.0,299.0,2.0,0.0,0.0
+taxon,watercourse,8.0,6.0,165.0,0.0,0.0,0.0
+group of stereoisomers,Wikimedia category,8.0,7.0,69.0,0.0,0.0,0.0
+street,calendar day of a given year,7.0,0.0,50.0,0.0,0.0,0.0
+business,lake,7.0,6.0,377.0,2.0,0.0,0.0
+island,collection,7.0,5.0,329.0,2.0,0.0,0.0
+architectural structure,lake,7.0,3.0,384.0,8.0,0.01,0.0
+clinical trial,"version, edition, or translation",7.0,0.0,101.0,0.0,0.0,0.0
+village,village-level division in China,7.0,5.0,73.0,8.0,0.0,0.0
+scholarly article,print,7.0,4.0,160.0,0.0,0.0,0.0
+astronomical object,chemical compound,7.0,0.0,229.0,0.0,0.0,0.0
+hamlet,stream,7.0,5.0,162.0,2.0,0.0,0.0
+architectural structure,watercourse,7.0,0.0,218.0,2.0,0.0,0.0
+item of collection or exhibition,literary work,7.0,2.0,204.0,42.0,0.03,0.03
+Wikimedia category,prime number,7.0,6.0,68.0,0.0,0.0,0.0
+stream,taxon,7.0,4.0,164.0,0.0,0.0,0.0
+hamlet,watercourse,7.0,5.0,177.0,0.0,0.0,0.0
+lake,family name,6.0,1.0,180.0,0.0,0.0,0.0
+album,street,6.0,0.0,196.0,0.0,0.0,0.0
+scholarly article,item of collection or exhibition,6.0,2.0,166.0,0.0,0.0,0.0
+business,watercourse,6.0,5.0,213.0,0.0,0.0,0.0
+collection,human settlement,6.0,4.0,396.0,0.0,0.0,0.0
+scholarly article,stream,6.0,3.0,127.0,0.0,0.0,0.0
+"version, edition, or translation",architectural structure,6.0,4.0,319.0,0.0,0.0,0.0
+"version, edition, or translation",gene,6.0,0.0,95.0,0.0,0.0,0.0
+collection,house,6.0,4.0,363.0,0.0,0.0,0.0
+painting,gene,6.0,1.0,119.0,2.0,0.0,0.0
+film,calendar day of a given year,6.0,1.0,51.0,0.0,0.0,0.0
+album,mountain,6.0,5.0,191.0,0.0,0.0,0.0
+astronomical object,building,6.0,0.0,327.0,0.0,0.0,0.0
+house,lake,6.0,0.0,323.0,0.0,0.0,0.0
+church building,taxon,6.0,0.0,304.0,0.0,0.0,0.0
+business,biographical article,6.0,4.0,108.0,0.0,0.0,0.0
+business,village-level division in China,5.0,0.0,67.0,0.0,0.0,0.0
+film,Wikimedia template,5.0,5.0,143.0,2.0,0.0,0.0
+collection,taxon,5.0,0.0,249.0,0.0,0.0,0.0
+street,Wikimedia template,5.0,3.0,116.0,0.0,0.0,0.0
+painting,hamlet,5.0,0.0,194.0,0.0,0.0,0.0
+Wikinews article,Wikimedia disambiguation page,5.0,0.0,167.0,0.0,0.0,0.0
+painting,village in India,5.0,0.0,120.0,0.0,0.0,0.0
+primary school,village in India,5.0,0.0,119.0,0.0,0.0,0.0
+stream,"version, edition, or translation",5.0,1.0,147.0,0.0,0.0,0.0
+album,chemical compound,5.0,1.0,165.0,0.0,0.0,0.0
+family name,stream,5.0,4.0,123.0,0.0,0.0,0.0
+encyclopedia article,Wikimedia category,5.0,5.0,104.0,0.0,0.0,0.0
+house,stream,5.0,0.0,190.0,0.0,0.0,0.0
+watercourse,"version, edition, or translation",5.0,0.0,139.0,0.0,0.0,0.0
+house,mountain,5.0,0.0,378.0,0.0,0.0,0.0
+church building,family name,5.0,0.0,206.0,0.0,0.0,0.0
+sports season,position,5.0,0.0,167.0,0.0,0.0,0.0
+clinical trial,architectural structure,5.0,0.0,76.0,0.0,0.0,0.0
+item of collection or exhibition,island,5.0,0.0,133.0,0.0,0.0,0.0
+painting,biographical article,4.0,0.0,100.0,0.0,0.0,0.0
+astronomical object,hamlet,4.0,0.0,179.0,0.0,0.0,0.0
+item of collection or exhibition,Wikimedia disambiguation page,4.0,0.0,151.0,0.0,0.0,0.0
+album,hill,4.0,4.0,140.0,0.0,0.0,0.0
+business,protein,4.0,0.0,140.0,0.0,0.0,0.0
+film,watercourse,4.0,3.0,146.0,0.0,0.0,0.0
+hamlet,literary work,4.0,3.0,196.0,0.0,0.0,0.0
+taxon,prime number,4.0,0.0,85.0,0.0,0.0,0.0
+literary work,prime number,4.0,0.0,80.0,0.0,0.0,0.0
+painting,prime number,4.0,0.0,78.0,0.0,0.0,0.0
+Wikinews article,human settlement,4.0,0.0,195.0,0.0,0.0,0.0
+clinical trial,human settlement,4.0,0.0,84.0,0.0,0.0,0.0
+building,watercourse,4.0,0.0,239.0,0.0,0.0,0.0
+village in India,"version, edition, or translation",4.0,2.0,116.0,0.0,0.0,0.0
+Wikimedia list article,village in India,4.0,1.0,157.0,0.0,0.0,0.0
+house,hill,4.0,0.0,310.0,0.0,0.0,0.0
+building,stream,4.0,0.0,221.0,0.0,0.0,0.0
+sports season,river,4.0,0.0,155.0,0.0,0.0,0.0
+item of collection or exhibition,astronomical object,4.0,2.0,163.0,2.0,0.0,0.0
+Wikimedia list article,chemical compound,4.0,2.0,215.0,0.0,0.0,0.0
+mountain,village-level division in China,4.0,0.0,69.0,0.0,0.0,0.0
+Wikinews article,church building,4.0,0.0,180.0,0.0,0.0,0.0
+position,mountain,4.0,0.0,271.0,0.0,0.0,0.0
+astronomical object,position,4.0,0.0,273.0,0.0,0.0,0.0
+collection,river,3.0,3.0,247.0,0.0,0.0,0.0
+scholarly article,calendar day of a given year,3.0,0.0,46.0,0.0,0.0,0.0
+family name,architectural structure,3.0,2.0,208.0,0.0,0.0,0.0
+position,prime number,3.0,0.0,76.0,0.0,0.0,0.0
+church building,watercourse,3.0,0.0,218.0,0.0,0.0,0.0
+Wikinews article,mountain,3.0,0.0,162.0,0.0,0.0,0.0
+"version, edition, or translation",prime number,3.0,1.0,72.0,0.0,0.0,0.0
+print,calendar day of a given year,3.0,0.0,40.0,0.0,0.0,0.0
+street,prime number,3.0,0.0,70.0,0.0,0.0,0.0
+item of collection or exhibition,film,3.0,1.0,184.0,4.0,0.0,0.0
+sports season,prime number,3.0,0.0,62.0,0.0,0.0,0.0
+film,prime number,3.0,0.0,75.0,0.0,0.0,0.0
+item of collection or exhibition,mountain,3.0,0.0,134.0,0.0,0.0,0.0
+film,village-level division in China,3.0,1.0,49.0,0.0,0.0,0.0
+architectural structure,taxon,3.0,0.0,307.0,0.0,0.0,0.0
+scholarly article,sports season,3.0,0.0,154.0,0.0,0.0,0.0
+lake,village in India,3.0,3.0,159.0,2.0,0.0,0.0
+hill,lake,3.0,3.0,337.0,0.0,0.0,0.0
+hill,village in India,3.0,3.0,140.0,0.0,0.0,0.0
+village,chemical compound,3.0,1.0,194.0,0.0,0.0,0.0
+Wikinews article,album,3.0,1.0,153.0,0.0,0.0,0.0
+collection,Wikimedia template,3.0,3.0,125.0,0.0,0.0,0.0
+architectural structure,Wikimedia template,3.0,0.0,124.0,0.0,0.0,0.0
+business,group of stereoisomers,3.0,0.0,105.0,0.0,0.0,0.0
+biographical article,position,3.0,0.0,87.0,0.0,0.0,0.0
+mountain,chemical compound,3.0,2.0,197.0,0.0,0.0,0.0
+church building,stream,3.0,0.0,207.0,0.0,0.0,0.0
+Wikinews article,building,3.0,0.0,178.0,0.0,0.0,0.0
+business,stream,3.0,1.0,201.0,0.0,0.0,0.0
+album,river,3.0,1.0,185.0,0.0,0.0,0.0
+astronomical object,Wikimedia template,3.0,3.0,124.0,0.0,0.0,0.0
+Wikinews article,taxon,3.0,0.0,151.0,0.0,0.0,0.0
+hill,collection,3.0,1.0,213.0,0.0,0.0,0.0
+item of collection or exhibition,building,3.0,0.0,177.0,0.0,0.0,0.0
+architectural structure,stream,3.0,2.0,210.0,0.0,0.0,0.0
+scholarly article,Wikinews article,3.0,0.0,150.0,0.0,0.0,0.0
+astronomical object,architectural structure,3.0,0.0,312.0,0.0,0.0,0.0
+Wikimedia list article,Wikinews article,3.0,2.0,203.0,4.0,0.0,0.0
+human,branch post office,3.0,0.0,22.0,0.0,0.0,0.0
+biographical article,Wikimedia category,3.0,3.0,84.0,0.0,0.0,0.0
+clinical trial,island,3.0,0.0,72.0,0.0,0.0,0.0
+hill,astronomical object,3.0,2.0,204.0,0.0,0.0,0.0
+stream,hill,3.0,1.0,212.0,0.0,0.0,0.0
+clinical trial,collection,3.0,0.0,85.0,0.0,0.0,0.0
+clinical trial,literary work,3.0,0.0,100.0,0.0,0.0,0.0
+astronomical object,collection,3.0,0.0,252.0,0.0,0.0,0.0
+album,collection,3.0,1.0,261.0,0.0,0.0,0.0
+Wikinews article,film,3.0,1.0,169.0,0.0,0.0,0.0
+group of stereoisomers,"version, edition, or translation",3.0,1.0,83.0,0.0,0.0,0.0
+street,biographical article,2.0,0.0,74.0,0.0,0.0,0.0
+lake,Wikimedia template,2.0,2.0,108.0,0.0,0.0,0.0
+mountain,Wikimedia template,2.0,2.0,116.0,0.0,0.0,0.0
+Wikimedia template,building,2.0,2.0,136.0,0.0,0.0,0.0
+village in India,family name,2.0,1.0,110.0,0.0,0.0,0.0
+item of collection or exhibition,family name,2.0,0.0,114.0,0.0,0.0,0.0
+hamlet,collection,2.0,1.0,199.0,0.0,0.0,0.0
+sports season,street,2.0,1.0,169.0,0.0,0.0,0.0
+sports season,family name,2.0,0.0,121.0,0.0,0.0,0.0
+print,Wikimedia list article,2.0,0.0,162.0,0.0,0.0,0.0
+sports season,taxon,2.0,0.0,163.0,0.0,0.0,0.0
+cell line,protein,2.0,0.0,48.0,0.0,0.0,0.0
+literary work,sports season,2.0,0.0,210.0,0.0,0.0,0.0
+collection,family name,2.0,0.0,184.0,0.0,0.0,0.0
+primary school,river,2.0,0.0,191.0,0.0,0.0,0.0
+clinical trial,position,2.0,0.0,80.0,0.0,0.0,0.0
+film,stream,2.0,2.0,149.0,0.0,0.0,0.0
+Wikinews article,village,2.0,0.0,183.0,0.0,0.0,0.0
+lake,chemical compound,2.0,0.0,183.0,0.0,0.0,0.0
+primary school,position,2.0,1.0,198.0,0.0,0.0,0.0
+encyclopedia article,house,2.0,2.0,98.0,0.0,0.0,0.0
+astronomical object,stream,2.0,0.0,160.0,0.0,0.0,0.0
+print,item of collection or exhibition,2.0,0.0,169.0,0.0,0.0,0.0
+Wikimedia template,chemical compound,2.0,2.0,117.0,0.0,0.0,0.0
+street,chemical compound,2.0,0.0,162.0,0.0,0.0,0.0
+group of stereoisomers,human,2.0,2.0,110.0,0.0,0.0,0.0
+mountain,village in India,2.0,2.0,171.0,0.0,0.0,0.0
+village-level division in China,Wikimedia disambiguation page,2.0,1.0,65.0,0.0,0.0,0.0
+Wikinews article,river,2.0,0.0,148.0,0.0,0.0,0.0
+item of collection or exhibition,hill,2.0,0.0,107.0,0.0,0.0,0.0
+building,chemical compound,2.0,0.0,205.0,0.0,0.0,0.0
+album,gene,2.0,0.0,92.0,0.0,0.0,0.0
+print,album,2.0,0.0,159.0,0.0,0.0,0.0
+architectural structure,village in India,2.0,1.0,158.0,0.0,0.0,0.0
+primary school,encyclopedia article,2.0,1.0,78.0,0.0,0.0,0.0
+primary school,watercourse,2.0,0.0,138.0,0.0,0.0,0.0
+branch post office,human settlement,2.0,0.0,22.0,0.0,0.0,0.0
+item of collection or exhibition,architectural structure,2.0,0.0,172.0,0.0,0.0,0.0
+scholarly article,primary school,2.0,0.0,152.0,0.0,0.0,0.0
+protein,"version, edition, or translation",2.0,0.0,115.0,0.0,0.0,0.0
+lake,collection,2.0,0.0,256.0,0.0,0.0,0.0
+Wikinews article,prime number,2.0,0.0,53.0,0.0,0.0,0.0
+mountain,prime number,2.0,0.0,76.0,0.0,0.0,0.0
+"version, edition, or translation",cell line,2.0,0.0,37.0,0.0,0.0,0.0
+literary work,calendar day of a given year,2.0,0.0,52.0,0.0,0.0,0.0
+Wikinews article,street,2.0,0.0,155.0,0.0,0.0,0.0
+mountain,collection,2.0,0.0,281.0,0.0,0.0,0.0
+house,prime number,2.0,0.0,68.0,0.0,0.0,0.0
+building,village-level division in China,2.0,0.0,65.0,0.0,0.0,0.0
+Wikinews article,family name,2.0,0.0,129.0,0.0,0.0,0.0
+church building,village-level division in China,2.0,0.0,67.0,0.0,0.0,0.0
+watercourse,Wikimedia list article,2.0,1.0,185.0,0.0,0.0,0.0
+collection,encyclopedia article,2.0,1.0,114.0,0.0,0.0,0.0
+watercourse,literary work,2.0,0.0,171.0,0.0,0.0,0.0
+biographical article,collection,2.0,0.0,85.0,0.0,0.0,0.0
+river,position,1.0,1.0,264.0,0.0,0.0,0.0
+"version, edition, or translation",primary school,1.0,0.0,178.0,0.0,0.0,0.0
+Wikimedia template,village,1.0,1.0,123.0,0.0,0.0,0.0
+house,astronomical object,1.0,0.0,235.0,0.0,0.0,0.0
+scholarly article,village-level division in China,1.0,0.0,49.0,0.0,0.0,0.0
+river,village-level division in China,1.0,1.0,67.0,0.0,0.0,0.0
+primary school,hill,1.0,0.0,188.0,0.0,0.0,0.0
+house,village-level division in China,1.0,0.0,63.0,0.0,0.0,0.0
+primary school,mountain,1.0,0.0,221.0,0.0,0.0,0.0
+island,village-level division in China,1.0,1.0,72.0,0.0,0.0,0.0
+Wikimedia template,stream,1.0,1.0,83.0,0.0,0.0,0.0
+river,chemical compound,1.0,0.0,190.0,0.0,0.0,0.0
+encyclopedia article,village-level division in China,1.0,0.0,42.0,0.0,0.0,0.0
+position,hill,1.0,0.0,198.0,0.0,0.0,0.0
+literary work,stream,1.0,1.0,164.0,0.0,0.0,0.0
+album,house,1.0,0.0,202.0,0.0,0.0,0.0
+human settlement,chemical compound,1.0,1.0,238.0,0.0,0.0,0.0
+print,astronomical object,1.0,0.0,139.0,0.0,0.0,0.0
+lake,position,1.0,1.0,250.0,0.0,0.0,0.0
+Wikimedia template,Wikinews article,1.0,1.0,94.0,2.0,0.0,0.0
+protein,painting,1.0,1.0,135.0,0.0,0.0,0.0
+position,calendar day of a given year,1.0,0.0,49.0,0.0,0.0,0.0
+"version, edition, or translation",calendar day of a given year,1.0,0.0,51.0,0.0,0.0,0.0
+Wikinews article,painting,1.0,1.0,170.0,0.0,0.0,0.0
+album,sports season,1.0,0.0,176.0,0.0,0.0,0.0
+church building,calendar day of a given year,1.0,0.0,49.0,0.0,0.0,0.0
+sports season,painting,1.0,1.0,177.0,0.0,0.0,0.0
+village,calendar day of a given year,1.0,0.0,47.0,0.0,0.0,0.0
+stream,collection,1.0,0.0,160.0,0.0,0.0,0.0
+album,calendar day of a given year,1.0,0.0,47.0,0.0,0.0,0.0
+architectural structure,Wikinews article,1.0,1.0,163.0,0.0,0.0,0.0
+Wikimedia template,painting,1.0,1.0,142.0,0.0,0.0,0.0
+literary work,primary school,1.0,1.0,191.0,0.0,0.0,0.0
+Wikimedia disambiguation page,calendar day of a given year,1.0,1.0,50.0,0.0,0.0,0.0
+primary school,collection,1.0,0.0,244.0,0.0,0.0,0.0
+film,primary school,1.0,0.0,187.0,0.0,0.0,0.0
+watercourse,collection,1.0,0.0,151.0,0.0,0.0,0.0
+literary work,Wikinews article,1.0,1.0,190.0,0.0,0.0,0.0
+album,primary school,1.0,0.0,150.0,0.0,0.0,0.0
+prime number,encyclopedia article,1.0,0.0,44.0,0.0,0.0,0.0
+village in India,position,1.0,0.0,125.0,0.0,0.0,0.0
+print,gene,1.0,0.0,68.0,0.0,0.0,0.0
+literary work,cell line,1.0,0.0,39.0,0.0,0.0,0.0
+family name,cell line,1.0,1.0,42.0,0.0,0.0,0.0
+album,cell line,1.0,1.0,37.0,0.0,0.0,0.0
+sports season,watercourse,1.0,0.0,110.0,0.0,0.0,0.0
+village in India,watercourse,1.0,1.0,126.0,0.0,0.0,0.0
+Wikimedia template,family name,1.0,1.0,97.0,2.0,0.0,0.0
+print,watercourse,1.0,0.0,91.0,0.0,0.0,0.0
+chemical compound,island,1.0,1.0,211.0,0.0,0.0,0.0
+Wikinews article,island,1.0,0.0,165.0,0.0,0.0,0.0
+primary school,taxon,1.0,0.0,154.0,0.0,0.0,0.0
+branch post office,business,1.0,0.0,22.0,0.0,0.0,0.0
+cell line,business,1.0,1.0,43.0,0.0,0.0,0.0
+village in India,hamlet,1.0,1.0,143.0,0.0,0.0,0.0
+astronomical object,watercourse,1.0,0.0,156.0,0.0,0.0,0.0
+biographical article,human settlement,1.0,0.0,91.0,0.0,0.0,0.0
+group of stereoisomers,literary work,1.0,0.0,95.0,0.0,0.0,0.0
+print,Wikimedia category,1.0,1.0,139.0,0.0,0.0,0.0
+clinical trial,Wikimedia category,1.0,0.0,79.0,0.0,0.0,0.0
+item of collection or exhibition,Wikimedia category,1.0,1.0,149.0,0.0,0.0,0.0
+astronomical object,prime number,1.0,0.0,80.0,0.0,0.0,0.0
+protein,encyclopedia article,1.0,1.0,65.0,0.0,0.0,0.0
+human settlement,prime number,1.0,0.0,83.0,0.0,0.0,0.0
+river,prime number,1.0,0.0,78.0,0.0,0.0,0.0
+album,prime number,1.0,0.0,68.0,0.0,0.0,0.0
+island,prime number,1.0,0.0,80.0,0.0,0.0,0.0
+business,prime number,1.0,1.0,86.0,0.0,0.0,0.0
+print,encyclopedia article,1.0,0.0,88.0,0.0,0.0,0.0
+clinical trial,encyclopedia article,1.0,0.0,66.0,0.0,0.0,0.0
+gene,human settlement,1.0,1.0,109.0,0.0,0.0,0.0
+sports season,"version, edition, or translation",1.0,0.0,190.0,0.0,0.0,0.0
+street,village in India,1.0,0.0,144.0,0.0,0.0,0.0
+clinical trial,album,1.0,0.0,75.0,0.0,0.0,0.0
+clinical trial,village,1.0,0.0,73.0,0.0,0.0,0.0
+business,gene,1.0,0.0,115.0,0.0,0.0,0.0
+sports season,hill,1.0,0.0,126.0,0.0,0.0,0.0
+cell line,building,1.0,0.0,37.0,0.0,0.0,0.0
+primary school,family name,1.0,0.0,128.0,0.0,0.0,0.0
+literary work,protein,1.0,0.0,129.0,0.0,0.0,0.0
+sports season,hamlet,1.0,0.0,119.0,0.0,0.0,0.0
+village-level division in China,family name,1.0,0.0,55.0,0.0,0.0,0.0
+cell line,group of stereoisomers,1.0,0.0,45.0,0.0,0.0,0.0
+architectural structure,chemical compound,1.0,0.0,208.0,0.0,0.0,0.0
+print,biographical article,1.0,0.0,73.0,0.0,0.0,0.0
+group of stereoisomers,Wikimedia disambiguation page,1.0,0.0,136.0,0.0,0.0,0.0
+branch post office,village,1.0,0.0,22.0,0.0,0.0,0.0
+item of collection or exhibition,chemical compound,1.0,0.0,114.0,0.0,0.0,0.0

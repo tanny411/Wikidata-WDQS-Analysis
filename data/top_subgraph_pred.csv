@@ -1,0 +1,251 @@
+subgraph_code,label,predicate_label,count,triple_count,percent_in_subgraph,percent_in_WD
+Q13442814,scholarly article,description,1324177494,6539020889,20.25,10.025
+Q13442814,scholarly article,cites work,853611996,6539020889,13.054,6.462
+Q13442814,scholarly article,ontology#rank,796548851,6539020889,12.181,6.03
+Q13442814,scholarly article,22-rdf-syntax-ns#type,796517049,6539020889,12.181,6.03
+Q13442814,scholarly article,prov#wasDerivedFrom,714004630,6539020889,10.919,5.405
+Q4167836,Wikimedia category,description,596672076,753127982,79.226,4.517
+Q4167836,Wikimedia category,22-rdf-syntax-ns#type,22761531,753127982,3.022,0.172
+Q4167836,Wikimedia category,rdf-schema#label,15094771,753127982,2.004,0.114
+Q4167836,Wikimedia category,instance of,14530626,753127982,1.929,0.11
+Q4167836,Wikimedia category,isPartOf,13774275,753127982,1.829,0.104
+Q6999,astronomical object,ontology#rank,144578828,1136682291,12.719,1.095
+Q6999,astronomical object,prov#wasDerivedFrom,128331955,1136682291,11.29,0.972
+Q6999,astronomical object,22-rdf-syntax-ns#type,117137727,1136682291,10.305,0.887
+Q6999,astronomical object,apparent magnitude,113616097,1136682291,9.995,0.86
+Q6999,astronomical object,catalog code,85591425,1136682291,7.53,0.648
+Q5,human,22-rdf-syntax-ns#type,127210431,954536943,13.327,0.963
+Q5,human,ontology#rank,115226473,954536943,12.071,0.872
+Q5,human,rdf-schema#label,82571873,954536943,8.65,0.625
+Q5,human,prov#wasDerivedFrom,56970478,954536943,5.968,0.431
+Q5,human,description,51883813,954536943,5.435,0.393
+Q4167410,Wikimedia disambiguation page,description,112264922,180124174,62.326,0.85
+Q4167410,Wikimedia disambiguation page,rdf-schema#label,39587180,180124174,21.978,0.3
+Q4167410,Wikimedia disambiguation page,22-rdf-syntax-ns#type,4146198,180124174,2.302,0.031
+Q4167410,Wikimedia disambiguation page,instance of,4086338,180124174,2.269,0.031
+Q4167410,Wikimedia disambiguation page,inLanguage,2559226,180124174,1.421,0.019
+Q11266439,Wikimedia template,description,93286385,114308711,81.609,0.706
+Q11266439,Wikimedia template,22-rdf-syntax-ns#type,2918907,114308711,2.554,0.022
+Q11266439,Wikimedia template,instance of,2557094,114308711,2.237,0.019
+Q11266439,Wikimedia template,rdf-schema#label,2091483,114308711,1.83,0.016
+Q11266439,Wikimedia template,schema:name,2022397,114308711,1.769,0.015
+Q16521,taxon,rdf-schema#label,69840848,367926462,18.982,0.529
+Q16521,taxon,description,45308808,367926462,12.315,0.343
+Q16521,taxon,22-rdf-syntax-ns#type,40988244,367926462,11.14,0.31
+Q16521,taxon,ontology#rank,32271527,367926462,8.771,0.244
+Q16521,taxon,prov#wasDerivedFrom,18893461,367926462,5.135,0.143
+Q101352,family name,description,59885567,187299892,31.973,0.453
+Q101352,family name,rdf-schema#label,57692163,187299892,30.802,0.437
+Q101352,family name,core#altLabel,51377678,187299892,27.431,0.389
+Q101352,family name,22-rdf-syntax-ns#type,3105163,187299892,1.658,0.024
+Q101352,family name,ontology#rank,2922453,187299892,1.56,0.022
+Q11173,chemical compound,description,24753956,91228463,27.134,0.187
+Q11173,chemical compound,22-rdf-syntax-ns#type,10660602,91228463,11.686,0.081
+Q11173,chemical compound,ontology#rank,10484519,91228463,11.493,0.079
+Q11173,chemical compound,instance of,3866329,91228463,4.238,0.029
+Q11173,chemical compound,InChIKey,3473298,91228463,3.807,0.026
+Q13100073,village-level division in China,description,24717636,51615572,47.888,0.187
+Q13100073,village-level division in China,rdf-schema#label,4720063,51615572,9.145,0.036
+Q13100073,village-level division in China,22-rdf-syntax-ns#type,3533117,51615572,6.845,0.027
+Q13100073,village-level division in China,ontology#rank,3532068,51615572,6.843,0.027
+Q13100073,village-level division in China,located in the administrative territorial entity,1765604,51615572,3.421,0.013
+Q13406463,Wikimedia list article,description,23714609,33742245,70.282,0.18
+Q13406463,Wikimedia list article,22-rdf-syntax-ns#type,1449015,33742245,4.294,0.011
+Q13406463,Wikimedia list article,instance of,1022424,33742245,3.03,0.008
+Q13406463,Wikimedia list article,ontology#rank,825620,33742245,2.447,0.006
+Q13406463,Wikimedia list article,rdf-schema#label,752672,33742245,2.231,0.006
+Q7187,gene,prov#wasDerivedFrom,16328401,122421508,13.338,0.124
+Q7187,gene,22-rdf-syntax-ns#type,16046507,122421508,13.108,0.121
+Q7187,gene,ontology#rank,15992810,122421508,13.064,0.121
+Q7187,gene,ortholog,10761065,122421508,8.79,0.081
+Q7187,gene,found in taxon,7175943,122421508,5.862,0.054
+Q17633526,Wikinews article,description,14128436,21830150,64.72,0.107
+Q17633526,Wikinews article,22-rdf-syntax-ns#type,1114921,21830150,5.107,0.008
+Q17633526,Wikinews article,instance of,862083,21830150,3.949,0.007
+Q17633526,Wikinews article,ontology#rank,804308,21830150,3.684,0.006
+Q17633526,Wikinews article,publication date,743358,21830150,3.405,0.006
+Q8054,protein,prov#wasDerivedFrom,12427165,88483828,14.045,0.094
+Q8054,protein,22-rdf-syntax-ns#type,11368057,88483828,12.848,0.086
+Q8054,protein,ontology#rank,11357567,88483828,12.836,0.086
+Q8054,protein,part of,4320360,88483828,4.883,0.033
+Q8054,protein,determination method,3821486,88483828,4.319,0.029
+Q13433827,encyclopedia article,description,11968615,33373227,35.863,0.091
+Q13433827,encyclopedia article,22-rdf-syntax-ns#type,3302636,33373227,9.896,0.025
+Q13433827,encyclopedia article,ontology#rank,2913370,33373227,8.73,0.022
+Q13433827,encyclopedia article,instance of,1537073,33373227,4.606,0.012
+Q13433827,encyclopedia article,title,1454066,33373227,4.357,0.011
+Q3305213,painting,description,10311414,56769083,18.164,0.078
+Q3305213,painting,22-rdf-syntax-ns#type,6848409,56769083,12.064,0.052
+Q3305213,painting,ontology#rank,6791199,56769083,11.963,0.051
+Q3305213,painting,prov#wasDerivedFrom,4315504,56769083,7.602,0.033
+Q3305213,painting,collection,2119742,56769083,3.734,0.016
+Q11424,film,22-rdf-syntax-ns#type,7284888,47176067,15.442,0.055
+Q11424,film,ontology#rank,6480184,47176067,13.736,0.049
+Q11424,film,prov#wasDerivedFrom,3597645,47176067,7.626,0.027
+Q11424,film,description,3240470,47176067,6.869,0.025
+Q11424,film,cast member,2940537,47176067,6.233,0.022
+Q47150325,calendar day of a given year,rdf-schema#label,6152052,14078486,43.698,0.047
+Q47150325,calendar day of a given year,instance of,1146460,14078486,8.143,0.009
+Q47150325,calendar day of a given year,22-rdf-syntax-ns#type,1040850,14078486,7.393,0.008
+Q47150325,calendar day of a given year,ontology#rank,964484,14078486,6.851,0.007
+Q47150325,calendar day of a given year,point in time,757108,14078486,5.378,0.006
+Q486972,human settlement,22-rdf-syntax-ns#type,5214907,39590792,13.172,0.039
+Q486972,human settlement,ontology#rank,3840166,39590792,9.7,0.029
+Q486972,human settlement,description,3222856,39590792,8.14,0.024
+Q486972,human settlement,rdf-schema#label,2912746,39590792,7.357,0.022
+Q486972,human settlement,instance of,1908703,39590792,4.821,0.014
+Q2668072,collection,22-rdf-syntax-ns#type,5206241,32670637,15.936,0.039
+Q2668072,collection,ontology#rank,5204557,32670637,15.93,0.039
+Q2668072,collection,prov#wasDerivedFrom,2150646,32670637,6.583,0.016
+Q2668072,collection,collection or exhibition size,1639179,32670637,5.017,0.012
+Q2668072,collection,part of,1562473,32670637,4.782,0.012
+Q30612,clinical trial,22-rdf-syntax-ns#type,4453735,27731502,16.06,0.034
+Q30612,clinical trial,ontology#rank,4453642,27731502,16.06,0.034
+Q30612,clinical trial,minimum age,1595252,27731502,5.752,0.012
+Q30612,clinical trial,start time,1405834,27731502,5.069,0.011
+Q30612,clinical trial,number of participants,1398397,27731502,5.043,0.011
+Q8502,mountain,description,4367836,33340188,13.101,0.033
+Q8502,mountain,22-rdf-syntax-ns#type,4046473,33340188,12.137,0.031
+Q8502,mountain,ontology#rank,3238261,33340188,9.713,0.025
+Q8502,mountain,GeoNames ID,2443712,33340188,7.33,0.019
+Q8502,mountain,rdf-schema#label,2217746,33340188,6.652,0.017
+Q79007,street,22-rdf-syntax-ns#type,4236711,30252119,14.005,0.032
+Q79007,street,ontology#rank,4096946,30252119,13.543,0.031
+Q79007,street,description,2256816,30252119,7.46,0.017
+Q79007,street,postal code,1997101,30252119,6.602,0.015
+Q79007,street,located in the administrative territorial entity,1960788,30252119,6.481,0.015
+Q4022,river,description,3651037,28833476,12.662,0.028
+Q4022,river,22-rdf-syntax-ns#type,3567310,28833476,12.372,0.027
+Q4022,river,ontology#rank,2829316,28833476,9.813,0.021
+Q4022,river,prov#wasDerivedFrom,1953526,28833476,6.775,0.015
+Q4022,river,coordinate location,1653948,28833476,5.736,0.013
+Q532,village,22-rdf-syntax-ns#type,3307961,26483275,12.491,0.025
+Q532,village,description,3212844,26483275,12.132,0.024
+Q532,village,ontology#rank,2304145,26483275,8.7,0.017
+Q532,village,rdf-schema#label,2126962,26483275,8.031,0.016
+Q532,village,prov#wasDerivedFrom,1260331,26483275,4.759,0.01
+Q482994,album,22-rdf-syntax-ns#type,2793067,21181015,13.187,0.021
+Q482994,album,ontology#rank,2250457,21181015,10.625,0.017
+Q482994,album,rdf-schema#label,1871641,21181015,8.836,0.014
+Q482994,album,description,1490087,21181015,7.035,0.011
+Q482994,album,prov#wasDerivedFrom,1439668,21181015,6.797,0.011
+Q16970,church building,22-rdf-syntax-ns#type,2541716,16821530,15.11,0.019
+Q16970,church building,ontology#rank,2256786,16821530,13.416,0.017
+Q16970,church building,prov#wasDerivedFrom,972599,16821530,5.782,0.007
+Q16970,church building,description,943023,16821530,5.606,0.007
+Q16970,church building,coordinate location,743416,16821530,4.419,0.006
+Q23397,lake,description,2406074,18053096,13.328,0.018
+Q23397,lake,22-rdf-syntax-ns#type,2199894,18053096,12.186,0.017
+Q23397,lake,ontology#rank,1813415,18053096,10.045,0.014
+Q23397,lake,prov#wasDerivedFrom,1167489,18053096,6.467,0.009
+Q23397,lake,coordinate location,1056823,18053096,5.854,0.008
+Q41176,building,22-rdf-syntax-ns#type,2372760,16293008,14.563,0.018
+Q41176,building,ontology#rank,2262925,16293008,13.889,0.017
+Q41176,building,prov#wasDerivedFrom,1130158,16293008,6.936,0.009
+Q41176,building,coordinate location,1009317,16293008,6.195,0.008
+Q41176,building,instance of,953299,16293008,5.851,0.007
+Q56436498,village in India,description,2336722,15383416,15.19,0.018
+Q56436498,village in India,ontology#rank,1467450,15383416,9.539,0.011
+Q56436498,village in India,22-rdf-syntax-ns#type,1392224,15383416,9.05,0.011
+Q56436498,village in India,point in time,1329481,15383416,8.642,0.01
+Q56436498,village in India,prov#wasDerivedFrom,1031692,15383416,6.707,0.008
+Q54050,hill,22-rdf-syntax-ns#type,2215050,17228390,12.857,0.017
+Q54050,hill,ontology#rank,1857312,17228390,10.781,0.014
+Q54050,hill,GeoNames ID,1568224,17228390,9.103,0.012
+Q54050,hill,coordinate location,1290396,17228390,7.49,0.01
+Q54050,hill,description,1252908,17228390,7.272,0.009
+Q4830453,business,22-rdf-syntax-ns#type,1948087,14101220,13.815,0.015
+Q4830453,business,ontology#rank,1669295,14101220,11.838,0.013
+Q4830453,business,prov#wasDerivedFrom,919184,14101220,6.518,0.007
+Q4830453,business,instance of,793461,14101220,5.627,0.006
+Q4830453,business,rdf-schema#label,726857,14101220,5.155,0.006
+Q3947,house,22-rdf-syntax-ns#type,1893455,12468434,15.186,0.014
+Q3947,house,ontology#rank,1825282,12468434,14.639,0.014
+Q3947,house,coordinate location,746416,12468434,5.986,0.006
+Q3947,house,instance of,628739,12468434,5.043,0.005
+Q3947,house,prov#wasDerivedFrom,620793,12468434,4.979,0.005
+Q18593264,item of collection or exhibition,22-rdf-syntax-ns#type,1821311,10732969,16.969,0.014
+Q18593264,item of collection or exhibition,ontology#rank,1820436,10732969,16.961,0.014
+Q18593264,item of collection or exhibition,part of,712209,10732969,6.636,0.005
+Q18593264,item of collection or exhibition,collection,571160,10732969,5.322,0.004
+Q18593264,item of collection or exhibition,instance of,533352,10732969,4.969,0.004
+Q3331189,"version, edition, or translation",22-rdf-syntax-ns#type,1591714,10997589,14.473,0.012
+Q3331189,"version, edition, or translation",ontology#rank,1538937,10997589,13.993,0.012
+Q3331189,"version, edition, or translation",prov#wasDerivedFrom,712852,10997589,6.482,0.005
+Q3331189,"version, edition, or translation",instance of,518066,10997589,4.711,0.004
+Q3331189,"version, edition, or translation",publication date,500734,10997589,4.553,0.004
+Q27020041,sports season,22-rdf-syntax-ns#type,1572731,10693504,14.707,0.012
+Q27020041,sports season,ontology#rank,1156720,10693504,10.817,0.009
+Q27020041,sports season,instance of,496113,10693504,4.639,0.004
+Q27020041,sports season,rdf-schema#label,484761,10693504,4.533,0.004
+Q27020041,sports season,Google Knowledge Graph ID,436081,10693504,4.078,0.003
+Q7725634,literary work,22-rdf-syntax-ns#type,1478965,10049521,14.717,0.011
+Q7725634,literary work,ontology#rank,1252618,10049521,12.464,0.009
+Q7725634,literary work,instance of,617093,10049521,6.141,0.005
+Q7725634,literary work,description,436842,10049521,4.347,0.003
+Q7725634,literary work,prov#wasDerivedFrom,399973,10049521,3.98,0.003
+Q11060274,print,22-rdf-syntax-ns#type,1425563,9700063,14.696,0.011
+Q11060274,print,ontology#rank,1425199,9700063,14.693,0.011
+Q11060274,print,prov#wasDerivedFrom,1078309,9700063,11.117,0.008
+Q11060274,print,collection,749917,9700063,7.731,0.006
+Q11060274,print,instance of,389012,9700063,4.01,0.003
+Q811979,architectural structure,ontology#rank,1290969,9666936,13.354,0.01
+Q811979,architectural structure,22-rdf-syntax-ns#type,1289149,9666936,13.336,0.01
+Q811979,architectural structure,prov#wasDerivedFrom,725555,9666936,7.506,0.005
+Q811979,architectural structure,located in the administrative territorial entity,575158,9666936,5.95,0.004
+Q811979,architectural structure,coordinate location,547210,9666936,5.661,0.004
+Q23442,island,22-rdf-syntax-ns#type,1282293,9885277,12.972,0.01
+Q23442,island,ontology#rank,958245,9885277,9.694,0.007
+Q23442,island,description,897631,9885277,9.08,0.007
+Q23442,island,GeoNames ID,695106,9885277,7.032,0.005
+Q23442,island,prov#wasDerivedFrom,607457,9885277,6.145,0.005
+Q355304,watercourse,22-rdf-syntax-ns#type,1256378,10080421,12.464,0.01
+Q355304,watercourse,ontology#rank,1039967,10080421,10.317,0.008
+Q355304,watercourse,description,1009377,10080421,10.013,0.008
+Q355304,watercourse,GeoNames ID,850410,10080421,8.436,0.006
+Q355304,watercourse,coordinate location,693160,10080421,6.876,0.005
+Q9842,primary school,22-rdf-syntax-ns#type,1252277,8916373,14.045,0.009
+Q9842,primary school,ontology#rank,1236386,8916373,13.866,0.009
+Q9842,primary school,prov#wasDerivedFrom,1008762,8916373,11.314,0.008
+Q9842,primary school,instance of,928973,8916373,10.419,0.007
+Q9842,primary school,country,471206,8916373,5.285,0.004
+Q5084,hamlet,22-rdf-syntax-ns#type,1222418,9013534,13.562,0.009
+Q5084,hamlet,ontology#rank,924362,9013534,10.255,0.007
+Q5084,hamlet,prov#wasDerivedFrom,813808,9013534,9.029,0.006
+Q5084,hamlet,description,550553,9013534,6.108,0.004
+Q5084,hamlet,rdf-schema#label,454201,9013534,5.039,0.003
+Q19389637,biographical article,22-rdf-syntax-ns#type,1212529,8238397,14.718,0.009
+Q19389637,biographical article,ontology#rank,1061395,8238397,12.884,0.008
+Q19389637,biographical article,description,532327,8238397,6.462,0.004
+Q19389637,biographical article,instance of,453324,8238397,5.503,0.003
+Q19389637,biographical article,published in,452917,8238397,5.498,0.003
+Q21014462,cell line,rdf-schema#label,1060304,7955975,13.327,0.008
+Q21014462,cell line,description,1042089,7955975,13.098,0.008
+Q21014462,cell line,22-rdf-syntax-ns#type,833878,7955975,10.481,0.006
+Q21014462,cell line,ontology#rank,833492,7955975,10.476,0.006
+Q21014462,cell line,prov#wasDerivedFrom,833068,7955975,10.471,0.006
+Q59199015,group of stereoisomers,22-rdf-syntax-ns#type,874827,5843270,14.972,0.007
+Q59199015,group of stereoisomers,ontology#rank,871313,5843270,14.911,0.007
+Q59199015,group of stereoisomers,found in taxon,612204,5843270,10.477,0.005
+Q59199015,group of stereoisomers,description,416717,5843270,7.132,0.003
+Q59199015,group of stereoisomers,instance of,336822,5843270,5.764,0.003
+Q47521,stream,22-rdf-syntax-ns#type,873978,6654366,13.134,0.007
+Q47521,stream,ontology#rank,734964,6654366,11.045,0.006
+Q47521,stream,GeoNames ID,587699,6654366,8.832,0.004
+Q47521,stream,prov#wasDerivedFrom,571742,6654366,8.592,0.004
+Q47521,stream,coordinate location,495385,6654366,7.445,0.004
+Q49008,prime number,description,795712,5188768,15.335,0.006
+Q49008,prime number,ontology#rank,644583,5188768,12.423,0.005
+Q49008,prime number,22-rdf-syntax-ns#type,526967,5188768,10.156,0.004
+Q49008,prime number,number of decimal digits,510176,5188768,9.832,0.004
+Q49008,prime number,rdf-schema#label,468888,5188768,9.037,0.004
+Q61443690,branch post office,22-rdf-syntax-ns#type,775436,5313033,14.595,0.006
+Q61443690,branch post office,ontology#rank,775436,5313033,14.595,0.006
+Q61443690,branch post office,prov#wasDerivedFrom,645628,5313033,12.152,0.005
+Q61443690,branch post office,postal code,387561,5313033,7.295,0.003
+Q61443690,branch post office,operator,387555,5313033,7.294,0.003
+Q4164871,position,22-rdf-syntax-ns#type,616685,4720668,13.064,0.005
+Q4164871,position,ontology#rank,580022,4720668,12.287,0.004
+Q4164871,position,rdf-schema#label,544323,4720668,11.531,0.004
+Q4164871,position,instance of,370251,4720668,7.843,0.003
+Q4164871,position,subclass of,352985,4720668,7.477,0.003

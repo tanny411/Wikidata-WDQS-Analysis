@@ -1,0 +1,1460 @@
+subject_subgraph,object_subgraph,count,subject_subgraph_label,object_subgraph_label
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q13442814>,20365813,scholarly article,scholarly article
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q5>,1827334,human,human
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q5>,1813697,scholarly article,human
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q7187>,938852,protein,gene
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q8054>,937518,gene,protein
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q16521>,484226,taxon,taxon
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q101352>,320973,human,family name
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q6999>,304803,astronomical object,astronomical object
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q7187>,240281,gene,gene
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q5>,225968,film,human
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q11173>,173923,scholarly article,chemical compound
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q16521>,156464,Wikimedia category,taxon
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q4167836>,156425,taxon,Wikimedia category
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q482994>,144951,album,album
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q101352>,131596,Wikimedia disambiguation page,family name
+<http://www.wikidata.org/entity/Q49008>,<http://www.wikidata.org/entity/Q49008>,127503,prime number,prime number
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q4167410>,127076,family name,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q59199015>,99653,scholarly article,group of stereoisomers
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q4164871>,95726,human,position
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q8054>,91295,scholarly article,protein
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q5>,90477,biographical article,human
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q4167836>,83170,Wikimedia category,Wikimedia category
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q16521>,81349,scholarly article,taxon
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q5>,66619,painting,human
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q5>,65301,encyclopedia article,human
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q4022>,64823,river,river
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q5>,48090,Wikimedia category,human
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q5>,47583,literary work,human
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q19389637>,47116,biographical article,biographical article
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q21014462>,44442,scholarly article,cell line
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q4167836>,44285,human,Wikimedia category
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q4167836>,38786,Wikimedia list article,Wikimedia category
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q13406463>,38502,Wikimedia category,Wikimedia list article
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q5>,38177,"version, edition, or translation",human
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q27020041>,36441,sports season,sports season
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q101352>,36385,family name,family name
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q16521>,35153,chemical compound,taxon
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q13433827>,34065,encyclopedia article,encyclopedia article
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q5>,30085,album,human
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q532>,26398,human,village
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q79007>,26079,street,street
+<http://www.wikidata.org/entity/Q59199015>,<http://www.wikidata.org/entity/Q16521>,25787,group of stereoisomers,taxon
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q486972>,24349,human,human settlement
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q4167410>,21017,Wikimedia disambiguation page,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q4830453>,19511,business,business
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q13442814>,19405,cell line,scholarly article
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q5>,18069,street,human
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q21014462>,16910,cell line,cell line
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q5>,16296,business,human
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q3331189>,15931,"version, edition, or translation","version, edition, or translation"
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q3305213>,15649,human,painting
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q532>,13331,church building,village
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q5>,13097,print,human
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q4830453>,12753,human,business
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q4167836>,12487,church building,Wikimedia category
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q7725634>,11831,human,literary work
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q13406463>,11828,Wikimedia list article,Wikimedia list article
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q3331189>,11510,literary work,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q7725634>,11477,literary work,literary work
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q4167410>,11437,human,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q16970>,10759,Wikimedia category,church building
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q7725634>,8330,"version, edition, or translation",literary work
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q79007>,7837,house,street
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q79007>,7473,building,street
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q4167836>,7425,human settlement,Wikimedia category
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q4167836>,7250,position,Wikimedia category
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q532>,7021,building,village
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q4164871>,7017,Wikimedia category,position
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q532>,6852,house,village
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q4167836>,6813,sports season,Wikimedia category
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q27020041>,6786,Wikimedia category,sports season
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q5>,6708,building,human
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q5>,6700,sports season,human
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q3305213>,6674,painting,painting
+<http://www.wikidata.org/entity/Q47150325>,<http://www.wikidata.org/entity/Q4167836>,6455,calendar day of a given year,Wikimedia category
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q47150325>,6455,Wikimedia category,calendar day of a given year
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q5>,6363,position,human
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q482994>,6330,Wikimedia disambiguation page,album
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q5084>,6317,human,hamlet
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q5>,6307,church building,human
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q13442814>,6235,clinical trial,scholarly article
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q4022>,6153,lake,river
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q532>,6058,architectural structure,village
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q11424>,5908,human,film
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q11424>,5886,film,film
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q8054>,5742,protein,protein
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q27020041>,5376,human,sports season
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q4830453>,5266,Wikimedia category,business
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q2668072>,5246,collection,collection
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q4167836>,5147,business,Wikimedia category
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q5>,5096,astronomical object,human
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q4167410>,4934,album,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q13406463>,4833,church building,Wikimedia list article
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q486972>,4740,Wikimedia category,human settlement
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q4167836>,4683,village,Wikimedia category
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q79007>,4681,church building,street
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q13442814>,4321,literary work,scholarly article
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q23397>,4243,river,lake
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q16970>,4169,human,church building
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q7725634>,4118,scholarly article,literary work
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q486972>,4101,human settlement,human settlement
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q4167836>,3952,river,Wikimedia category
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q532>,3908,Wikimedia category,village
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q4022>,3627,Wikimedia category,river
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q13442814>,3562,human,scholarly article
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q4164871>,3384,position,position
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q532>,3318,village,village
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q47521>,3218,river,stream
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q486972>,3080,church building,human settlement
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q13442814>,2959,protein,scholarly article
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q532>,2792,primary school,village
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q4022>,2685,stream,river
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q13442814>,2675,"version, edition, or translation",scholarly article
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q5>,2673,Wikimedia disambiguation page,human
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q3331189>,2609,human,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q41176>,2602,human,building
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q5>,2591,taxon,human
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q11173>,2584,chemical compound,chemical compound
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q7725634>,2583,film,literary work
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q16521>,2525,encyclopedia article,taxon
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q5>,2491,house,human
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q355304>,2370,river,watercourse
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q4167836>,2368,mountain,Wikimedia category
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q11266439>,2363,Wikimedia template,Wikimedia template
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q13406463>,2339,position,Wikimedia list article
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q8502>,2300,mountain,mountain
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q16970>,2261,painting,church building
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q4022>,2244,watercourse,river
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q11424>,2236,literary work,film
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q5>,2151,Wikimedia list article,human
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q19389637>,2140,encyclopedia article,biographical article
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q11173>,2136,clinical trial,chemical compound
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q47521>,2124,stream,stream
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q8502>,2089,Wikimedia category,mountain
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q4167836>,2047,astronomical object,Wikimedia category
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q6999>,2037,Wikimedia category,astronomical object
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q3331189>,2011,scholarly article,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q5>,2008,architectural structure,human
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q13406463>,1947,house,Wikimedia list article
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q9842>,1936,primary school,primary school
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q13406463>,1832,building,Wikimedia list article
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q13406463>,1815,human settlement,Wikimedia list article
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q4167410>,1787,film,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q13406463>,1776,architectural structure,Wikimedia list article
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q4167836>,1739,island,Wikimedia category
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q13406463>,1719,human,Wikimedia list article
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q4167410>,1702,Wikimedia category,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q532>,1638,street,village
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q56436498>,1619,human,village in India
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q4167836>,1592,Wikimedia disambiguation page,Wikimedia category
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q4164871>,1582,Wikimedia list article,position
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q4830453>,1473,film,business
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q79007>,1466,human,street
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q23442>,1439,human,island
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q11173>,1374,protein,chemical compound
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q4022>,1301,encyclopedia article,river
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q16970>,1293,church building,church building
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q13433827>,1279,biographical article,encyclopedia article
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q4167836>,1278,primary school,Wikimedia category
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q482994>,1274,film,album
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q9842>,1242,Wikimedia category,primary school
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q2668072>,1214,item of collection or exhibition,collection
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q355304>,1211,watercourse,watercourse
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q4167410>,1181,scholarly article,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q16521>,1165,painting,taxon
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q23442>,1111,Wikimedia category,island
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q5>,1087,collection,human
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q19389637>,1086,human,biographical article
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q486972>,1072,business,human settlement
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q4167836>,1071,building,Wikimedia category
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q486972>,1045,street,human settlement
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q9842>,1020,human,primary school
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q3947>,1003,human,house
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q482994>,989,human,album
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q41176>,955,building,building
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q23397>,948,lake,lake
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q4830453>,938,building,business
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q7187>,930,scholarly article,gene
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q4167410>,924,human settlement,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q6999>,918,scholarly article,astronomical object
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q5>,880,clinical trial,human
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q4167410>,864,village,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q11424>,856,album,film
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q811979>,853,human,architectural structure
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q11266439>,850,human,Wikimedia template
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q4167836>,847,family name,Wikimedia category
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q486972>,843,primary school,human settlement
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q101352>,841,Wikimedia category,family name
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q4167410>,829,encyclopedia article,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q532>,826,human settlement,village
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q5>,825,Wikimedia template,human
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q4167836>,823,street,Wikimedia category
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q41176>,822,Wikimedia category,building
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q8054>,820,chemical compound,protein
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q79007>,803,Wikimedia category,street
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q486972>,800,village,human settlement
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q79007>,780,architectural structure,street
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q532>,762,hamlet,village
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q16521>,739,human,taxon
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q4167836>,730,literary work,Wikimedia category
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q5>,728,mountain,human
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q7725634>,719,Wikimedia category,literary work
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q486972>,717,building,human settlement
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q2668072>,706,human,collection
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q16521>,706,cell line,taxon
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q4830453>,701,clinical trial,business
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q5>,696,human settlement,human
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q13406463>,694,village,Wikimedia list article
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q486972>,690,encyclopedia article,human settlement
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q532>,688,business,village
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q3947>,681,house,house
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q23442>,672,island,island
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q8502>,663,river,mountain
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q4167836>,654,hamlet,Wikimedia category
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q8502>,648,human,mountain
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q4167410>,637,literary work,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q5>,630,primary school,human
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q532>,626,scholarly article,village
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q17633526>,604,Wikinews article,Wikinews article
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q4022>,604,human,river
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q5084>,592,church building,hamlet
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q5084>,579,Wikimedia category,hamlet
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q16970>,575,literary work,church building
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q486972>,575,house,human settlement
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q13100073>,574,human settlement,village-level division in China
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q16521>,573,street,taxon
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q4830453>,564,"version, edition, or translation",business
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q532>,538,encyclopedia article,village
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q4022>,525,human settlement,river
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q4167410>,523,river,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q23442>,514,human settlement,island
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q5>,502,item of collection or exhibition,human
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q4167410>,493,hamlet,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q4022>,488,village,river
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q4167836>,484,architectural structure,Wikimedia category
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q5>,461,Wikinews article,human
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q4830453>,460,album,business
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q4830453>,452,literary work,business
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q23442>,449,mountain,island
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q56436498>,447,village in India,village in India
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q4167410>,446,business,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q23397>,431,stream,lake
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q8502>,430,island,mountain
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q811979>,420,Wikimedia category,architectural structure
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q23442>,409,church building,island
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q23442>,406,encyclopedia article,island
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q59199015>,403,chemical compound,group of stereoisomers
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q4167836>,385,lake,Wikimedia category
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q11424>,383,Wikimedia disambiguation page,film
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q11266439>,375,Wikimedia category,Wikimedia template
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q18593264>,375,item of collection or exhibition,item of collection or exhibition
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q13442814>,368,taxon,scholarly article
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q3331189>,367,encyclopedia article,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q41176>,367,business,building
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q355304>,365,lake,watercourse
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q811979>,360,architectural structure,architectural structure
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q47521>,360,lake,stream
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q5>,358,island,human
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q23397>,356,island,lake
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q16970>,351,street,church building
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q79007>,343,business,street
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q4167410>,335,taxon,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q486972>,334,mountain,human settlement
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q30612>,333,scholarly article,clinical trial
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q5>,329,village,human
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q23397>,327,watercourse,lake
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q486972>,326,architectural structure,human settlement
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q23397>,321,Wikimedia category,lake
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q486972>,317,position,human settlement
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q5>,309,lake,human
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q4022>,308,street,river
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q16521>,297,protein,taxon
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q4830453>,288,architectural structure,business
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q5084>,286,building,hamlet
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q79007>,281,painting,street
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q16521>,279,Wikimedia template,taxon
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q11424>,276,Wikimedia category,film
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q11266439>,276,taxon,Wikimedia template
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q4022>,275,painting,river
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q13433827>,272,human,encyclopedia article
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q4830453>,271,scholarly article,business
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q23397>,264,human,lake
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q13433827>,260,"version, edition, or translation",encyclopedia article
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q11173>,257,encyclopedia article,chemical compound
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q27020041>,253,Wikimedia template,sports season
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q27020041>,251,Wikimedia list article,sports season
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q47150325>,250,Wikinews article,calendar day of a given year
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q486972>,249,river,human settlement
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q11266439>,247,sports season,Wikimedia template
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q41176>,242,house,building
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q482994>,240,"version, edition, or translation",album
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q23442>,240,village,island
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q11266439>,236,position,Wikimedia template
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q532>,230,river,village
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q23442>,229,scholarly article,island
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q4167410>,226,painting,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q8502>,218,encyclopedia article,mountain
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q23397>,218,encyclopedia article,lake
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q4022>,218,island,river
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q3947>,217,building,house
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q4167836>,217,hill,Wikimedia category
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q532>,217,print,village
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q41176>,216,painting,building
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q4167836>,214,film,Wikimedia category
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q4164871>,212,encyclopedia article,position
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q54050>,209,hill,hill
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q11173>,208,"version, edition, or translation",chemical compound
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q4167410>,208,mountain,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q16521>,206,Wikimedia disambiguation page,taxon
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q7725634>,206,church building,literary work
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q7725634>,205,painting,literary work
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q482994>,204,Wikimedia list article,album
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q8502>,204,hill,mountain
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q11424>,202,scholarly article,film
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q4830453>,202,Wikimedia disambiguation page,business
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q4164871>,200,Wikimedia template,position
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q486972>,199,island,human settlement
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q23442>,199,lake,island
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q4167836>,195,chemical compound,Wikimedia category
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q16521>,195,astronomical object,taxon
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q13406463>,191,Wikimedia template,Wikimedia list article
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q11173>,189,Wikimedia category,chemical compound
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q5>,189,river,human
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q23397>,188,village,lake
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q54050>,188,Wikimedia category,hill
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q16521>,185,human settlement,taxon
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q486972>,184,scholarly article,human settlement
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q4164871>,182,human settlement,position
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q11266439>,181,Wikimedia list article,Wikimedia template
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q532>,179,lake,village
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q7725634>,179,Wikimedia disambiguation page,literary work
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q11060274>,178,human,print
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q16521>,175,Wikimedia list article,taxon
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q5084>,175,house,hamlet
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q101352>,175,scholarly article,family name
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q11060274>,173,print,print
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q532>,172,hill,village
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q4167836>,171,"version, edition, or translation",Wikimedia category
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q482994>,170,scholarly article,album
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q23442>,169,hill,island
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q486972>,167,Wikimedia disambiguation page,human settlement
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q3331189>,166,Wikimedia category,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q486972>,162,film,human settlement
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q7725634>,162,encyclopedia article,literary work
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q3947>,162,human settlement,house
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q79007>,162,film,street
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q8502>,159,street,mountain
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q5>,158,family name,human
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q8502>,158,painting,mountain
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q486972>,157,village in India,human settlement
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q23442>,157,taxon,island
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q16970>,157,scholarly article,church building
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q47521>,152,watercourse,stream
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q3947>,152,hamlet,house
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q355304>,151,stream,watercourse
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q4022>,150,scholarly article,river
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q79007>,150,primary school,street
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q54050>,149,human,hill
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q13406463>,149,sports season,Wikimedia list article
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q4167410>,148,church building,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q11424>,147,"version, edition, or translation",film
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q5084>,144,village,hamlet
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q41176>,144,architectural structure,building
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q6999>,144,encyclopedia article,astronomical object
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q4830453>,143,astronomical object,business
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q4167836>,143,house,Wikimedia category
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q54050>,142,mountain,hill
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q16970>,141,print,church building
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q4167410>,141,lake,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q23442>,141,street,island
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q3947>,141,architectural structure,house
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q4830453>,141,painting,business
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q13442814>,139,encyclopedia article,scholarly article
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q4167410>,139,"version, edition, or translation",Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q486972>,139,painting,human settlement
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q8502>,139,scholarly article,mountain
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q5084>,138,architectural structure,hamlet
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q3331189>,134,biographical article,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q41176>,134,primary school,building
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q13442814>,133,chemical compound,scholarly article
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q532>,133,island,village
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q13406463>,132,Wikimedia disambiguation page,Wikimedia list article
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q11266439>,132,business,Wikimedia template
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q23442>,130,building,island
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q23442>,130,painting,island
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q3331189>,128,painting,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q79007>,128,literary work,street
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q4167410>,128,street,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q3947>,128,Wikimedia category,house
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q4167410>,128,cell line,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q41176>,127,position,building
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q3331189>,127,Wikimedia disambiguation page,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q27020041>,127,Wikimedia disambiguation page,sports season
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q4167410>,126,astronomical object,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q4167836>,125,Wikimedia template,Wikimedia category
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q3305213>,121,scholarly article,painting
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q532>,120,painting,village
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q8502>,120,human settlement,mountain
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q486972>,119,lake,human settlement
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q3331189>,119,collection,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q4167410>,118,island,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q11173>,118,business,chemical compound
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q486972>,116,hamlet,human settlement
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q23442>,116,river,island
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q532>,116,"version, edition, or translation",village
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q4830453>,115,Wikimedia template,business
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q4022>,114,hamlet,river
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q2668072>,114,painting,collection
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q4164871>,113,painting,position
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q13442814>,113,Wikimedia disambiguation page,scholarly article
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q3305213>,113,literary work,painting
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q532>,112,mountain,village
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q16521>,109,literary work,taxon
+<http://www.wikidata.org/entity/Q59199015>,<http://www.wikidata.org/entity/Q11173>,108,group of stereoisomers,chemical compound
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q23442>,107,film,island
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q101352>,107,encyclopedia article,family name
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q13406463>,107,mountain,Wikimedia list article
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q54050>,106,street,hill
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q47521>,105,Wikimedia category,stream
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q811979>,105,building,architectural structure
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q4830453>,104,sports season,business
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q486972>,104,taxon,human settlement
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q41176>,103,street,building
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q16521>,103,gene,taxon
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q3331189>,102,Wikimedia list article,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q4167836>,102,stream,Wikimedia category
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q4830453>,100,Wikimedia list article,business
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q23397>,100,painting,lake
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q4167410>,100,Wikimedia list article,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q5084>,99,street,hamlet
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q4830453>,98,street,business
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q532>,98,film,village
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q41176>,98,church building,building
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q4022>,97,print,river
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q4167836>,96,watercourse,Wikimedia category
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q4022>,95,mountain,river
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q7725634>,95,print,literary work
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q7725634>,95,album,literary work
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q5>,95,chemical compound,human
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q16521>,95,"version, edition, or translation",taxon
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q6999>,95,human,astronomical object
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q486972>,94,hill,human settlement
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q355304>,94,Wikimedia category,watercourse
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q5>,94,hill,human
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q3947>,93,painting,house
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q482994>,91,literary work,album
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q23397>,90,human settlement,lake
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q486972>,89,sports season,human settlement
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q8502>,89,church building,mountain
+<http://www.wikidata.org/entity/Q59199015>,<http://www.wikidata.org/entity/Q59199015>,88,group of stereoisomers,group of stereoisomers
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q5084>,87,hamlet,hamlet
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q16970>,87,building,church building
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q8502>,86,watercourse,mountain
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q4167410>,86,sports season,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q13100073>,<http://www.wikidata.org/entity/Q13100073>,84,village-level division in China,village-level division in China
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q17633526>,83,"version, edition, or translation",Wikinews article
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q486972>,83,literary work,human settlement
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q3331189>,83,Wikinews article,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q4167410>,82,gene,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q23442>,80,literary work,island
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q23442>,80,business,island
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q3305213>,80,Wikimedia category,painting
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q16970>,80,architectural structure,church building
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q23442>,79,architectural structure,island
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q13406463>,79,business,Wikimedia list article
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q532>,78,Wikimedia disambiguation page,village
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q7725634>,78,Wikimedia list article,literary work
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q4164871>,77,Wikimedia disambiguation page,position
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q8502>,77,astronomical object,mountain
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q11060274>,76,"version, edition, or translation",print
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q4164871>,76,scholarly article,position
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q4167410>,76,position,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q3331189>,76,album,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q3947>,75,street,house
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q6999>,73,"version, edition, or translation",astronomical object
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q9842>,73,building,primary school
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q7187>,72,Wikimedia template,gene
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q811979>,71,painting,architectural structure
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q4167836>,71,collection,Wikimedia category
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q4022>,70,architectural structure,river
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q532>,70,Wikimedia list article,village
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q3331189>,69,film,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q3331189>,68,Wikimedia template,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q11266439>,68,"version, edition, or translation",Wikimedia template
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q13406463>,68,literary work,Wikimedia list article
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q4022>,67,astronomical object,river
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q811979>,67,business,architectural structure
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q16521>,67,film,taxon
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q8502>,66,village,mountain
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q23397>,66,scholarly article,lake
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q23397>,66,street,lake
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q4022>,65,taxon,river
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q486972>,65,family name,human settlement
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q8502>,65,Wikimedia disambiguation page,mountain
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q355304>,64,human,watercourse
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q41176>,64,film,building
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q11424>,64,business,film
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q486972>,64,Wikimedia list article,human settlement
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q16521>,64,print,taxon
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q16521>,63,lake,taxon
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q41176>,62,scholarly article,building
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q532>,62,literary work,village
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q13406463>,61,collection,Wikimedia list article
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q16521>,61,business,taxon
+<http://www.wikidata.org/entity/Q59199015>,<http://www.wikidata.org/entity/Q8054>,60,group of stereoisomers,protein
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q4167410>,60,building,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q5084>,60,encyclopedia article,hamlet
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q4830453>,59,house,business
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q6999>,59,street,astronomical object
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q23442>,59,house,island
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q486972>,59,"version, edition, or translation",human settlement
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q486972>,58,astronomical object,human settlement
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q41176>,58,Wikimedia list article,building
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q8502>,57,taxon,mountain
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q41176>,57,sports season,building
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q27020041>,57,Wikinews article,sports season
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q532>,57,watercourse,village
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q3305213>,57,business,painting
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q486972>,56,stream,human settlement
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q811979>,56,scholarly article,architectural structure
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q2668072>,56,Wikimedia category,collection
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q23442>,56,hamlet,island
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q532>,56,position,village
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q16521>,56,river,taxon
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q4830453>,55,encyclopedia article,business
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q3947>,55,Wikimedia list article,house
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q811979>,55,sports season,architectural structure
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q4022>,54,Wikimedia disambiguation page,river
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q532>,54,collection,village
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q4164871>,53,village,position
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q11173>,53,taxon,chemical compound
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q13406463>,53,street,Wikimedia list article
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q13442814>,51,painting,scholarly article
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q4164871>,51,business,position
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q3305213>,51,Wikimedia disambiguation page,painting
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q4167410>,50,clinical trial,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q811979>,50,church building,architectural structure
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q59199015>,49,clinical trial,group of stereoisomers
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q16521>,48,album,taxon
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q3305213>,48,print,painting
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q3305213>,48,"version, edition, or translation",painting
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q8502>,47,film,mountain
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q4167410>,47,print,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q13433827>,47,scholarly article,encyclopedia article
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q101352>,47,human settlement,family name
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q101352>,47,business,family name
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q4167836>,46,painting,Wikimedia category
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q16521>,46,item of collection or exhibition,taxon
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q56436498>,46,human settlement,village in India
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q13406463>,45,album,Wikimedia list article
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q47521>,45,street,stream
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q5084>,45,human settlement,hamlet
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q13406463>,45,film,Wikimedia list article
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q13406463>,45,taxon,Wikimedia list article
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q532>,45,stream,village
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q5084>,45,river,hamlet
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q13406463>,44,island,Wikimedia list article
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q4830453>,44,item of collection or exhibition,business
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q17633526>,44,human,Wikinews article
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q7725634>,44,collection,literary work
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q16521>,44,village,taxon
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q47521>,43,human settlement,stream
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q482994>,43,Wikimedia category,album
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q13406463>,43,encyclopedia article,Wikimedia list article
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q16970>,43,"version, edition, or translation",church building
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q4022>,43,film,river
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q4167410>,43,watercourse,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q5>,43,hamlet,human
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q13406463>,43,astronomical object,Wikimedia list article
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q4167410>,43,chemical compound,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q532>,42,taxon,village
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q4022>,42,building,river
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q13406463>,42,"version, edition, or translation",Wikimedia list article
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q3305213>,42,Wikimedia list article,painting
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q11173>,42,human,chemical compound
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q355304>,42,village,watercourse
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q811979>,41,street,architectural structure
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q3331189>,41,print,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q23442>,41,stream,island
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q4830453>,41,human settlement,business
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q2668072>,40,"version, edition, or translation",collection
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q16521>,40,family name,taxon
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q16521>,40,island,taxon
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q4164871>,39,"version, edition, or translation",position
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q54050>,39,island,hill
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q3305213>,39,church building,painting
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q4167410>,39,stream,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q79007>,39,hill,street
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q4164871>,38,street,position
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q4164871>,38,print,position
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q4164871>,38,building,position
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q355304>,38,human settlement,watercourse
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q4167836>,37,album,Wikimedia category
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q13442814>,37,business,scholarly article
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q13406463>,37,scholarly article,Wikimedia list article
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q4830453>,37,position,business
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q101352>,37,Wikimedia list article,family name
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q47521>,36,human,stream
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q23397>,36,taxon,lake
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q5084>,36,print,hamlet
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q54050>,36,river,hill
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q16970>,36,mountain,church building
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q11424>,36,taxon,film
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q4167410>,35,hill,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q23442>,35,astronomical object,island
+<http://www.wikidata.org/entity/Q49008>,<http://www.wikidata.org/entity/Q5>,35,prime number,human
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q5>,35,watercourse,human
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q8502>,34,lake,mountain
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q811979>,34,house,architectural structure
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q6999>,34,business,astronomical object
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q4167836>,34,village in India,Wikimedia category
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q101352>,34,film,family name
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q4830453>,34,taxon,business
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q486972>,34,watercourse,human settlement
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q47521>,33,village,stream
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q56436498>,33,church building,village in India
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q532>,33,family name,village
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q8054>,33,Wikimedia template,protein
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q3331189>,33,church building,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q4022>,33,literary work,river
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q11173>,33,cell line,chemical compound
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q16970>,32,human settlement,church building
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q16970>,32,encyclopedia article,church building
+<http://www.wikidata.org/entity/Q49008>,<http://www.wikidata.org/entity/Q4167410>,32,prime number,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q13100073>,<http://www.wikidata.org/entity/Q486972>,32,village-level division in China,human settlement
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q6999>,31,painting,astronomical object
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q4022>,31,business,river
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q11266439>,31,literary work,Wikimedia template
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q41176>,31,human settlement,building
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q19389637>,31,scholarly article,biographical article
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q54050>,31,scholarly article,hill
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q101352>,31,"version, edition, or translation",family name
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q47150325>,30,human,calendar day of a given year
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q13442814>,30,family name,scholarly article
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q11424>,30,painting,film
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q23397>,30,mountain,lake
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q7187>,30,chemical compound,gene
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q3331189>,30,taxon,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q7725634>,30,Wikimedia template,literary work
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q532>,30,sports season,village
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q11060274>,30,painting,print
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q2668072>,29,scholarly article,collection
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q56436498>,29,Wikimedia category,village in India
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q54050>,29,human settlement,hill
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q2668072>,29,architectural structure,collection
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q23442>,29,sports season,island
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q8054>,29,clinical trial,protein
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q54050>,29,painting,hill
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q5084>,29,primary school,hamlet
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q6999>,29,Wikimedia disambiguation page,astronomical object
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q2668072>,29,business,collection
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q811979>,28,collection,architectural structure
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q41176>,28,"version, edition, or translation",building
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q101352>,28,street,family name
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q4022>,28,church building,river
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q3331189>,28,business,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q3947>,28,print,house
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q4022>,27,Wikimedia list article,river
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q17633526>,27,Wikimedia category,Wikinews article
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q7725634>,27,biographical article,literary work
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q54050>,27,print,hill
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q4830453>,27,family name,business
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q41176>,27,literary work,building
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q13100073>,27,human,village-level division in China
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q5>,27,stream,human
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q4167836>,27,Wikinews article,Wikimedia category
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q54050>,27,encyclopedia article,hill
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q482994>,27,business,album
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q355304>,27,encyclopedia article,watercourse
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q41176>,26,print,building
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q7725634>,26,astronomical object,literary work
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q7725634>,26,taxon,literary work
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q2668072>,26,literary work,collection
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q13406463>,26,primary school,Wikimedia list article
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q11266439>,26,protein,Wikimedia template
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q59199015>,26,protein,group of stereoisomers
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q101352>,26,print,family name
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q16521>,26,mountain,taxon
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q11266439>,26,gene,Wikimedia template
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q18593264>,26,human,item of collection or exhibition
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q13406463>,25,hamlet,Wikimedia list article
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q3305213>,25,film,painting
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q7725634>,25,street,literary work
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q23442>,25,"version, edition, or translation",island
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q811979>,25,Wikimedia list article,architectural structure
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q5084>,25,hill,hamlet
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q5084>,25,scholarly article,hamlet
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q23442>,25,primary school,island
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q5084>,25,business,hamlet
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q3947>,25,scholarly article,house
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q13442814>,25,building,scholarly article
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q13406463>,24,painting,Wikimedia list article
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q2668072>,24,film,collection
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q3947>,24,position,house
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q54050>,24,building,hill
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q7725634>,24,business,literary work
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q8502>,24,print,mountain
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q4830453>,24,church building,business
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q27020041>,24,business,sports season
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q101352>,24,village,family name
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q6999>,23,literary work,astronomical object
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q13442814>,23,gene,scholarly article
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q3947>,23,church building,house
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q101352>,23,mountain,family name
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q16521>,23,clinical trial,taxon
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q79007>,23,Wikimedia disambiguation page,street
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q11424>,23,human settlement,film
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q4167410>,23,architectural structure,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q54050>,23,Wikimedia disambiguation page,hill
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q16970>,22,Wikimedia list article,church building
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q8502>,22,business,mountain
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q79007>,22,"version, edition, or translation",street
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q3305213>,22,collection,painting
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q3331189>,22,position,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q3331189>,22,building,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q41176>,22,clinical trial,building
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q8502>,22,family name,mountain
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q2668072>,22,print,collection
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q101352>,22,painting,family name
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q54050>,22,village,hill
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q4164871>,22,literary work,position
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q23397>,21,hamlet,lake
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q13406463>,21,river,Wikimedia list article
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q16970>,21,album,church building
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q4830453>,21,village,business
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q23397>,21,film,lake
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q23442>,21,position,island
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q16970>,21,house,church building
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q4167410>,21,house,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q101352>,21,literary work,family name
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q4022>,20,family name,river
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q56436498>,20,river,village in India
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q16521>,20,hamlet,taxon
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q23442>,20,Wikimedia list article,island
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q4830453>,20,Wikinews article,business
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q4167836>,20,scholarly article,Wikimedia category
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q41176>,20,encyclopedia article,building
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q3331189>,20,human settlement,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q16970>,20,Wikimedia disambiguation page,church building
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q41176>,20,collection,building
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q8502>,20,stream,mountain
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q11266439>,20,river,Wikimedia template
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q11266439>,20,album,Wikimedia template
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q30612>,20,clinical trial,clinical trial
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q11424>,20,Wikimedia list article,film
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q54050>,20,church building,hill
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q8502>,19,architectural structure,mountain
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q8054>,19,human,protein
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q13442814>,19,film,scholarly article
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q23442>,19,Wikimedia disambiguation page,island
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q4830453>,19,print,business
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q16521>,19,house,taxon
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q482994>,19,Wikimedia template,album
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q16970>,19,film,church building
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q4167410>,19,Wikimedia template,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q532>,19,astronomical object,village
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q3305213>,18,house,painting
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q41176>,18,album,building
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q23397>,18,astronomical object,lake
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q56436498>,18,business,village in India
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q23442>,18,watercourse,island
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q5084>,18,taxon,hamlet
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q8502>,18,building,mountain
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q23397>,17,church building,lake
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q13406463>,17,family name,Wikimedia list article
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q811979>,17,position,architectural structure
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q16970>,17,village,church building
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q13442814>,17,Wikimedia list article,scholarly article
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q101352>,17,river,family name
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q47150325>,17,astronomical object,calendar day of a given year
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q6999>,17,film,astronomical object
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q4022>,17,hill,river
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q11266439>,17,Wikimedia disambiguation page,Wikimedia template
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q3331189>,17,astronomical object,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q11173>,17,Wikimedia disambiguation page,chemical compound
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q13406463>,17,lake,Wikimedia list article
+<http://www.wikidata.org/entity/Q59199015>,<http://www.wikidata.org/entity/Q13442814>,16,group of stereoisomers,scholarly article
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q811979>,16,film,architectural structure
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q4830453>,16,primary school,business
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q13442814>,16,collection,scholarly article
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q486972>,16,print,human settlement
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q13442814>,16,astronomical object,scholarly article
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q11424>,16,mountain,film
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q7187>,16,human,gene
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q4167410>,15,protein,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q4830453>,15,collection,business
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q4164871>,15,hamlet,position
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q6999>,15,mountain,astronomical object
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q4022>,15,"version, edition, or translation",river
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q47521>,15,encyclopedia article,stream
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q79007>,15,hamlet,street
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q7725634>,15,building,literary work
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q6999>,15,Wikimedia list article,astronomical object
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q13406463>,15,hill,Wikimedia list article
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q355304>,15,street,watercourse
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q3331189>,15,street,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q486972>,15,album,human settlement
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q23397>,15,print,lake
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q6999>,15,taxon,astronomical object
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q4167410>,15,primary school,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q3331189>,15,river,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q5084>,15,Wikimedia disambiguation page,hamlet
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q4164871>,15,film,position
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q4022>,14,house,river
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q4164871>,14,family name,position
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q11424>,14,village,film
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q8502>,14,literary work,mountain
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q4830453>,14,island,business
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q811979>,14,literary work,architectural structure
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q532>,14,album,village
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q811979>,14,human settlement,architectural structure
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q7187>,14,clinical trial,gene
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q3331189>,14,village,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q2668072>,14,building,collection
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q4022>,14,Wikimedia template,river
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q6999>,14,Wikinews article,astronomical object
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q4164871>,14,church building,position
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q23442>,14,print,island
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q5084>,14,film,hamlet
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q3331189>,14,family name,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q7725634>,14,river,literary work
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q3305213>,14,item of collection or exhibition,painting
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q79007>,13,human settlement,street
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q23397>,13,"version, edition, or translation",lake
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q811979>,13,Wikimedia disambiguation page,architectural structure
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q5084>,13,position,hamlet
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q482994>,13,painting,album
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q4830453>,13,chemical compound,business
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q54050>,13,family name,hill
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q811979>,13,print,architectural structure
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q79007>,13,collection,street
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q54050>,13,film,hill
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q6999>,13,album,astronomical object
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q4830453>,12,river,business
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q56436498>,12,film,village in India
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q4167410>,12,village in India,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q101352>,12,hill,family name
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q355304>,12,scholarly article,watercourse
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q56436498>,12,building,village in India
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q4022>,12,village in India,river
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q355304>,12,island,watercourse
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q23397>,12,sports season,lake
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q49008>,12,scholarly article,prime number
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q3947>,12,business,house
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q23397>,12,literary work,lake
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q54050>,12,taxon,hill
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q3331189>,12,item of collection or exhibition,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q79007>,12,village,street
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q532>,12,item of collection or exhibition,village
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q23442>,12,album,island
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q23442>,12,family name,island
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q79007>,12,encyclopedia article,street
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q16970>,12,position,church building
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q3331189>,12,hill,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q355304>,12,Wikimedia disambiguation page,watercourse
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q101352>,11,taxon,family name
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q11173>,11,film,chemical compound
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q3331189>,11,chemical compound,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q4167410>,11,biographical article,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q8502>,11,sports season,mountain
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q3331189>,11,mountain,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q23397>,11,building,lake
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q811979>,11,album,architectural structure
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q486972>,11,Wikimedia template,human settlement
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q4164871>,11,Wikinews article,position
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q8054>,11,Wikimedia category,protein
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q7725634>,11,mountain,literary work
+<http://www.wikidata.org/entity/Q47150325>,<http://www.wikidata.org/entity/Q47150325>,11,calendar day of a given year,calendar day of a given year
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q8502>,11,"version, edition, or translation",mountain
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q4167836>,10,protein,Wikimedia category
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q13442814>,10,Wikimedia category,scholarly article
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q7725634>,10,human settlement,literary work
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q5084>,10,family name,hamlet
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q79007>,10,scholarly article,street
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q8054>,10,taxon,protein
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q79007>,10,print,street
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q54050>,10,watercourse,hill
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q47150325>,10,painting,calendar day of a given year
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q7725634>,10,village,literary work
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q11173>,10,gene,chemical compound
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q56436498>,10,taxon,village in India
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q27020041>,10,film,sports season
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q101352>,10,island,family name
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q4830453>,10,mountain,business
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q4164871>,10,architectural structure,position
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q11266439>,10,scholarly article,Wikimedia template
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q482994>,10,taxon,album
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q41176>,10,Wikimedia disambiguation page,building
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q5>,10,village in India,human
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q23442>,9,Wikimedia template,island
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q11424>,9,hill,film
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q47521>,9,mountain,stream
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q7725634>,9,position,literary work
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q56436498>,9,village,village in India
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q3331189>,9,island,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q54050>,9,architectural structure,hill
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q47521>,9,painting,stream
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q16521>,9,building,taxon
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q56436498>,9,literary work,village in India
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q47521>,9,Wikimedia disambiguation page,stream
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q21014462>,9,human,cell line
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q532>,9,village in India,village
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q101352>,9,album,family name
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q486972>,9,item of collection or exhibition,human settlement
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q5084>,9,"version, edition, or translation",hamlet
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q482994>,8,astronomical object,album
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q9842>,8,house,primary school
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q355304>,8,painting,watercourse
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q101352>,8,biographical article,family name
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q355304>,8,family name,watercourse
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q56436498>,8,scholarly article,village in India
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q101352>,8,house,family name
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q101352>,8,building,family name
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q9842>,8,street,primary school
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q11424>,8,river,film
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q355304>,8,taxon,watercourse
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q56436498>,8,encyclopedia article,village in India
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q2668072>,8,Wikimedia list article,collection
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q19389637>,8,"version, edition, or translation",biographical article
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q3947>,8,literary work,house
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q101352>,8,watercourse,family name
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q11060274>,8,literary work,print
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q54050>,8,literary work,hill
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q54050>,8,business,hill
+<http://www.wikidata.org/entity/Q59199015>,<http://www.wikidata.org/entity/Q4167836>,8,group of stereoisomers,Wikimedia category
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q3947>,8,film,house
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q5084>,8,mountain,hamlet
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q13442814>,8,biographical article,scholarly article
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q482994>,8,village,album
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q5084>,8,island,hamlet
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q482994>,8,human settlement,album
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q13433827>,8,Wikimedia disambiguation page,encyclopedia article
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q3331189>,8,house,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q11173>,8,literary work,chemical compound
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q41176>,8,village,building
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q41176>,8,river,building
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q79007>,8,lake,street
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q811979>,8,encyclopedia article,architectural structure
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q4164871>,8,island,position
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q7725634>,7,island,literary work
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q11424>,7,street,film
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q4830453>,7,hill,business
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q79007>,7,Wikimedia list article,street
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q3305213>,7,album,painting
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q11060274>,7,collection,print
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q11173>,7,painting,chemical compound
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q6999>,7,human settlement,astronomical object
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q355304>,7,architectural structure,watercourse
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q16521>,7,stream,taxon
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q3305213>,7,street,painting
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q3331189>,7,lake,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q49008>,7,Wikimedia category,prime number
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q47150325>,7,street,calendar day of a given year
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q7187>,7,Wikimedia category,gene
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q59199015>,7,Wikimedia category,group of stereoisomers
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q3331189>,7,clinical trial,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q23397>,7,Wikimedia disambiguation page,lake
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q11060274>,7,scholarly article,print
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q59199015>,7,encyclopedia article,group of stereoisomers
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q49008>,7,human,prime number
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q355304>,7,hamlet,watercourse
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q5>,6,protein,human
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q11060274>,6,street,print
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q8502>,6,album,mountain
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q47521>,6,scholarly article,stream
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q811979>,6,"version, edition, or translation",architectural structure
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q16970>,6,river,church building
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q13442814>,6,Wikimedia template,scholarly article
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q79007>,6,album,street
+<http://www.wikidata.org/entity/Q49008>,<http://www.wikidata.org/entity/Q4167836>,6,prime number,Wikimedia category
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q16521>,6,watercourse,taxon
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q47150325>,6,film,calendar day of a given year
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q41176>,6,astronomical object,building
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q11173>,6,astronomical object,chemical compound
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q3947>,6,collection,house
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q16521>,6,hill,taxon
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q79007>,6,position,street
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q101352>,6,lake,family name
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q3947>,6,"version, edition, or translation",house
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q23397>,6,house,lake
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q47521>,6,hamlet,stream
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q47521>,6,island,stream
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q79007>,6,mountain,street
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q41176>,6,hamlet,building
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q2668072>,6,position,collection
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q56436498>,6,Wikimedia disambiguation page,village in India
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q486972>,6,collection,human settlement
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q7725634>,6,house,literary work
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q18593264>,6,scholarly article,item of collection or exhibition
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q11266439>,6,human settlement,Wikimedia template
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q355304>,6,business,watercourse
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q3305213>,6,mountain,painting
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q3305213>,6,building,painting
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q811979>,6,mountain,architectural structure
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q7725634>,6,architectural structure,literary work
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q7725634>,6,lake,literary work
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q9842>,6,hamlet,primary school
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q4164871>,6,item of collection or exhibition,position
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q4167410>,6,collection,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q3305213>,6,encyclopedia article,painting
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q11173>,5,album,chemical compound
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q23397>,5,business,lake
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q13442814>,5,human settlement,scholarly article
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q811979>,5,clinical trial,architectural structure
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q79007>,5,stream,street
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q4167836>,5,gene,Wikimedia category
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q3331189>,5,watercourse,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q11266439>,5,street,Wikimedia template
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q3331189>,5,stream,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q16970>,5,hamlet,church building
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q482994>,5,mountain,album
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q41176>,5,mountain,building
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q5084>,5,lake,hamlet
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q811979>,5,river,architectural structure
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q4830453>,5,lake,business
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q4167836>,5,encyclopedia article,Wikimedia category
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q2668072>,5,island,collection
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q47521>,5,house,stream
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q101352>,5,position,family name
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q4830453>,5,watercourse,business
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q47521>,5,family name,stream
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q5084>,5,painting,hamlet
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q11424>,5,family name,film
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q13442814>,5,church building,scholarly article
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q7187>,5,Wikimedia disambiguation page,gene
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q4164871>,5,taxon,position
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q7187>,5,painting,gene
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q7187>,5,"version, edition, or translation",gene
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q2668072>,5,church building,collection
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q482994>,5,island,album
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q3947>,5,village,house
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q13100073>,5,business,village-level division in China
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q56436498>,5,painting,village in India
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q16521>,5,church building,taxon
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q56436498>,5,primary school,village in India
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q4164871>,5,collection,position
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q11060274>,5,Wikimedia disambiguation page,print
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q7725634>,4,item of collection or exhibition,literary work
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q47521>,4,building,stream
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q2668072>,4,human settlement,collection
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q2668072>,4,house,collection
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q4167410>,4,Wikinews article,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q23442>,4,village in India,island
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q5084>,4,stream,hamlet
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q355304>,4,building,watercourse
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q23397>,4,architectural structure,lake
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q101352>,4,hamlet,family name
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q23442>,4,item of collection or exhibition,island
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q41176>,4,hill,building
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q101352>,4,stream,family name
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q7725634>,4,hamlet,literary work
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q49008>,4,taxon,prime number
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q13433827>,4,family name,encyclopedia article
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q5084>,4,Wikimedia list article,hamlet
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q7725634>,4,hill,literary work
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q13442814>,4,print,scholarly article
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q5084>,4,astronomical object,hamlet
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q3331189>,4,architectural structure,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q23442>,4,collection,island
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q486972>,4,Wikinews article,human settlement
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q47521>,4,taxon,stream
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q54050>,4,album,hill
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q79007>,4,river,street
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q11266439>,4,island,Wikimedia template
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q7725634>,4,chemical compound,literary work
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q11266439>,4,film,Wikimedia template
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q16970>,4,Wikinews article,church building
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q54050>,4,house,hill
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q5>,4,cell line,human
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q355304>,4,film,watercourse
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q3331189>,4,hamlet,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q16970>,4,collection,church building
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q5>,4,gene,human
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q4022>,4,sports season,river
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q486972>,4,clinical trial,human settlement
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q482994>,4,hill,album
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q8502>,4,hamlet,mountain
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q8502>,4,house,mountain
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q811979>,4,village,architectural structure
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q8502>,4,position,mountain
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q4830453>,4,biographical article,business
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q3331189>,4,village in India,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q11424>,4,Wikimedia template,film
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q13100073>,4,mountain,village-level division in China
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q49008>,3,painting,prime number
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q27020041>,3,building,sports season
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q56436498>,3,hill,village in India
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q47150325>,3,print,calendar day of a given year
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q49008>,3,position,prime number
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q79007>,3,island,street
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q49008>,3,street,prime number
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q59199015>,3,business,group of stereoisomers
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q5084>,3,literary work,hamlet
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q49008>,3,literary work,prime number
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q47521>,3,church building,stream
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q11266439>,3,astronomical object,Wikimedia template
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q11173>,3,village,chemical compound
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q47521>,3,business,stream
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q13100073>,3,film,village-level division in China
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q13442814>,3,stream,scholarly article
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q9842>,3,village,primary school
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q47521>,3,architectural structure,stream
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q4167836>,3,biographical article,Wikimedia category
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q13100073>,3,village,village-level division in China
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q355304>,3,church building,watercourse
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q11266439>,3,architectural structure,Wikimedia template
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q5084>,3,watercourse,hamlet
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q79007>,3,Wikimedia template,street
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q11266439>,3,collection,Wikimedia template
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q18593264>,3,painting,item of collection or exhibition
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q17633526>,3,scholarly article,Wikinews article
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q9842>,3,business,primary school
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q8054>,3,business,protein
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q16521>,3,position,taxon
+<http://www.wikidata.org/entity/Q47150325>,<http://www.wikidata.org/entity/Q5>,3,calendar day of a given year,human
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q27020041>,3,scholarly article,sports season
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q11173>,3,mountain,chemical compound
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q61443690>,3,human,branch post office
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q4022>,3,album,river
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q6999>,3,item of collection or exhibition,astronomical object
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q19389637>,3,Wikimedia category,biographical article
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q8502>,3,Wikimedia list article,mountain
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q19389637>,3,painting,biographical article
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q19389637>,3,literary work,biographical article
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q4022>,3,collection,river
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q6999>,3,Wikimedia template,astronomical object
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q6999>,3,hill,astronomical object
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q8502>,3,Wikinews article,mountain
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q54050>,3,lake,hill
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q16970>,3,business,church building
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q54050>,3,stream,hill
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q7725634>,3,family name,literary work
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q482994>,3,Wikinews article,album
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q54050>,3,hamlet,hill
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q7725634>,3,clinical trial,literary work
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q4167410>,3,item of collection or exhibition,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q2668072>,3,astronomical object,collection
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q41176>,3,island,building
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q13433827>,3,taxon,encyclopedia article
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q811979>,3,primary school,architectural structure
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q811979>,3,family name,architectural structure
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q811979>,3,astronomical object,architectural structure
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q41176>,3,Wikinews article,building
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q41176>,3,item of collection or exhibition,building
+<http://www.wikidata.org/entity/Q59199015>,<http://www.wikidata.org/entity/Q3331189>,3,group of stereoisomers,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q3305213>,3,lake,painting
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q23397>,3,hill,lake
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q23397>,3,Wikimedia list article,lake
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q13433827>,3,position,encyclopedia article
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q4164871>,3,biographical article,position
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q4164871>,3,album,position
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q16521>,3,Wikinews article,taxon
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q54050>,3,village in India,hill
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q811979>,3,hill,architectural structure
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q2668072>,3,album,collection
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q23442>,3,clinical trial,island
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q2668072>,3,Wikimedia template,collection
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q4830453>,3,hamlet,business
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q11424>,3,Wikinews article,film
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q2668072>,3,hill,collection
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q101352>,3,church building,family name
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q11424>,3,island,film
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q11424>,3,watercourse,film
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q2668072>,3,village,collection
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q11424>,3,astronomical object,film
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q11424>,3,architectural structure,film
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q482994>,3,building,album
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q2668072>,3,clinical trial,collection
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q16521>,3,village in India,taxon
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q482994>,3,family name,album
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q2668072>,3,river,collection
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q811979>,2,stream,architectural structure
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q11424>,2,item of collection or exhibition,film
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q11266439>,2,lake,Wikimedia template
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q11266439>,2,building,Wikimedia template
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q9842>,2,scholarly article,primary school
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q11266439>,2,chemical compound,Wikimedia template
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q49008>,2,Wikinews article,prime number
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q4164871>,2,astronomical object,position
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q4164871>,2,clinical trial,position
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q79007>,2,Wikinews article,street
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q11173>,2,building,chemical compound
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q3331189>,2,protein,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q23397>,2,Wikimedia template,lake
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q23397>,2,village in India,lake
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q811979>,2,hamlet,architectural structure
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q11424>,2,stream,film
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q41176>,2,Wikimedia template,building
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q3305213>,2,family name,painting
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q11424>,2,lake,film
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q13100073>,2,church building,village-level division in China
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q13100073>,2,building,village-level division in China
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q79007>,2,sports season,street
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q811979>,2,item of collection or exhibition,architectural structure
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q11173>,2,street,chemical compound
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q3305213>,2,river,painting
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q8502>,2,village in India,mountain
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q11266439>,2,mountain,Wikimedia template
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q18593264>,2,print,item of collection or exhibition
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q11060274>,2,house,print
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q6999>,2,island,astronomical object
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q11060274>,2,village,print
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q101352>,2,Wikinews article,family name
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q16970>,2,island,church building
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q18593264>,2,"version, edition, or translation",item of collection or exhibition
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q13442814>,2,item of collection or exhibition,scholarly article
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q101352>,2,item of collection or exhibition,family name
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q16970>,2,primary school,church building
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q101352>,2,village in India,family name
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q532>,2,Wikinews article,village
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q47521>,2,astronomical object,stream
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q47521>,2,film,stream
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q482994>,2,print,album
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q49008>,2,mountain,prime number
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q4022>,2,primary school,river
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q3305213>,2,astronomical object,painting
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q101352>,2,sports season,family name
+<http://www.wikidata.org/entity/Q61443690>,<http://www.wikidata.org/entity/Q486972>,2,branch post office,human settlement
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q13442814>,2,mountain,scholarly article
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q27020041>,2,literary work,sports season
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q8502>,2,item of collection or exhibition,mountain
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q8502>,2,Wikimedia template,mountain
+<http://www.wikidata.org/entity/Q13100073>,<http://www.wikidata.org/entity/Q4167410>,2,village-level division in China,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q8502>,2,chemical compound,mountain
+<http://www.wikidata.org/entity/Q59199015>,<http://www.wikidata.org/entity/Q5>,2,group of stereoisomers,human
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q56436498>,2,"version, edition, or translation",village in India
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q56436498>,2,lake,village in India
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q101352>,2,collection,family name
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q13442814>,2,architectural structure,scholarly article
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q56436498>,2,mountain,village in India
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q56436498>,2,island,village in India
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q3305213>,2,architectural structure,painting
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q13406463>,2,chemical compound,Wikimedia list article
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q54050>,2,"version, edition, or translation",hill
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q54050>,2,item of collection or exhibition,hill
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q2668072>,2,mountain,collection
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q16521>,2,architectural structure,taxon
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q2668072>,2,hamlet,collection
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q13406463>,2,watercourse,Wikimedia list article
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q16521>,2,collection,taxon
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q21014462>,2,"version, edition, or translation",cell line
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q2668072>,2,lake,collection
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q11173>,2,Wikimedia template,chemical compound
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q7725634>,2,watercourse,literary work
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q19389637>,2,street,biographical article
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q355304>,2,mountain,watercourse
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q2668072>,2,biographical article,collection
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q2668072>,2,Wikimedia disambiguation page,collection
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q54050>,2,astronomical object,hill
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q355304>,2,primary school,watercourse
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q49008>,2,Wikimedia disambiguation page,prime number
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q3947>,2,encyclopedia article,house
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q13433827>,2,painting,encyclopedia article
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q49008>,2,film,prime number
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q49008>,2,"version, edition, or translation",prime number
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q16521>,2,sports season,taxon
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q17633526>,1,business,Wikinews article
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q17633526>,1,film,Wikinews article
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q101352>,1,primary school,family name
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q54050>,1,position,hill
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q17633526>,1,literary work,Wikinews article
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q17633526>,1,Wikimedia list article,Wikinews article
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q2668072>,1,stream,collection
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q17633526>,1,sports season,Wikinews article
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q482994>,1,collection,album
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q54050>,1,collection,hill
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q8054>,1,cell line,protein
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q54050>,1,sports season,hill
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q17633526>,1,architectural structure,Wikinews article
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q13442814>,1,position,scholarly article
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q5084>,1,village in India,hamlet
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q101352>,1,architectural structure,family name
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q101352>,1,cell line,family name
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q27020041>,1,album,sports season
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q4167836>,1,print,Wikimedia category
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q2668072>,1,primary school,collection
+<http://www.wikidata.org/entity/Q13100073>,<http://www.wikidata.org/entity/Q101352>,1,village-level division in China,family name
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q47521>,1,hill,stream
+<http://www.wikidata.org/entity/Q13100073>,<http://www.wikidata.org/entity/Q532>,1,village-level division in China,village
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q482994>,1,clinical trial,album
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q47521>,1,literary work,stream
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q47521>,1,"version, edition, or translation",stream
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q482994>,1,position,album
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q532>,1,clinical trial,village
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q21014462>,1,business,cell line
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q482994>,1,church building,album
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q482994>,1,cell line,album
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q482994>,1,chemical compound,album
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q532>,1,Wikimedia template,village
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q532>,1,chemical compound,village
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q482994>,1,river,album
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q2668072>,1,encyclopedia article,collection
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q13442814>,1,village,scholarly article
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q2668072>,1,street,collection
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q47521>,1,Wikimedia template,stream
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q54050>,1,primary school,hill
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q27020041>,1,painting,sports season
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q811979>,1,village in India,architectural structure
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q2668072>,1,watercourse,collection
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q3947>,1,album,house
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q47150325>,1,album,calendar day of a given year
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q47150325>,1,Wikimedia disambiguation page,calendar day of a given year
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q3947>,1,Wikimedia disambiguation page,house
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q47150325>,1,Wikimedia list article,calendar day of a given year
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q3947>,1,family name,house
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q47150325>,1,church building,calendar day of a given year
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q11424>,1,position,film
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q11424>,1,building,film
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q11424>,1,house,film
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q13100073>,1,scholarly article,village-level division in China
+<http://www.wikidata.org/entity/Q16970>,<http://www.wikidata.org/entity/Q11424>,1,church building,film
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q11424>,1,chemical compound,film
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q13100073>,1,Wikimedia disambiguation page,village-level division in China
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q13100073>,1,encyclopedia article,village-level division in China
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q13100073>,1,river,village-level division in China
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q23442>,1,chemical compound,island
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q21014462>,1,album,cell line
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q13100073>,1,house,village-level division in China
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q21014462>,1,taxon,cell line
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q5084>,1,sports season,hamlet
+<http://www.wikidata.org/entity/Q13100073>,<http://www.wikidata.org/entity/Q23442>,1,village-level division in China,island
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q13100073>,1,island,village-level division in China
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q23442>,1,Wikinews article,island
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q16521>,1,primary school,taxon
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q21014462>,1,Wikimedia disambiguation page,cell line
+<http://www.wikidata.org/entity/Q61443690>,<http://www.wikidata.org/entity/Q532>,1,branch post office,village
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q21014462>,1,family name,cell line
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q30612>,1,human,clinical trial
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q27020041>,1,street,sports season
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q8054>,1,literary work,protein
+<http://www.wikidata.org/entity/Q49008>,<http://www.wikidata.org/entity/Q4830453>,1,prime number,business
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q27020041>,1,architectural structure,sports season
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q21014462>,1,literary work,cell line
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q4830453>,1,cell line,business
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q4830453>,1,stream,business
+<http://www.wikidata.org/entity/Q11424>,<http://www.wikidata.org/entity/Q9842>,1,film,primary school
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q486972>,1,chemical compound,human settlement
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q9842>,1,encyclopedia article,primary school
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q9842>,1,literary work,primary school
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q9842>,1,"version, edition, or translation",primary school
+<http://www.wikidata.org/entity/Q19389637>,<http://www.wikidata.org/entity/Q486972>,1,biographical article,human settlement
+<http://www.wikidata.org/entity/Q61443690>,<http://www.wikidata.org/entity/Q4830453>,1,branch post office,business
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q486972>,1,gene,human settlement
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q9842>,1,human settlement,primary school
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q9842>,1,position,primary school
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q9842>,1,architectural structure,primary school
+<http://www.wikidata.org/entity/Q13100073>,<http://www.wikidata.org/entity/Q11424>,1,village-level division in China,film
+<http://www.wikidata.org/entity/Q2668072>,<http://www.wikidata.org/entity/Q5084>,1,collection,hamlet
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q11424>,1,hamlet,film
+<http://www.wikidata.org/entity/Q13442814>,<http://www.wikidata.org/entity/Q47150325>,1,scholarly article,calendar day of a given year
+<http://www.wikidata.org/entity/Q11173>,<http://www.wikidata.org/entity/Q30612>,1,chemical compound,clinical trial
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q11060274>,1,hill,print
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q18593264>,1,Wikimedia category,item of collection or exhibition
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q23397>,1,position,lake
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q79007>,1,watercourse,street
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q23397>,1,family name,lake
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q4164871>,1,village in India,position
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q4164871>,1,lake,position
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q13433827>,1,clinical trial,encyclopedia article
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q4164871>,1,house,position
+<http://www.wikidata.org/entity/Q59199015>,<http://www.wikidata.org/entity/Q4167410>,1,group of stereoisomers,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q4164871>,1,river,position
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q13433827>,1,lake,encyclopedia article
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q355304>,1,print,watercourse
+<http://www.wikidata.org/entity/Q47150325>,<http://www.wikidata.org/entity/Q4167410>,1,calendar day of a given year,Wikimedia disambiguation page
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q13433827>,1,village,encyclopedia article
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q3305213>,1,hill,painting
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q3305213>,1,Wikinews article,painting
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q11266439>,1,painting,Wikimedia template
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q3305213>,1,island,painting
+<http://www.wikidata.org/entity/Q11266439>,<http://www.wikidata.org/entity/Q3305213>,1,Wikimedia template,painting
+<http://www.wikidata.org/entity/Q13100073>,<http://www.wikidata.org/entity/Q5>,1,village-level division in China,human
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q3305213>,1,village,painting
+<http://www.wikidata.org/entity/Q8502>,<http://www.wikidata.org/entity/Q13433827>,1,mountain,encyclopedia article
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q13433827>,1,island,encyclopedia article
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q355304>,1,sports season,watercourse
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q3305213>,1,position,painting
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q13433827>,1,human settlement,encyclopedia article
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q13433827>,1,building,encyclopedia article
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q3305213>,1,human settlement,painting
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q41176>,1,family name,building
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q49008>,1,island,prime number
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q811979>,1,Wikinews article,architectural structure
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q11173>,1,lake,chemical compound
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q79007>,1,astronomical object,street
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q11173>,1,human settlement,chemical compound
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q49008>,1,river,prime number
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q7725634>,1,village in India,literary work
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q11173>,1,architectural structure,chemical compound
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q79007>,1,family name,street
+<http://www.wikidata.org/entity/Q482994>,<http://www.wikidata.org/entity/Q49008>,1,album,prime number
+<http://www.wikidata.org/entity/Q49008>,<http://www.wikidata.org/entity/Q3331189>,1,prime number,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q49008>,1,astronomical object,prime number
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q7725634>,1,Wikinews article,literary work
+<http://www.wikidata.org/entity/Q7725634>,<http://www.wikidata.org/entity/Q13433827>,1,literary work,encyclopedia article
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q11173>,1,river,chemical compound
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q13433827>,1,Wikimedia list article,encyclopedia article
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q355304>,1,village in India,watercourse
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q13433827>,1,street,encyclopedia article
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q13433827>,1,business,encyclopedia article
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q3331189>,1,sports season,"version, edition, or translation"
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q41176>,1,lake,building
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q13433827>,1,print,encyclopedia article
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q41176>,1,cell line,building
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q355304>,1,Wikimedia list article,watercourse
+<http://www.wikidata.org/entity/Q27020041>,<http://www.wikidata.org/entity/Q3305213>,1,sports season,painting
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q18593264>,1,astronomical object,item of collection or exhibition
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q6999>,1,river,astronomical object
+<http://www.wikidata.org/entity/Q355304>,<http://www.wikidata.org/entity/Q56436498>,1,watercourse,village in India
+<http://www.wikidata.org/entity/Q5084>,<http://www.wikidata.org/entity/Q56436498>,1,hamlet,village in India
+<http://www.wikidata.org/entity/Q21014462>,<http://www.wikidata.org/entity/Q59199015>,1,cell line,group of stereoisomers
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q19389637>,1,business,biographical article
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q19389637>,1,print,biographical article
+<http://www.wikidata.org/entity/Q4164871>,<http://www.wikidata.org/entity/Q4022>,1,position,river
+<http://www.wikidata.org/entity/Q4167836>,<http://www.wikidata.org/entity/Q11060274>,1,Wikimedia category,print
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q6999>,1,print,astronomical object
+<http://www.wikidata.org/entity/Q3947>,<http://www.wikidata.org/entity/Q6999>,1,house,astronomical object
+<http://www.wikidata.org/entity/Q4022>,<http://www.wikidata.org/entity/Q11060274>,1,river,print
+<http://www.wikidata.org/entity/Q23397>,<http://www.wikidata.org/entity/Q6999>,1,lake,astronomical object
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q6999>,1,village,astronomical object
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q11060274>,1,business,print
+<http://www.wikidata.org/entity/Q13406463>,<http://www.wikidata.org/entity/Q54050>,1,Wikimedia list article,hill
+<http://www.wikidata.org/entity/Q30612>,<http://www.wikidata.org/entity/Q4167836>,1,clinical trial,Wikimedia category
+<http://www.wikidata.org/entity/Q41176>,<http://www.wikidata.org/entity/Q11060274>,1,building,print
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q8054>,1,Wikimedia disambiguation page,protein
+<http://www.wikidata.org/entity/Q3305213>,<http://www.wikidata.org/entity/Q8054>,1,painting,protein
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q11060274>,1,island,print
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q49008>,1,human settlement,prime number
+<http://www.wikidata.org/entity/Q13433827>,<http://www.wikidata.org/entity/Q8054>,1,encyclopedia article,protein
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q16970>,1,hill,church building
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q18593264>,1,taxon,item of collection or exhibition
+<http://www.wikidata.org/entity/Q3331189>,<http://www.wikidata.org/entity/Q59199015>,1,"version, edition, or translation",group of stereoisomers
+<http://www.wikidata.org/entity/Q17633526>,<http://www.wikidata.org/entity/Q4022>,1,Wikinews article,river
+<http://www.wikidata.org/entity/Q23442>,<http://www.wikidata.org/entity/Q11173>,1,island,chemical compound
+<http://www.wikidata.org/entity/Q811979>,<http://www.wikidata.org/entity/Q56436498>,1,architectural structure,village in India
+<http://www.wikidata.org/entity/Q54050>,<http://www.wikidata.org/entity/Q13433827>,1,hill,encyclopedia article
+<http://www.wikidata.org/entity/Q532>,<http://www.wikidata.org/entity/Q11266439>,1,village,Wikimedia template
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q11266439>,1,stream,Wikimedia template
+<http://www.wikidata.org/entity/Q47521>,<http://www.wikidata.org/entity/Q7725634>,1,stream,literary work
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q7725634>,1,primary school,literary work
+<http://www.wikidata.org/entity/Q7187>,<http://www.wikidata.org/entity/Q3305213>,1,gene,painting
+<http://www.wikidata.org/entity/Q8054>,<http://www.wikidata.org/entity/Q3305213>,1,protein,painting
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q11173>,1,item of collection or exhibition,chemical compound
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q13406463>,1,print,Wikimedia list article
+<http://www.wikidata.org/entity/Q6999>,<http://www.wikidata.org/entity/Q355304>,1,astronomical object,watercourse
+<http://www.wikidata.org/entity/Q56436498>,<http://www.wikidata.org/entity/Q13406463>,1,village in India,Wikimedia list article
+<http://www.wikidata.org/entity/Q101352>,<http://www.wikidata.org/entity/Q56436498>,1,family name,village in India
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q8502>,1,primary school,mountain
+<http://www.wikidata.org/entity/Q5>,<http://www.wikidata.org/entity/Q59199015>,1,human,group of stereoisomers
+<http://www.wikidata.org/entity/Q4167410>,<http://www.wikidata.org/entity/Q19389637>,1,Wikimedia disambiguation page,biographical article
+<http://www.wikidata.org/entity/Q59199015>,<http://www.wikidata.org/entity/Q7725634>,1,group of stereoisomers,literary work
+<http://www.wikidata.org/entity/Q18593264>,<http://www.wikidata.org/entity/Q4167836>,1,item of collection or exhibition,Wikimedia category
+<http://www.wikidata.org/entity/Q79007>,<http://www.wikidata.org/entity/Q56436498>,1,street,village in India
+<http://www.wikidata.org/entity/Q4830453>,<http://www.wikidata.org/entity/Q7187>,1,business,gene
+<http://www.wikidata.org/entity/Q11060274>,<http://www.wikidata.org/entity/Q7187>,1,print,gene
+<http://www.wikidata.org/entity/Q486972>,<http://www.wikidata.org/entity/Q7187>,1,human settlement,gene
+<http://www.wikidata.org/entity/Q13100073>,<http://www.wikidata.org/entity/Q4022>,1,village-level division in China,river
+<http://www.wikidata.org/entity/Q16521>,<http://www.wikidata.org/entity/Q59199015>,1,taxon,group of stereoisomers
+<http://www.wikidata.org/entity/Q9842>,<http://www.wikidata.org/entity/Q3947>,1,primary school,house

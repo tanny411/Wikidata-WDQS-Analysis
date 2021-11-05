@@ -1,0 +1,236 @@
+subgraph1,subgraph2,subgraph1_item_count,subgraph2_item_count,value,subgraph1_item_count%,subgraph2_item_count%
+hill,mountain,327277,525553,37102,11.34,7.06
+river,watercourse,399552,174620,14972,3.75,8.57
+hamlet,village,118188,274840,5282,4.47,1.92
+hamlet,human settlement,118188,563958,3120,2.64,0.55
+human settlement,village,563958,274840,2986,0.53,1.09
+church building,architectural structure,211291,145957,2622,1.24,1.8
+river,stream,399552,124853,2204,0.55,1.77
+"version, edition, or translation",literary work,157486,164860,1304,0.83,0.79
+building,architectural structure,265925,145957,946,0.36,0.65
+building,house,265925,197736,942,0.35,0.48
+Wikimedia disambiguation page,family name,1359804,481445,810,0.06,0.17
+architectural structure,house,145957,197736,658,0.45,0.33
+"version, edition, or translation",scholarly article,157486,37362641,640,0.41,0.0
+stream,watercourse,124853,174620,566,0.45,0.32
+clinical trial,scholarly article,356838,37362641,562,0.16,0.0
+island,human settlement,148587,563958,432,0.29,0.08
+building,church building,265925,211291,380,0.14,0.18
+Wikimedia list article,position,334939,120117,330,0.1,0.27
+painting,item of collection or exhibition,539468,147402,324,0.06,0.22
+Wikimedia disambiguation page,Wikimedia list article,1359804,334939,294,0.02,0.09
+Wikimedia list article,sports season,334939,158877,236,0.07,0.15
+primary school,building,157451,265925,190,0.12,0.07
+"version, edition, or translation",Wikinews article,157486,286950,166,0.11,0.06
+film,album,263070,269095,162,0.06,0.06
+Wikimedia list article,film,334939,263070,146,0.04,0.06
+island,village,148587,274840,144,0.1,0.05
+human settlement,village in India,563958,145824,142,0.03,0.1
+"version, edition, or translation",album,157486,269095,122,0.08,0.05
+"version, edition, or translation",Wikimedia list article,157486,334939,118,0.07,0.04
+business,building,193858,265925,116,0.06,0.04
+literary work,scholarly article,164860,37362641,112,0.07,0.0
+island,mountain,148587,525553,104,0.07,0.02
+business,Wikimedia list article,193858,334939,100,0.05,0.03
+painting,print,539468,119806,82,0.02,0.07
+human settlement,mountain,563958,525553,82,0.01,0.02
+film,literary work,263070,164860,74,0.03,0.04
+Wikimedia category,Wikimedia list article,4840195,334939,66,0.0,0.02
+human settlement,village-level division in China,563958,588477,60,0.01,0.01
+encyclopedia article,scholarly article,512141,37362641,60,0.01,0.0
+human settlement,hill,563958,327277,54,0.01,0.02
+church building,human settlement,211291,563958,54,0.03,0.01
+literary work,collection,164860,500968,52,0.03,0.01
+gene,Wikimedia template,1196361,845852,52,0.0,0.01
+Wikimedia category,Wikimedia template,4840195,845852,48,0.0,0.01
+human settlement,watercourse,563958,174620,48,0.01,0.03
+building,human settlement,265925,563958,48,0.02,0.01
+architectural structure,human settlement,145957,563958,46,0.03,0.01
+building,street,265925,578926,44,0.02,0.01
+hill,street,327277,578926,44,0.01,0.01
+"version, edition, or translation",encyclopedia article,157486,512141,42,0.03,0.01
+literary work,item of collection or exhibition,164860,147402,42,0.03,0.03
+scholarly article,biographical article,37362641,151026,42,0.0,0.03
+encyclopedia article,biographical article,512141,151026,42,0.01,0.03
+church building,house,211291,197736,40,0.02,0.02
+human settlement,street,563958,578926,38,0.01,0.01
+village,mountain,274840,525553,36,0.01,0.01
+Wikinews article,calendar day of a given year,286950,189366,36,0.01,0.02
+architectural structure,street,145957,578926,34,0.02,0.01
+literary work,album,164860,269095,32,0.02,0.01
+river,human settlement,399552,563958,30,0.01,0.01
+hamlet,street,118188,578926,26,0.02,0.0
+human,film,9315444,263070,26,0.0,0.01
+Wikimedia list article,human settlement,334939,563958,22,0.01,0.0
+group of stereoisomers,chemical compound,111599,1223387,22,0.02,0.0
+chemical compound,protein,1223387,986599,22,0.0,0.0
+Wikimedia disambiguation page,taxon,1359804,3180248,20,0.0,0.0
+"version, edition, or translation",film,157486,263070,20,0.01,0.01
+human settlement,lake,563958,260135,20,0.0,0.01
+building,village,265925,274840,20,0.01,0.01
+village,street,274840,578926,20,0.01,0.0
+Wikimedia list article,Wikimedia template,334939,845852,20,0.01,0.0
+human,Wikimedia disambiguation page,9315444,1359804,18,0.0,0.0
+human,Wikimedia category,9315444,4840195,18,0.0,0.0
+village,village in India,274840,145824,18,0.01,0.01
+Wikimedia disambiguation page,human settlement,1359804,563958,16,0.0,0.0
+primary school,business,157451,193858,16,0.01,0.01
+Wikimedia category,human settlement,4840195,563958,16,0.0,0.0
+primary school,church building,157451,211291,16,0.01,0.01
+business,architectural structure,193858,145957,16,0.01,0.01
+village,hill,274840,327277,16,0.01,0.0
+Wikimedia list article,album,334939,269095,16,0.0,0.01
+river,lake,399552,260135,14,0.0,0.01
+human settlement,house,563958,197736,14,0.0,0.01
+Wikimedia list article,literary work,334939,164860,14,0.0,0.01
+human,family name,9315444,481445,14,0.0,0.0
+Wikimedia disambiguation page,Wikimedia template,1359804,845852,14,0.0,0.0
+primary school,architectural structure,157451,145957,14,0.01,0.01
+island,hill,148587,327277,14,0.01,0.0
+"version, edition, or translation",Wikimedia disambiguation page,157486,1359804,14,0.01,0.0
+human,Wikimedia list article,9315444,334939,14,0.0,0.0
+church building,village,211291,274840,14,0.01,0.01
+village,watercourse,274840,174620,14,0.01,0.01
+"version, edition, or translation",painting,157486,539468,14,0.01,0.0
+lake,mountain,260135,525553,12,0.0,0.0
+architectural structure,Wikimedia list article,145957,334939,12,0.01,0.0
+Wikimedia category,calendar day of a given year,4840195,189366,12,0.0,0.01
+Wikimedia category,Wikinews article,4840195,286950,12,0.0,0.0
+river,village,399552,274840,12,0.0,0.0
+human,village,9315444,274840,12,0.0,0.0
+gene,protein,1196361,986599,12,0.0,0.0
+"version, edition, or translation",collection,157486,500968,10,0.01,0.0
+building,collection,265925,500968,10,0.0,0.0
+"version, edition, or translation",biographical article,157486,151026,10,0.01,0.01
+island,village in India,148587,145824,10,0.01,0.01
+human,painting,9315444,539468,10,0.0,0.0
+human,Wikinews article,9315444,286950,10,0.0,0.0
+Wikimedia disambiguation page,lake,1359804,260135,10,0.0,0.0
+taxon,scholarly article,3180248,37362641,10,0.0,0.0
+"version, edition, or translation",print,157486,119806,10,0.01,0.01
+building,Wikimedia list article,265925,334939,10,0.0,0.0
+Wikimedia disambiguation page,film,1359804,263070,8,0.0,0.0
+village,village-level division in China,274840,588477,8,0.0,0.0
+architectural structure,lake,145957,260135,8,0.01,0.0
+Wikimedia disambiguation page,chemical compound,1359804,1223387,8,0.0,0.0
+human,scholarly article,9315444,37362641,6,0.0,0.0
+Wikimedia list article,family name,334939,481445,6,0.0,0.0
+literary work,Wikimedia template,164860,845852,6,0.0,0.0
+Wikimedia disambiguation page,business,1359804,193858,6,0.0,0.0
+human,business,9315444,193858,6,0.0,0.0
+hamlet,church building,118188,211291,6,0.01,0.0
+Wikimedia list article,calendar day of a given year,334939,189366,6,0.0,0.0
+Wikimedia disambiguation page,village,1359804,274840,6,0.0,0.0
+church building,Wikimedia list article,211291,334939,6,0.0,0.0
+church building,street,211291,578926,6,0.0,0.0
+human settlement,sports season,563958,158877,6,0.0,0.0
+street,mountain,578926,525553,6,0.0,0.0
+business,human settlement,193858,563958,6,0.0,0.0
+gene,chemical compound,1196361,1223387,6,0.0,0.0
+house,village,197736,274840,6,0.0,0.0
+lake,watercourse,260135,174620,4,0.0,0.0
+river,hamlet,399552,118188,4,0.0,0.0
+human settlement,stream,563958,124853,4,0.0,0.0
+church building,village in India,211291,145824,4,0.0,0.0
+film,item of collection or exhibition,263070,147402,4,0.0,0.0
+building,island,265925,148587,4,0.0,0.0
+Wikimedia list article,lake,334939,260135,4,0.0,0.0
+business,collection,193858,500968,4,0.0,0.0
+Wikimedia category,church building,4840195,211291,4,0.0,0.0
+human,mountain,9315444,525553,4,0.0,0.0
+Wikimedia disambiguation page,literary work,1359804,164860,4,0.0,0.0
+human,taxon,9315444,3180248,4,0.0,0.0
+hamlet,hill,118188,327277,4,0.0,0.0
+Wikimedia list article,mountain,334939,525553,4,0.0,0.0
+Wikimedia list article,Wikinews article,334939,286950,4,0.0,0.0
+church building,mountain,211291,525553,4,0.0,0.0
+Wikimedia list article,village,334939,274840,4,0.0,0.0
+hamlet,mountain,118188,525553,4,0.0,0.0
+Wikimedia list article,taxon,334939,3180248,4,0.0,0.0
+Wikimedia category,position,4840195,120117,4,0.0,0.0
+Wikimedia disambiguation page,position,1359804,120117,4,0.0,0.0
+river,Wikimedia disambiguation page,399552,1359804,4,0.0,0.0
+Wikimedia category,Wikimedia disambiguation page,4840195,1359804,4,0.0,0.0
+river,Wikimedia list article,399552,334939,4,0.0,0.0
+Wikimedia category,taxon,4840195,3180248,4,0.0,0.0
+scholarly article,chemical compound,37362641,1223387,4,0.0,0.0
+hill,family name,327277,481445,4,0.0,0.0
+Wikimedia category,business,4840195,193858,2,0.0,0.0
+literary work,village,164860,274840,2,0.0,0.0
+island,collection,148587,500968,2,0.0,0.0
+sports season,Wikinews article,158877,286950,2,0.0,0.0
+Wikimedia category,painting,4840195,539468,2,0.0,0.0
+human settlement,painting,563958,539468,2,0.0,0.0
+lake,village in India,260135,145824,2,0.0,0.0
+architectural structure,collection,145957,500968,2,0.0,0.0
+river,village in India,399552,145824,2,0.0,0.0
+Wikimedia disambiguation page,astronomical object,1359804,8412914,2,0.0,0.0
+"version, edition, or translation",business,157486,193858,2,0.0,0.0
+film,sports season,263070,158877,2,0.0,0.0
+building,scholarly article,265925,37362641,2,0.0,0.0
+scholarly article,astronomical object,37362641,8412914,2,0.0,0.0
+Wikimedia disambiguation page,sports season,1359804,158877,2,0.0,0.0
+river,street,399552,578926,2,0.0,0.0
+business,family name,193858,481445,2,0.0,0.0
+position,family name,120117,481445,2,0.0,0.0
+Wikimedia category,family name,4840195,481445,2,0.0,0.0
+Wikimedia category,film,4840195,263070,2,0.0,0.0
+literary work,print,164860,119806,2,0.0,0.0
+business,film,193858,263070,2,0.0,0.0
+hamlet,stream,118188,124853,2,0.0,0.0
+human settlement,family name,563958,481445,2,0.0,0.0
+"version, edition, or translation",Wikimedia category,157486,4840195,2,0.0,0.0
+scholarly article,family name,37362641,481445,2,0.0,0.0
+Wikimedia list article,astronomical object,334939,8412914,2,0.0,0.0
+church building,collection,211291,500968,2,0.0,0.0
+island,street,148587,578926,2,0.0,0.0
+house,street,197736,578926,2,0.0,0.0
+Wikimedia category,village,4840195,274840,2,0.0,0.0
+painting,village,539468,274840,2,0.0,0.0
+business,astronomical object,193858,8412914,2,0.0,0.0
+film,village,263070,274840,2,0.0,0.0
+human,human settlement,9315444,563958,2,0.0,0.0
+Wikimedia disambiguation page,protein,1359804,986599,2,0.0,0.0
+village,taxon,274840,3180248,2,0.0,0.0
+business,house,193858,197736,2,0.0,0.0
+primary school,house,157451,197736,2,0.0,0.0
+astronomical object,item of collection or exhibition,8412914,147402,2,0.0,0.0
+human,literary work,9315444,164860,2,0.0,0.0
+business,lake,193858,260135,2,0.0,0.0
+village,lake,274840,260135,2,0.0,0.0
+painting,literary work,539468,164860,2,0.0,0.0
+building,literary work,265925,164860,2,0.0,0.0
+human,church building,9315444,211291,2,0.0,0.0
+human,lake,9315444,260135,2,0.0,0.0
+human,biographical article,9315444,151026,2,0.0,0.0
+human,architectural structure,9315444,145957,2,0.0,0.0
+hamlet,architectural structure,118188,145957,2,0.0,0.0
+human,encyclopedia article,9315444,512141,2,0.0,0.0
+human,hill,9315444,327277,2,0.0,0.0
+building,hill,265925,327277,2,0.0,0.0
+church building,hill,211291,327277,2,0.0,0.0
+business,hill,193858,327277,2,0.0,0.0
+architectural structure,hill,145957,327277,2,0.0,0.0
+Wikimedia list article,house,334939,197736,2,0.0,0.0
+human,house,9315444,197736,2,0.0,0.0
+human settlement,Wikimedia template,563958,845852,2,0.0,0.0
+hamlet,island,118188,148587,2,0.0,0.0
+architectural structure,watercourse,145957,174620,2,0.0,0.0
+taxon,mountain,3180248,525553,2,0.0,0.0
+Wikimedia disambiguation page,mountain,1359804,525553,2,0.0,0.0
+family name,watercourse,481445,174620,2,0.0,0.0
+street,watercourse,578926,174620,2,0.0,0.0
+Wikimedia disambiguation page,watercourse,1359804,174620,2,0.0,0.0
+painting,gene,539468,1196361,2,0.0,0.0
+Wikimedia category,gene,4840195,1196361,2,0.0,0.0
+building,mountain,265925,525553,2,0.0,0.0
+family name,Wikimedia template,481445,845852,2,0.0,0.0
+Wikimedia list article,island,334939,148587,2,0.0,0.0
+Wikimedia disambiguation page,island,1359804,148587,2,0.0,0.0
+Wikimedia category,island,4840195,148587,2,0.0,0.0
+literary work,mountain,164860,525553,2,0.0,0.0
+architectural structure,mountain,145957,525553,2,0.0,0.0
+film,Wikimedia template,263070,845852,2,0.0,0.0
+Wikinews article,Wikimedia template,286950,845852,2,0.0,0.0
+human,position,9315444,120117,2,0.0,0.0
+hamlet,building,118188,265925,2,0.0,0.0

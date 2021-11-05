@@ -1,0 +1,2122 @@
+predicate_label,group_serial,group_w_serial,group_serial_str,count,group_predicate_serial,group_predicate_serial_str
+description,1,scholarly articles (1),1,1324177494,1,1
+cites work,1,scholarly articles (1),1,853611993,2,2
+ontology#rank,1,scholarly articles (1),1,796548842,3,3
+22-rdf-syntax-ns#type,1,scholarly articles (1),1,796517035,4,4
+prov#wasDerivedFrom,1,scholarly articles (1),1,714004622,5,5
+author name string,1,scholarly articles (1),1,402917000,6,6
+series ordinal,1,scholarly articles (1),1,154240107,7,7
+publication date,1,scholarly articles (1),1,149468521,8,8
+DOI,1,scholarly articles (1),1,134618905,9,9
+instance of,1,scholarly articles (1),1,121126022,10,10
+title,1,scholarly articles (1),1,112725155,11,11
+published in,1,scholarly articles (1),1,109303096,12,12
+page(s),1,scholarly articles (1),1,104339018,13,13
+volume,1,scholarly articles (1),1,103757294,14,14
+PubMed ID,1,scholarly articles (1),1,95896931,15,15
+issue,1,scholarly articles (1),1,95180558,16,16
+rdf-schema#label,1,scholarly articles (1),1,74996026,17,17
+author,1,scholarly articles (1),1,59979463,18,18
+main subject,1,scholarly articles (1),1,43278912,19,19
+dateModified,1,scholarly articles (1),1,37362641,20,20
+ontology#identifiers,1,scholarly articles (1),1,37362641,21,21
+ontology#sitelinks,1,scholarly articles (1),1,37362641,22,22
+ontology#statements,1,scholarly articles (1),1,37362641,23,23
+version,1,scholarly articles (1),1,37362640,24,24
+language of work or name,1,scholarly articles (1),1,34806347,25,25
+PMCID,1,scholarly articles (1),1,19063603,26,26
+ResearchGate publication ID,1,scholarly articles (1),1,13735903,27,27
+stated as,1,scholarly articles (1),1,8787358,28,28
+exact match,1,scholarly articles (1),1,8181354,29,29
+Dimensions Publication ID,1,scholarly articles (1),1,4617748,30,30
+CJFD journal article ID,1,scholarly articles (1),1,2915210,31,31
+DBLP publication ID,1,scholarly articles (1),1,2080695,32,32
+full work available at URL,1,scholarly articles (1),1,1677148,33,33
+ADS bibcode,1,scholarly articles (1),1,1191975,34,34
+OpenCitations bibliographic resource ID,1,scholarly articles (1),1,1161505,35,35
+arXiv ID,1,scholarly articles (1),1,1040968,36,36
+JSTOR article ID,1,scholarly articles (1),1,668502,37,37
+Internet Archive ID,1,scholarly articles (1),1,540468,38,38
+copyright status,1,scholarly articles (1),1,508489,39,39
+ontology#rank,2,astronomical objects (2),2,144578826,1,1
+prov#wasDerivedFrom,2,astronomical objects (2),2,128331952,2,2
+22-rdf-syntax-ns#type,2,astronomical objects (2),2,117137727,3,3
+apparent magnitude,2,astronomical objects (2),2,113616097,4,4
+catalog code,2,astronomical objects (2),2,85591425,5,5
+description,2,astronomical objects (2),2,53884562,6,6
+rdf-schema#label,2,astronomical objects (2),2,53492155,7,7
+proper motion,2,astronomical objects (2),2,49968595,8,8
+right ascension,2,astronomical objects (2),2,40423251,9,9
+declination,2,astronomical objects (2),2,40422532,10,10
+astronomical filter,2,astronomical objects (2),2,33104435,11,11
+instance of,2,astronomical objects (2),2,31963752,12,12
+parallax,2,astronomical objects (2),2,27012228,13,13
+SIMBAD ID,2,astronomical objects (2),2,24454812,14,14
+epoch,2,astronomical objects (2),2,24231114,15,15
+catalog,2,astronomical objects (2),2,23541621,16,16
+radial velocity,2,astronomical objects (2),2,22162019,17,17
+constellation,2,astronomical objects (2),2,22126287,18,18
+distance from Earth,2,astronomical objects (2),2,16979687,19,19
+of,2,astronomical objects (2),2,10442779,20,20
+dateModified,2,astronomical objects (2),2,8412914,21,21
+ontology#identifiers,2,astronomical objects (2),2,8412914,22,22
+ontology#sitelinks,2,astronomical objects (2),2,8412914,23,23
+ontology#statements,2,astronomical objects (2),2,8412914,24,24
+version,2,astronomical objects (2),2,8412914,25,25
+redshift,2,astronomical objects (2),2,4826204,26,26
+effective temperature,2,astronomical objects (2),2,3625324,27,27
+surface gravity,2,astronomical objects (2),2,3059274,28,28
+spectral class,2,astronomical objects (2),2,2855290,29,29
+about,2,astronomical objects (2),2,1179929,30,30
+inLanguage,2,astronomical objects (2),2,1179929,31,31
+isPartOf,2,astronomical objects (2),2,1179929,32,32
+name,2,astronomical objects (2),2,1179929,33,33
+type of variable star,2,astronomical objects (2),2,1101594,34,34
+metallicity,2,astronomical objects (2),2,1083683,35,35
+part of,2,astronomical objects (2),2,874611,36,36
+Minor Planet Center body ID,2,astronomical objects (2),2,742263,37,37
+JPL Small-Body Database SPK-ID,2,astronomical objects (2),2,706988,38,38
+core#altLabel,2,astronomical objects (2),2,474113,39,39
+22-rdf-syntax-ns#type,3,human (3),3,127210285,1,1
+ontology#rank,3,human (3),3,115226473,2,2
+rdf-schema#label,3,human (3),3,82571873,3,3
+prov#wasDerivedFrom,3,human (3),3,56970477,4,4
+description,3,human (3),3,51883813,5,5
+instance of,3,human (3),3,27957836,6,6
+occupation,3,human (3),3,26248922,7,7
+sex or gender,3,human (3),3,22108763,8,8
+date of birth,3,human (3),3,21247753,9,9
+given name,3,human (3),3,18653352,10,10
+country of citizenship,3,human (3),3,12470292,11,11
+about,3,human (3),3,12317886,12,12
+inLanguage,3,human (3),3,12317740,13,13
+isPartOf,3,human (3),3,12317740,14,14
+name,3,human (3),3,12317740,15,15
+VIAF ID,3,human (3),3,11135174,16,16
+date of death,3,human (3),3,10812369,17,17
+Google Knowledge Graph ID,3,human (3),3,10553752,18,18
+family name,3,human (3),3,10249885,19,19
+core#altLabel,3,human (3),3,9320641,20,20
+dateModified,3,human (3),3,9315444,21,21
+ontology#identifiers,3,human (3),3,9315444,22,22
+ontology#sitelinks,3,human (3),3,9315444,23,23
+ontology#statements,3,human (3),3,9315444,24,24
+version,3,human (3),3,9315444,25,25
+ORCID iD,3,human (3),3,8716877,26,26
+start time,3,human (3),3,8598764,27,27
+place of birth,3,human (3),3,8596246,28,28
+Elo rating,3,human (3),3,8294307,29,29
+point in time,3,human (3),3,7803831,30,30
+Freebase ID,3,human (3),3,6939008,31,31
+educated at,3,human (3),3,6484379,32,32
+"languages spoken, written or signed",3,human (3),3,6204142,33,33
+end time,3,human (3),3,5574149,34,34
+WorldCat Identities ID,3,human (3),3,4657208,35,35
+employer,3,human (3),3,4590980,36,36
+member of sports team,3,human (3),3,4499120,37,37
+child,3,human (3),3,4238805,38,38
+ISNI,3,human (3),3,3591860,39,39
+position held,3,human (3),3,2673921,40,40
+award received,3,human (3),3,2332956,41,41
+place of death,3,human (3),3,2305921,42,42
+description,4,Wikimedia category (4),4,596672076,1,1
+22-rdf-syntax-ns#type,4,Wikimedia category (4),4,22761506,2,2
+rdf-schema#label,4,Wikimedia category (4),4,15094771,3,3
+instance of,4,Wikimedia category (4),4,14530619,4,4
+about,4,Wikimedia category (4),4,13774275,5,5
+inLanguage,4,Wikimedia category (4),4,13774250,6,6
+isPartOf,4,Wikimedia category (4),4,13774250,7,7
+name,4,Wikimedia category (4),4,13774250,8,8
+ontology#rank,4,Wikimedia category (4),4,8987350,9,9
+category combines topics,4,Wikimedia category (4),4,6079842,10,10
+dateModified,4,Wikimedia category (4),4,4840195,11,11
+ontology#identifiers,4,Wikimedia category (4),4,4840195,12,12
+ontology#sitelinks,4,Wikimedia category (4),4,4840195,13,13
+ontology#statements,4,Wikimedia category (4),4,4840195,14,14
+version,4,Wikimedia category (4),4,4840195,15,15
+prov#wasDerivedFrom,4,Wikimedia category (4),4,2709622,16,16
+category's main topic,4,Wikimedia category (4),4,1952400,17,17
+category contains,4,Wikimedia category (4),4,1942226,18,18
+Commons category,4,Wikimedia category (4),4,1740292,19,19
+core#altLabel,4,Wikimedia category (4),4,204281,20,20
+follows,4,Wikimedia category (4),4,176328,21,21
+followed by,4,Wikimedia category (4),4,176084,22,22
+on focus list of Wikimedia project,4,Wikimedia category (4),4,128931,23,23
+occupation,4,Wikimedia category (4),4,126602,24,24
+list related to category,4,Wikimedia category (4),4,124097,25,25
+sex or gender,4,Wikimedia category (4),4,39326,26,26
+place of birth,4,Wikimedia category (4),4,33905,27,27
+opposite of,4,Wikimedia category (4),4,28581,28,28
+publication date,4,Wikimedia category (4),4,27875,29,29
+date of birth,4,Wikimedia category (4),4,26235,30,30
+member of sports team,4,Wikimedia category (4),4,18657,31,31
+educated at,4,Wikimedia category (4),4,17971,32,32
+place of death,4,Wikimedia category (4),4,15040,33,33
+sport,4,Wikimedia category (4),4,14223,34,34
+located in the administrative territorial entity,4,Wikimedia category (4),4,13888,35,35
+performer,4,Wikimedia category (4),4,13332,36,36
+different from,4,Wikimedia category (4),4,13326,37,37
+director,4,Wikimedia category (4),4,10125,38,38
+criterion used,4,Wikimedia category (4),4,9389,39,39
+country,4,Wikimedia category (4),4,8827,40,40
+permanent duplicated item,4,Wikimedia category (4),4,8064,41,41
+date of death,4,Wikimedia category (4),4,7013,42,42
+position held,4,Wikimedia category (4),4,6624,43,43
+see also,4,Wikimedia category (4),4,6556,44,44
+Wikidata SPARQL query equivalent,4,Wikimedia category (4),4,6468,45,45
+said to be the same as,4,Wikimedia category (4),4,5178,46,46
+image,4,Wikimedia category (4),4,5060,47,47
+member of political party,4,Wikimedia category (4),4,5054,48,48
+Commons gallery,4,Wikimedia category (4),4,4404,49,49
+place of burial,4,Wikimedia category (4),4,4145,50,50
+religion,4,Wikimedia category (4),4,3727,51,51
+employer,4,Wikimedia category (4),4,3182,52,52
+member of,4,Wikimedia category (4),4,2791,53,53
+producer,4,Wikimedia category (4),4,2692,54,54
+position played on team / speciality,4,Wikimedia category (4),4,2676,55,55
+record label,4,Wikimedia category (4),4,2554,56,56
+genre,4,Wikimedia category (4),4,2137,57,57
+country of origin,4,Wikimedia category (4),4,1864,58,58
+mouth of the watercourse,4,Wikimedia category (4),4,1848,59,59
+taxon author,4,Wikimedia category (4),4,1647,60,60
+rdf-schema#label,5,taxon (5),5,69840848,1,1
+description,5,taxon (5),5,45308808,2,2
+22-rdf-syntax-ns#type,5,taxon (5),5,40988238,3,3
+ontology#rank,5,taxon (5),5,32271527,4,4
+prov#wasDerivedFrom,5,taxon (5),5,18893461,5,5
+instance of,5,taxon (5),5,9572001,6,6
+parent taxon,5,taxon (5),5,9550089,7,7
+taxon name,5,taxon (5),5,9528155,8,8
+taxon rank,5,taxon (5),5,9523264,9,9
+about,5,taxon (5),5,8719986,10,10
+inLanguage,5,taxon (5),5,8719981,11,11
+isPartOf,5,taxon (5),5,8719981,12,12
+name,5,taxon (5),5,8719981,13,13
+GBIF taxon ID,5,taxon (5),5,7188294,14,14
+Google Knowledge Graph ID,5,taxon (5),5,5706700,15,15
+IRMNG ID,5,taxon (5),5,3951738,16,16
+IPNI plant ID,5,taxon (5),5,3407843,17,17
+Encyclopedia of Life ID,5,taxon (5),5,3243379,18,18
+dateModified,5,taxon (5),5,3180248,19,19
+ontology#identifiers,5,taxon (5),5,3180248,20,20
+ontology#sitelinks,5,taxon (5),5,3180248,21,21
+ontology#statements,5,taxon (5),5,3180248,22,22
+version,5,taxon (5),5,3180248,23,23
+WoRMS-ID for taxa,5,taxon (5),5,3141903,24,24
+Plants of the World online ID,5,taxon (5),5,3100438,25,25
+NCBI taxonomy ID,5,taxon (5),5,2753333,26,26
+iNaturalist taxon ID,5,taxon (5),5,2431081,27,27
+year of taxon publication,5,taxon (5),5,1797630,28,28
+ITIS TSN,5,taxon (5),5,1788924,29,29
+Tropicos ID,5,taxon (5),5,1781018,30,30
+taxon common name,5,taxon (5),5,1717297,31,31
+World Flora Online ID,5,taxon (5),5,1678969,32,32
+Open Tree of Life ID,5,taxon (5),5,1566792,33,33
+Freebase ID,5,taxon (5),5,1454145,34,34
+PlantList-ID,5,taxon (5),5,1189644,35,35
+taxon author,5,taxon (5),5,1116921,36,36
+BioLib taxon ID,5,taxon (5),5,1018267,37,37
+MycoBank taxon name ID,5,taxon (5),5,1009413,38,38
+Index Fungorum ID,5,taxon (5),5,958229,39,39
+core#altLabel,5,taxon (5),5,877136,40,40
+image,5,taxon (5),5,262945,41,41
+description,6,Wikimedia disambiguation page (6),6,112264922,1,1
+rdf-schema#label,6,Wikimedia disambiguation page (6),6,39587180,2,2
+22-rdf-syntax-ns#type,6,Wikimedia disambiguation page (6),6,4146194,3,3
+instance of,6,Wikimedia disambiguation page (6),6,4086333,4,4
+about,6,Wikimedia disambiguation page (6),6,2559226,5,5
+inLanguage,6,Wikimedia disambiguation page (6),6,2559222,6,6
+isPartOf,6,Wikimedia disambiguation page (6),6,2559222,7,7
+name,6,Wikimedia disambiguation page (6),6,2559222,8,8
+ontology#rank,6,Wikimedia disambiguation page (6),6,1587034,9,9
+dateModified,6,Wikimedia disambiguation page (6),6,1359804,10,10
+ontology#identifiers,6,Wikimedia disambiguation page (6),6,1359804,11,11
+ontology#sitelinks,6,Wikimedia disambiguation page (6),6,1359804,12,12
+ontology#statements,6,Wikimedia disambiguation page (6),6,1359804,13,13
+version,6,Wikimedia disambiguation page (6),6,1359804,14,14
+different from,6,Wikimedia disambiguation page (6),6,468464,15,15
+core#altLabel,6,Wikimedia disambiguation page (6),6,330513,16,16
+prov#wasDerivedFrom,6,Wikimedia disambiguation page (6),6,250878,17,17
+criterion used,6,Wikimedia disambiguation page (6),6,149323,18,18
+said to be the same as,6,Wikimedia disambiguation page (6),6,130905,19,19
+Commons category,6,Wikimedia disambiguation page (6),6,12462,20,20
+topic's main category,6,Wikimedia disambiguation page (6),6,5401,21,21
+French Vikidia ID,6,Wikimedia disambiguation page (6),6,5056,22,22
+KBpedia ID,6,Wikimedia disambiguation page (6),6,3390,23,23
+KML file,6,Wikimedia disambiguation page (6),6,3147,24,24
+Zhihu topic ID,6,Wikimedia disambiguation page (6),6,3114,25,25
+Microsoft Academic ID,6,Wikimedia disambiguation page (6),6,2873,26,26
+point in time,6,Wikimedia disambiguation page (6),6,2684,27,27
+pronunciation audio,6,Wikimedia disambiguation page (6),6,2631,28,28
+country,6,Wikimedia disambiguation page (6),6,2406,29,29
+described by source,6,Wikimedia disambiguation page (6),6,2398,30,30
+has part,6,Wikimedia disambiguation page (6),6,2214,31,31
+population,6,Wikimedia disambiguation page (6),6,2182,32,32
+is a list of,6,Wikimedia disambiguation page (6),6,1621,33,33
+part of,6,Wikimedia disambiguation page (6),6,1608,34,34
+Google Knowledge Graph ID,6,Wikimedia disambiguation page (6),6,1590,35,35
+subclass of,6,Wikimedia disambiguation page (6),6,1286,36,36
+writing system,6,Wikimedia disambiguation page (6),6,1166,37,37
+native label,6,Wikimedia disambiguation page (6),6,1158,38,38
+name in kana,6,Wikimedia disambiguation page (6),6,954,39,39
+language of work or name,6,Wikimedia disambiguation page (6),6,916,40,40
+statement is subject of,6,Wikimedia disambiguation page (6),6,486,41,41
+determination method,6,Wikimedia disambiguation page (6),6,448,42,42
+ontology#wikiGroup,6,Wikimedia disambiguation page (6),6,306,43,43
+Freebase ID,6,Wikimedia disambiguation page (6),6,284,44,44
+description,7,chemical compound (7),7,24753956,1,1
+22-rdf-syntax-ns#type,7,chemical compound (7),7,10660602,2,2
+ontology#rank,7,chemical compound (7),7,10484519,3,3
+instance of,7,chemical compound (7),7,3866325,4,4
+InChIKey,7,chemical compound (7),7,3473298,5,5
+InChI,7,chemical compound (7),7,3453040,6,6
+PubChem CID,7,chemical compound (7),7,3388823,7,7
+CAS Registry Number,7,chemical compound (7),7,2753726,8,8
+prov#wasDerivedFrom,7,chemical compound (7),7,2753646,9,9
+chemical formula,7,chemical compound (7),7,2693483,10,10
+DSSTox substance ID,7,chemical compound (7),7,2516611,11,11
+DSSTOX compound identifier,7,chemical compound (7),7,2512566,12,12
+canonical SMILES,7,chemical compound (7),7,2220896,13,13
+rdf-schema#label,7,chemical compound (7),7,1419514,14,14
+found in taxon,7,chemical compound (7),7,1283565,15,15
+dateModified,7,chemical compound (7),7,1223387,16,16
+ontology#identifiers,7,chemical compound (7),7,1223387,17,17
+ontology#sitelinks,7,chemical compound (7),7,1223387,18,18
+ontology#statements,7,chemical compound (7),7,1223387,19,19
+version,7,chemical compound (7),7,1223387,20,20
+isomeric SMILES,7,chemical compound (7),7,951884,21,21
+mass,7,chemical compound (7),7,720146,22,22
+ChemSpider ID,7,chemical compound (7),7,603478,23,23
+ChEBI ID,7,chemical compound (7),7,490381,24,24
+NSC number,7,chemical compound (7),7,345069,25,25
+core#altLabel,7,chemical compound (7),7,285458,26,26
+PDB structure ID,7,chemical compound (7),7,268760,27,27
+ChEMBL ID,7,chemical compound (7),7,244766,28,28
+about,7,chemical compound (7),7,175860,29,29
+inLanguage,7,chemical compound (7),7,175860,30,30
+isPartOf,7,chemical compound (7),7,175860,31,31
+name,7,chemical compound (7),7,175860,32,32
+UNII,7,chemical compound (7),7,173496,33,33
+EC number,7,chemical compound (7),7,160735,34,34
+ECHA InfoCard ID,7,chemical compound (7),7,160268,35,35
+catalog,7,chemical compound (7),7,147993,36,36
+MassBank accession ID,7,chemical compound (7),7,127980,37,37
+SPLASH,7,chemical compound (7),7,114510,38,38
+mapping relation type,7,chemical compound (7),7,97991,39,39
+melting point,7,chemical compound (7),7,94362,40,40
+prov#wasDerivedFrom,8,gene (8),8,16328401,1,1
+22-rdf-syntax-ns#type,8,gene (8),8,16046507,2,2
+ontology#rank,8,gene (8),8,15992810,3,3
+ortholog,8,gene (8),8,10761065,4,4
+found in taxon,8,gene (8),8,7175943,5,5
+chromosome,8,gene (8),8,4456791,6,6
+subclass of,8,gene (8),8,4349127,7,7
+rdf-schema#label,8,gene (8),8,4086525,8,8
+instance of,8,gene (8),8,4004899,9,9
+Entrez Gene ID,8,gene (8),8,3712822,10,10
+description,8,gene (8),8,3289806,11,11
+genomic end,8,gene (8),8,3046432,12,12
+genomic start,8,gene (8),8,3046417,13,13
+strand orientation,8,gene (8),8,2996928,14,14
+encodes,8,gene (8),8,2848697,15,15
+Ensembl transcript ID,8,gene (8),8,2127550,16,16
+core#altLabel,8,gene (8),8,1958029,17,17
+RefSeq RNA ID,8,gene (8),8,1684970,18,18
+NCBI locus tag,8,gene (8),8,1509300,19,19
+genomic assembly,8,gene (8),8,1450169,20,20
+GeneDB ID,8,gene (8),8,1318572,21,21
+dateModified,8,gene (8),8,1196361,22,22
+ontology#identifiers,8,gene (8),8,1196361,23,23
+ontology#sitelinks,8,gene (8),8,1196361,24,24
+ontology#statements,8,gene (8),8,1196361,25,25
+version,8,gene (8),8,1196361,26,26
+Ensembl gene ID,8,gene (8),8,731740,27,27
+exact match,8,gene (8),8,567555,28,28
+cytogenetic location,8,gene (8),8,547278,29,29
+expressed in,8,gene (8),8,460635,30,30
+HomoloGene ID,8,gene (8),8,294708,31,31
+MGI Gene Symbol,8,gene (8),8,215952,32,32
+Mouse Genome Informatics ID,8,gene (8),8,207450,33,33
+Rat Genome Database ID,8,gene (8),8,134532,34,34
+HGNC gene symbol,8,gene (8),8,127872,35,35
+HGNC ID,8,gene (8),8,127299,36,36
+RefSeq genome ID,8,gene (8),8,109468,37,37
+ZFIN Gene ID,8,gene (8),8,76881,38,38
+about,8,gene (8),8,59721,39,39
+inLanguage,8,gene (8),8,59721,40,40
+isPartOf,8,gene (8),8,59721,41,41
+name,8,gene (8),8,59721,42,42
+prov#wasDerivedFrom,9,protein (9),9,12427165,1,1
+22-rdf-syntax-ns#type,9,protein (9),9,11368057,2,2
+ontology#rank,9,protein (9),9,11357567,3,3
+part of,9,protein (9),9,4320360,4,4
+determination method,9,protein (9),9,3821486,5,5
+RefSeq protein ID,9,protein (9),9,3813810,6,6
+biological process,9,protein (9),9,3511460,7,7
+molecular function,9,protein (9),9,3496670,8,8
+description,9,protein (9),9,3479044,9,9
+UniProt protein ID,9,protein (9),9,3122542,10,10
+instance of,9,protein (9),9,3061845,11,11
+found in taxon,9,protein (9),9,2964758,12,12
+encoded by,9,protein (9),9,2924105,13,13
+cell component,9,protein (9),9,2632452,14,14
+subclass of,9,protein (9),9,2276178,15,15
+rdf-schema#label,9,protein (9),9,2181755,16,16
+has part,9,protein (9),9,1870469,17,17
+GeneDB ID,9,protein (9),9,1405213,18,18
+core#altLabel,9,protein (9),9,1340630,19,19
+dateModified,9,protein (9),9,986599,20,20
+ontology#identifiers,9,protein (9),9,986599,21,21
+ontology#sitelinks,9,protein (9),9,986599,22,22
+ontology#statements,9,protein (9),9,986599,23,23
+version,9,protein (9),9,986599,24,24
+Ensembl protein ID,9,protein (9),9,756681,25,25
+point in time,9,protein (9),9,459014,26,26
+described by source,9,protein (9),9,315231,27,27
+PDB structure ID,9,protein (9),9,230400,28,28
+named as,9,protein (9),9,105583,29,29
+InterPro ID,9,protein (9),9,51717,30,30
+download link,9,protein (9),9,26589,31,31
+ortholog,9,protein (9),9,22431,32,32
+Transporter Classification Database ID,9,protein (9),9,19323,33,33
+Saccharomyces Genome Database ID,9,protein (9),9,17724,34,34
+physically interacts with,9,protein (9),9,15723,35,35
+exact match,9,protein (9),9,13809,36,36
+Sandbox-String,9,protein (9),9,11073,37,37
+about,9,protein (9),9,10552,38,38
+inLanguage,9,protein (9),9,10552,39,39
+isPartOf,9,protein (9),9,10552,40,40
+name,9,protein (9),9,10552,41,41
+stated as,9,protein (9),9,3895,42,42
+use,9,protein (9),9,3797,43,43
+inscription,9,protein (9),9,3735,44,44
+ranking,9,protein (9),9,3153,45,45
+description,10,Wikimedia template (10),10,93286385,1,1
+22-rdf-syntax-ns#type,10,Wikimedia template (10),10,2918652,2,2
+instance of,10,Wikimedia template (10),10,2557092,3,3
+rdf-schema#label,10,Wikimedia template (10),10,2091483,4,4
+about,10,Wikimedia template (10),10,2022397,5,5
+inLanguage,10,Wikimedia template (10),10,2022142,6,6
+isPartOf,10,Wikimedia template (10),10,2022142,7,7
+name,10,Wikimedia template (10),10,2022142,8,8
+ontology#rank,10,Wikimedia template (10),10,896517,9,9
+dateModified,10,Wikimedia template (10),10,845852,10,10
+ontology#identifiers,10,Wikimedia template (10),10,845852,11,11
+ontology#sitelinks,10,Wikimedia template (10),10,845852,12,12
+ontology#statements,10,Wikimedia template (10),10,845852,13,13
+version,10,Wikimedia template (10),10,845852,14,14
+prov#wasDerivedFrom,10,Wikimedia template (10),10,73686,15,15
+image,10,Wikimedia template (10),10,47367,16,16
+template has topic,10,Wikimedia template (10),10,39332,17,17
+core#altLabel,10,Wikimedia template (10),10,29953,18,18
+sport,10,Wikimedia template (10),10,23028,19,19
+different from,10,Wikimedia template (10),10,3900,20,20
+follows,10,Wikimedia template (10),10,1740,21,21
+followed by,10,Wikimedia template (10),10,1713,22,22
+said to be the same as,10,Wikimedia template (10),10,1215,23,23
+permanent duplicated item,10,Wikimedia template (10),10,1140,24,24
+Ensembl transcript ID,10,Wikimedia template (10),10,1115,25,25
+depicts,10,Wikimedia template (10),10,912,26,26
+Wikidata property,10,Wikimedia template (10),10,887,27,27
+has part,10,Wikimedia template (10),10,886,28,28
+ontology#wikiGroup,10,Wikimedia template (10),10,861,29,29
+formatter URL,10,Wikimedia template (10),10,593,30,30
+see also,10,Wikimedia template (10),10,573,31,31
+expressed in,10,Wikimedia template (10),10,540,32,32
+of,10,Wikimedia template (10),10,534,33,33
+RefSeq RNA ID,10,Wikimedia template (10),10,531,34,34
+topic's main category,10,Wikimedia template (10),10,450,35,35
+ICD-10,10,Wikimedia template (10),10,429,36,36
+ICD-9,10,Wikimedia template (10),10,429,37,37
+subclass of,10,Wikimedia template (10),10,384,38,38
+uses,10,Wikimedia template (10),10,375,39,39
+point in time,10,Wikimedia template (10),10,360,40,40
+number of cases,10,Wikimedia template (10),10,348,41,41
+number of deaths,10,Wikimedia template (10),10,348,42,42
+case fatality rate,10,Wikimedia template (10),10,346,43,43
+main subject,10,Wikimedia template (10),10,315,44,44
+genomic assembly,10,Wikimedia template (10),10,208,45,45
+facet of,10,Wikimedia template (10),10,190,46,46
+chromosome,10,Wikimedia template (10),10,104,47,47
+description,11,village-level division in China (11),11,24717636,1,1
+rdf-schema#label,11,village-level division in China (11),11,4720063,2,2
+22-rdf-syntax-ns#type,11,village-level division in China (11),11,3533117,3,3
+ontology#rank,11,village-level division in China (11),11,3532068,4,4
+located in the administrative territorial entity,11,village-level division in China (11),11,1765604,5,5
+instance of,11,village-level division in China (11),11,1765572,6,6
+country,11,village-level division in China (11),11,1765422,7,7
+China administrative division code,11,village-level division in China (11),11,1765239,8,8
+official name,11,village-level division in China (11),11,1765174,9,9
+located in time zone,11,village-level division in China (11),11,1765161,10,10
+prov#wasDerivedFrom,11,village-level division in China (11),11,1566846,11,11
+dateModified,11,village-level division in China (11),11,588477,12,12
+ontology#identifiers,11,village-level division in China (11),11,588477,13,13
+ontology#sitelinks,11,village-level division in China (11),11,588477,14,14
+ontology#statements,11,village-level division in China (11),11,588477,15,15
+version,11,village-level division in China (11),11,588477,16,16
+Google Knowledge Graph ID,11,village-level division in China (11),11,1975,17,17
+coordinate location,11,village-level division in China (11),11,1429,18,18
+core#altLabel,11,village-level division in China (11),11,1406,19,19
+about,11,village-level division in China (11),11,1059,20,20
+inLanguage,11,village-level division in China (11),11,1059,21,21
+isPartOf,11,village-level division in China (11),11,1059,22,22
+name,11,village-level division in China (11),11,1059,23,23
+GeoNames ID,11,village-level division in China (11),11,455,24,24
+image,11,village-level division in China (11),11,359,25,25
+Commons category,11,village-level division in China (11),11,243,26,26
+Freebase ID,11,village-level division in China (11),11,235,27,27
+Who's on First ID,11,village-level division in China (11),11,210,28,28
+GNS Unique Feature ID,11,village-level division in China (11),11,90,29,29
+area,11,village-level division in China (11),11,80,30,30
+elevation above sea level,11,village-level division in China (11),11,60,31,31
+local dialing code,11,village-level division in China (11),11,60,32,32
+start time,11,village-level division in China (11),11,46,33,33
+different from,11,village-level division in China (11),11,36,34,34
+end time,11,village-level division in China (11),11,24,35,35
+named after,11,village-level division in China (11),11,24,36,36
+shares border with,11,village-level division in China (11),11,24,37,37
+Getty Thesaurus of Geographic Names ID,11,village-level division in China (11),11,18,38,38
+postal code,11,village-level division in China (11),11,18,39,39
+Quora topic ID,11,village-level division in China (11),11,12,40,40
+Tibetan pinyin,11,village-level division in China (11),11,11,41,41
+applies to part,11,village-level division in China (11),11,6,42,42
+22-rdf-syntax-ns#type,12,street (12),12,4236711,1,1
+ontology#rank,12,street (12),12,4096946,2,2
+description,12,street (12),12,2256816,3,3
+postal code,12,street (12),12,1997097,4,4
+located in the administrative territorial entity,12,street (12),12,1960676,5,5
+instance of,12,street (12),12,1761843,6,6
+country,12,street (12),12,1730323,7,7
+rdf-schema#label,12,street (12),12,1637385,8,8
+coordinate location,12,street (12),12,1592206,9,9
+prov#wasDerivedFrom,12,street (12),12,858932,10,10
+street address,12,street (12),12,686198,11,11
+dateModified,12,street (12),12,578926,12,12
+ontology#identifiers,12,street (12),12,578926,13,13
+ontology#sitelinks,12,street (12),12,578926,14,14
+ontology#statements,12,street (12),12,578926,15,15
+version,12,street (12),12,578926,16,16
+location,12,street (12),12,566925,17,17
+core#altLabel,12,street (12),12,527285,18,18
+official name,12,street (12),12,267138,19,19
+Czech street ID,12,street (12),12,252792,20,20
+named after,12,street (12),12,250856,21,21
+connects with,12,street (12),12,250243,22,22
+exact match,12,street (12),12,249794,23,23
+Commons category,12,street (12),12,213114,24,24
+BAG public space ID,12,street (12),12,210511,25,25
+image,12,street (12),12,199495,26,26
+start time,12,street (12),12,184787,27,27
+about,12,street (12),12,143495,28,28
+inLanguage,12,street (12),12,143495,29,29
+isPartOf,12,street (12),12,143495,30,30
+name,12,street (12),12,143495,31,31
+Google Knowledge Graph ID,12,street (12),12,132158,32,32
+length,12,street (12),12,70111,33,33
+OpenStreetMap relation ID,12,street (12),12,61600,34,34
+shares border with,12,street (12),12,56028,35,35
+FANTOIR code,12,street (12),12,53490,36,36
+inception,12,street (12),12,48078,37,37
+part of,12,street (12),12,34375,38,38
+place name sign,12,street (12),12,32316,39,39
+applies to part,12,street (12),12,8590,40,40
+street key,12,street (12),12,8021,41,41
+22-rdf-syntax-ns#type,13,human settlement (13),13,5214906,1,1
+ontology#rank,13,human settlement (13),13,3840166,2,2
+description,13,human settlement (13),13,3222856,3,3
+rdf-schema#label,13,human settlement (13),13,2912746,4,4
+instance of,13,human settlement (13),13,1908634,5,5
+prov#wasDerivedFrom,13,human settlement (13),13,1890635,6,6
+coordinate location,13,human settlement (13),13,1706119,7,7
+country,13,human settlement (13),13,1612675,8,8
+located in the administrative territorial entity,13,human settlement (13),13,1391318,9,9
+about,13,human settlement (13),13,1389085,10,10
+inLanguage,13,human settlement (13),13,1389084,11,11
+isPartOf,13,human settlement (13),13,1389084,12,12
+name,13,human settlement (13),13,1389084,13,13
+GeoNames ID,13,human settlement (13),13,1184563,14,14
+elevation above sea level,13,human settlement (13),13,772316,15,15
+Who's on First ID,13,human settlement (13),13,678184,16,16
+located in time zone,13,human settlement (13),13,675800,17,17
+dateModified,13,human settlement (13),13,563958,18,18
+ontology#identifiers,13,human settlement (13),13,563958,19,19
+ontology#sitelinks,13,human settlement (13),13,563958,20,20
+ontology#statements,13,human settlement (13),13,563958,21,21
+version,13,human settlement (13),13,563958,22,22
+Google Knowledge Graph ID,13,human settlement (13),13,509958,23,23
+INEGI locality ID,13,human settlement (13),13,476055,24,24
+Freebase ID,13,human settlement (13),13,442455,25,25
+point in time,13,human settlement (13),13,322860,26,26
+population,13,human settlement (13),13,262837,27,27
+valid in period,13,human settlement (13),13,144101,28,28
+determination method,13,human settlement (13),13,139826,29,29
+male population,13,human settlement (13),13,125912,30,30
+female population,13,human settlement (13),13,125898,31,31
+core#altLabel,13,human settlement (13),13,103680,32,32
+number of households,13,human settlement (13),13,102101,33,33
+postal code,13,human settlement (13),13,91932,34,34
+image,13,human settlement (13),13,88485,35,35
+Commons category,13,human settlement (13),13,73695,36,36
+heritage designation,13,human settlement (13),13,67805,37,37
+appears in the heritage monument list,13,human settlement (13),13,62493,38,38
+Bavarian monument authority ID,13,human settlement (13),13,60084,39,39
+GNS Unique Feature ID,13,human settlement (13),13,59541,40,40
+series ordinal,13,human settlement (13),13,38626,41,41
+description,14,painting (14),14,10311414,1,1
+22-rdf-syntax-ns#type,14,painting (14),14,6848409,2,2
+ontology#rank,14,painting (14),14,6791199,3,3
+prov#wasDerivedFrom,14,painting (14),14,4315504,4,4
+collection,14,painting (14),14,2119742,5,5
+made from material,14,painting (14),14,1865998,6,6
+height,14,painting (14),14,1748018,7,7
+width,14,painting (14),14,1745741,8,8
+instance of,14,painting (14),14,1637818,9,9
+inception,14,painting (14),14,1602648,10,10
+inventory number,14,painting (14),14,1492669,11,11
+creator,14,painting (14),14,1448299,12,12
+location,14,painting (14),14,1447433,13,13
+title,14,painting (14),14,1116595,14,14
+depicts,14,painting (14),14,910837,15,15
+rdf-schema#label,14,painting (14),14,815425,16,16
+described at URL,14,painting (14),14,716107,17,17
+copyright status,14,painting (14),14,686674,18,18
+image,14,painting (14),14,640254,19,19
+genre,14,painting (14),14,581333,20,20
+dateModified,14,painting (14),14,539468,21,21
+ontology#identifiers,14,painting (14),14,539468,22,22
+ontology#sitelinks,14,painting (14),14,539468,23,23
+ontology#statements,14,painting (14),14,539468,24,24
+version,14,painting (14),14,539468,25,25
+start time,14,painting (14),14,367689,26,26
+applies to part,14,painting (14),14,315822,27,27
+determination method,14,painting (14),14,247340,28,28
+applies to jurisdiction,14,painting (14),14,224633,29,29
+catalog code,14,painting (14),14,200686,30,30
+owned by,14,painting (14),14,149240,31,31
+latest date,14,painting (14),14,144819,32,32
+earliest date,14,painting (14),14,141460,33,33
+main subject,14,painting (14),14,133588,34,34
+country,14,painting (14),14,115003,35,35
+IIIF manifest,14,painting (14),14,109062,36,36
+Art UK artwork ID,14,painting (14),14,105636,37,37
+location of creation,14,painting (14),14,104417,38,38
+object has role,14,painting (14),14,75064,39,39
+catalog,14,painting (14),14,72176,40,40
+about,14,painting (14),14,60994,41,41
+inLanguage,14,painting (14),14,60994,42,42
+isPartOf,14,painting (14),14,60994,43,43
+name,14,painting (14),14,60994,44,44
+sourcing circumstances,14,painting (14),14,60473,45,45
+core#altLabel,14,painting (14),14,32290,46,46
+language of work or name,14,painting (14),14,30953,47,47
+description,15,mountain (15),15,4367836,1,1
+22-rdf-syntax-ns#type,15,mountain (15),15,4046473,2,2
+ontology#rank,15,mountain (15),15,3238261,3,3
+GeoNames ID,15,mountain (15),15,2443708,4,4
+rdf-schema#label,15,mountain (15),15,2217746,5,5
+coordinate location,15,mountain (15),15,2102555,6,6
+prov#wasDerivedFrom,15,mountain (15),15,2066894,7,7
+instance of,15,mountain (15),15,1647630,8,8
+country,15,mountain (15),15,1563408,9,9
+located in the administrative territorial entity,15,mountain (15),15,1226828,10,10
+GNS Unique Feature ID,15,mountain (15),15,970097,11,11
+about,15,mountain (15),15,796871,12,12
+inLanguage,15,mountain (15),15,796871,13,13
+isPartOf,15,mountain (15),15,796871,14,14
+name,15,mountain (15),15,796871,15,15
+dateModified,15,mountain (15),15,525553,16,16
+ontology#identifiers,15,mountain (15),15,525553,17,17
+ontology#sitelinks,15,mountain (15),15,525553,18,18
+ontology#statements,15,mountain (15),15,525553,19,19
+version,15,mountain (15),15,525553,20,20
+elevation above sea level,15,mountain (15),15,353732,21,21
+Google Knowledge Graph ID,15,mountain (15),15,192540,22,22
+GNIS ID,15,mountain (15),15,183063,23,23
+Freebase ID,15,mountain (15),15,108015,24,24
+mountain range,15,mountain (15),15,103840,25,25
+continent,15,mountain (15),15,102341,26,26
+image,15,mountain (15),15,79229,27,27
+topographic prominence,15,mountain (15),15,49051,28,28
+Commons category,15,mountain (15),15,44388,29,29
+core#altLabel,15,mountain (15),15,44290,30,30
+VIAF ID,15,mountain (15),15,18555,31,31
+SCAR Composite Gazetteer place ID,15,mountain (15),15,18366,32,32
+Gran Enciclopèdia Catalana ID,15,mountain (15),15,15899,33,33
+Peakbagger mountain ID,15,mountain (15),15,14664,34,34
+native label,15,mountain (15),15,14504,35,35
+GNIS Antarctica ID,15,mountain (15),15,13833,36,36
+SSR place name number,15,mountain (15),15,12873,37,37
+historic county,15,mountain (15),15,11562,38,38
+part of,15,mountain (15),15,7070,39,39
+object has role,15,mountain (15),15,4331,40,40
+description,16,encyclopedia article (16),16,11968615,1,1
+22-rdf-syntax-ns#type,16,encyclopedia article (16),16,3302633,2,2
+ontology#rank,16,encyclopedia article (16),16,2913370,3,3
+instance of,16,encyclopedia article (16),16,1537073,4,4
+title,16,encyclopedia article (16),16,1454059,5,5
+published in,16,encyclopedia article (16),16,1282094,6,6
+language of work or name,16,encyclopedia article (16),16,1274103,7,7
+prov#wasDerivedFrom,16,encyclopedia article (16),16,875635,8,8
+publication date,16,encyclopedia article (16),16,649362,9,9
+DOI,16,encyclopedia article (16),16,629108,10,10
+rdf-schema#label,16,encyclopedia article (16),16,622554,11,11
+country of origin,16,encyclopedia article (16),16,617421,12,12
+dateModified,16,encyclopedia article (16),16,512141,13,13
+ontology#identifiers,16,encyclopedia article (16),16,512141,14,14
+ontology#sitelinks,16,encyclopedia article (16),16,512141,15,15
+ontology#statements,16,encyclopedia article (16),16,512141,16,16
+version,16,encyclopedia article (16),16,512141,17,17
+main subject,16,encyclopedia article (16),16,478617,18,18
+about,16,encyclopedia article (16),16,386131,19,19
+inLanguage,16,encyclopedia article (16),16,386128,20,20
+isPartOf,16,encyclopedia article (16),16,386128,21,21
+name,16,encyclopedia article (16),16,386128,22,22
+author,16,encyclopedia article (16),16,278824,23,23
+part of,16,encyclopedia article (16),16,240477,24,24
+page(s),16,encyclopedia article (16),16,181187,25,25
+copyright status,16,encyclopedia article (16),16,177941,26,26
+author name string,16,encyclopedia article (16),16,143497,27,27
+column,16,encyclopedia article (16),16,110144,28,28
+followed by,16,encyclopedia article (16),16,106959,29,29
+follows,16,encyclopedia article (16),16,106625,30,30
+determination method,16,encyclopedia article (16),16,70584,31,31
+applies to jurisdiction,16,encyclopedia article (16),16,67411,32,32
+series ordinal,16,encyclopedia article (16),16,52006,33,33
+ontology#badge,16,encyclopedia article (16),16,36330,34,34
+core#altLabel,16,encyclopedia article (16),16,27336,35,35
+of,16,encyclopedia article (16),16,20125,36,36
+volume,16,encyclopedia article (16),16,14762,37,37
+image,16,encyclopedia article (16),16,12183,38,38
+stated as,16,encyclopedia article (16),16,6750,39,39
+first line,16,encyclopedia article (16),16,4014,40,40
+cites work,16,encyclopedia article (16),16,1668,41,41
+has part,16,encyclopedia article (16),16,1373,42,42
+writing system,16,encyclopedia article (16),16,892,43,43
+full work available at URL,16,encyclopedia article (16),16,278,44,44
+name in native language,16,encyclopedia article (16),16,109,45,45
+media legend,16,encyclopedia article (16),16,101,46,46
+22-rdf-syntax-ns#type,17,collection (17),17,5206241,1,1
+ontology#rank,17,collection (17),17,5204557,2,2
+prov#wasDerivedFrom,17,collection (17),17,2150646,3,3
+collection or exhibition size,17,collection (17),17,1639177,4,4
+part of,17,collection (17),17,1562471,5,5
+collection,17,collection (17),17,1513658,6,6
+instance of,17,collection (17),17,1507451,7,7
+level of description,17,collection (17),17,1502902,8,8
+title,17,collection (17),17,1495786,9,9
+U.S. National Archives Identifier,17,collection (17),17,1493832,10,10
+description,17,collection (17),17,997928,11,11
+maintained by,17,collection (17),17,959994,12,12
+location,17,collection (17),17,942477,13,13
+access restriction status,17,collection (17),17,936931,14,14
+copyright status,17,collection (17),17,925580,15,15
+use restriction status,17,collection (17),17,896879,16,16
+rdf-schema#label,17,collection (17),17,505221,17,17
+dateModified,17,collection (17),17,500968,18,18
+ontology#identifiers,17,collection (17),17,500968,19,19
+ontology#sitelinks,17,collection (17),17,500968,20,20
+ontology#statements,17,collection (17),17,500968,21,21
+version,17,collection (17),17,500968,22,22
+amount cataloged,17,collection (17),17,324341,23,23
+determination method,17,collection (17),17,95597,24,24
+start time,17,collection (17),17,51076,25,25
+inventory number,17,collection (17),17,49676,26,26
+end time,17,collection (17),17,49200,27,27
+start of covered period,17,collection (17),17,32148,28,28
+end of covered period,17,collection (17),17,32120,29,29
+NARA collection identifier,17,collection (17),17,14256,30,30
+main subject,17,collection (17),17,8815,31,31
+country,17,collection (17),17,4762,32,32
+language of work or name,17,collection (17),17,3849,33,33
+inception,17,collection (17),17,2951,34,34
+collection creator,17,collection (17),17,2328,35,35
+street address,17,collection (17),17,2281,36,36
+about,17,collection (17),17,1873,37,37
+inLanguage,17,collection (17),17,1873,38,38
+isPartOf,17,collection (17),17,1873,39,39
+name,17,collection (17),17,1873,40,40
+core#altLabel,17,collection (17),17,1743,41,41
+description,18,family name (18),18,59885567,1,1
+rdf-schema#label,18,family name (18),18,57692163,2,2
+core#altLabel,18,family name (18),18,51377678,3,3
+22-rdf-syntax-ns#type,18,family name (18),18,3105162,4,4
+ontology#rank,18,family name (18),18,2922453,5,5
+instance of,18,family name (18),18,1497521,6,6
+writing system,18,family name (18),18,1380189,7,7
+native label,18,family name (18),18,1293910,8,8
+Soundex,18,family name (18),18,641559,9,9
+Caverphone,18,family name (18),18,641400,10,10
+Cologne phonetics,18,family name (18),18,573504,11,11
+dateModified,18,family name (18),18,481445,12,12
+ontology#statements,18,family name (18),18,481445,13,13
+version,18,family name (18),18,481445,14,14
+ontology#identifiers,18,family name (18),18,481429,15,15
+ontology#sitelinks,18,family name (18),18,481429,16,16
+Géopatronyme ID,18,family name (18),18,468397,17,17
+Wolfram Language entity code,18,family name (18),18,415269,18,18
+attested in,18,family name (18),18,343679,19,19
+different from,18,family name (18),18,338333,20,20
+language of work or name,18,family name (18),18,329888,21,21
+said to be the same as,18,family name (18),18,259974,22,22
+Commons category,18,family name (18),18,186680,23,23
+about,18,family name (18),18,182917,24,24
+inLanguage,18,family name (18),18,182916,25,25
+isPartOf,18,family name (18),18,182916,26,26
+name,18,family name (18),18,182916,27,27
+prov#wasDerivedFrom,18,family name (18),18,181359,28,28
+criterion used,18,family name (18),18,143877,29,29
+Digital Dictionary of Surnames in Germany ID,18,family name (18),18,136287,30,30
+part of,18,family name (18),18,41142,31,31
+described by source,18,family name (18),18,39675,32,32
+name in kana,18,family name (18),18,33503,33,33
+transliteration,18,family name (18),18,33321,34,34
+has part,18,family name (18),18,27534,35,35
+MyHeritage Surname ID,18,family name (18),18,27489,36,36
+has quality,18,family name (18),18,20223,37,37
+pronunciation audio,18,family name (18),18,14986,38,38
+gender inflection of surname,18,family name (18),18,14694,39,39
+of,18,family name (18),18,13506,40,40
+page(s),18,family name (18),18,11791,41,41
+Revised Hepburn romanization,18,family name (18),18,11359,42,42
+determination method,18,family name (18),18,10699,43,43
+series ordinal,18,family name (18),18,8983,44,44
+tussenvoegsel,18,family name (18),18,6609,45,45
+topic's main category,18,family name (18),18,2622,46,46
+statement is subject of,18,family name (18),18,1316,47,47
+Wikimedia language code,18,family name (18),18,958,48,48
+description,19,river (19),19,3651037,1,1
+22-rdf-syntax-ns#type,19,river (19),19,3567310,2,2
+ontology#rank,19,river (19),19,2829316,3,3
+prov#wasDerivedFrom,19,river (19),19,1953526,4,4
+coordinate location,19,river (19),19,1653948,5,5
+GeoNames ID,19,river (19),19,1623696,6,6
+rdf-schema#label,19,river (19),19,1475935,7,7
+instance of,19,river (19),19,1227858,8,8
+country,19,river (19),19,1211442,9,9
+located in the administrative territorial entity,19,river (19),19,963639,10,10
+about,19,river (19),19,747720,11,11
+inLanguage,19,river (19),19,747720,12,12
+isPartOf,19,river (19),19,747720,13,13
+name,19,river (19),19,747720,14,14
+GNS Unique Feature ID,19,river (19),19,696985,15,15
+elevation above sea level,19,river (19),19,668535,16,16
+dateModified,19,river (19),19,399552,17,17
+ontology#identifiers,19,river (19),19,399552,18,18
+ontology#sitelinks,19,river (19),19,399552,19,19
+ontology#statements,19,river (19),19,399552,20,20
+version,19,river (19),19,399552,21,21
+Google Knowledge Graph ID,19,river (19),19,300470,22,22
+length,19,river (19),19,294659,23,23
+mouth of the watercourse,19,river (19),19,265824,24,24
+tributary,19,river (19),19,193901,25,25
+drainage basin,19,river (19),19,181968,26,26
+Freebase ID,19,river (19),19,133450,27,27
+GNIS ID,19,river (19),19,121165,28,28
+watershed area,19,river (19),19,107344,29,29
+State Water Register Code (Russia),19,river (19),19,95276,30,30
+core#altLabel,19,river (19),19,80417,31,31
+image,19,river (19),19,72253,32,32
+applies to part,19,river (19),19,62875,33,33
+Commons category,19,river (19),19,49185,34,34
+origin of the watercourse,19,river (19),19,30298,35,35
+VIAF ID,19,river (19),19,29142,36,36
+described by source,19,river (19),19,13499,37,37
+location,19,river (19),19,12684,38,38
+22-rdf-syntax-ns#type,20,clinical trial (20),20,4453735,1,1
+ontology#rank,20,clinical trial (20),20,4453642,2,2
+minimum age,20,clinical trial (20),20,1595250,3,3
+start time,20,clinical trial (20),20,1405788,4,4
+number of participants,20,clinical trial (20),20,1398397,5,5
+end time,20,clinical trial (20),20,1336068,6,6
+country,20,clinical trial (20),20,1216747,7,7
+description,20,clinical trial (20),20,1107005,8,8
+instance of,20,clinical trial (20),20,1071504,9,9
+ClinicalTrials.gov ID,20,clinical trial (20),20,1069485,10,10
+study type,20,clinical trial (20),20,1048014,11,11
+title,20,clinical trial (20),20,1037016,12,12
+maximum age,20,clinical trial (20),20,902518,13,13
+research site,20,clinical trial (20),20,800649,14,14
+medical condition,20,clinical trial (20),20,685245,15,15
+clinical trial phase,20,clinical trial (20),20,532188,16,16
+rdf-schema#label,20,clinical trial (20),20,528598,17,17
+research intervention,20,clinical trial (20),20,434153,18,18
+dateModified,20,clinical trial (20),20,356838,19,19
+ontology#identifiers,20,clinical trial (20),20,356838,20,20
+ontology#sitelinks,20,clinical trial (20),20,356838,21,21
+ontology#statements,20,clinical trial (20),20,356838,22,22
+version,20,clinical trial (20),20,356838,23,23
+short name,20,clinical trial (20),20,283905,24,24
+sponsor,20,clinical trial (20),20,193986,25,25
+research subject recruitment status,20,clinical trial (20),20,151846,26,26
+main subject,20,clinical trial (20),20,134667,27,27
+contributor to the creative work or subject,20,clinical trial (20),20,46320,28,28
+cites work,20,clinical trial (20),20,15213,29,29
+prov#wasDerivedFrom,20,clinical trial (20),20,12009,30,30
+located in the administrative territorial entity,20,clinical trial (20),20,11136,31,31
+author name string,20,clinical trial (20),20,5661,32,32
+principal investigator,20,clinical trial (20),20,2828,33,33
+series ordinal,20,clinical trial (20),20,2183,34,34
+publication date,20,clinical trial (20),20,1164,35,35
+author,20,clinical trial (20),20,897,36,36
+published in,20,clinical trial (20),20,843,37,37
+page(s),20,clinical trial (20),20,560,38,38
+volume,20,clinical trial (20),20,280,39,39
+description,21,Wikimedia list article (21),21,23714609,1,1
+22-rdf-syntax-ns#type,21,Wikimedia list article (21),21,1449014,2,2
+instance of,21,Wikimedia list article (21),21,1022424,3,3
+ontology#rank,21,Wikimedia list article (21),21,825620,4,4
+rdf-schema#label,21,Wikimedia list article (21),21,752672,5,5
+about,21,Wikimedia list article (21),21,623379,6,6
+inLanguage,21,Wikimedia list article (21),21,623378,7,7
+isPartOf,21,Wikimedia list article (21),21,623378,8,8
+name,21,Wikimedia list article (21),21,623378,9,9
+is a list of,21,Wikimedia list article (21),21,599144,10,10
+dateModified,21,Wikimedia list article (21),21,334939,11,11
+ontology#identifiers,21,Wikimedia list article (21),21,334939,12,12
+ontology#sitelinks,21,Wikimedia list article (21),21,334939,13,13
+ontology#statements,21,Wikimedia list article (21),21,334939,14,14
+version,21,Wikimedia list article (21),21,334939,15,15
+country,21,Wikimedia list article (21),21,260946,16,16
+core#altLabel,21,Wikimedia list article (21),21,141236,17,17
+Commons category,21,Wikimedia list article (21),21,131648,18,18
+category related to list,21,Wikimedia list article (21),21,113325,19,19
+prov#wasDerivedFrom,21,Wikimedia list article (21),21,107235,20,20
+point in time,21,Wikimedia list article (21),21,99240,21,21
+sport,21,Wikimedia list article (21),21,52158,22,22
+located in the administrative territorial entity,21,Wikimedia list article (21),21,48998,23,23
+follows,21,Wikimedia list article (21),21,26553,24,24
+followed by,21,Wikimedia list article (21),21,26195,25,25
+has part,21,Wikimedia list article (21),21,21569,26,26
+part of,21,Wikimedia list article (21),21,15782,27,27
+contains,21,Wikimedia list article (21),21,12569,28,28
+facet of,21,Wikimedia list article (21),21,7386,29,29
+coordinate location,21,Wikimedia list article (21),21,7119,30,30
+time period,21,Wikimedia list article (21),21,6537,31,31
+ontology#badge,21,Wikimedia list article (21),21,5987,32,32
+topic's main category,21,Wikimedia list article (21),21,5745,33,33
+series ordinal,21,Wikimedia list article (21),21,5026,34,34
+Freebase ID,21,Wikimedia list article (21),21,4940,35,35
+date of death,21,Wikimedia list article (21),21,4859,36,36
+part of the series,21,Wikimedia list article (21),21,4488,37,37
+official website,21,Wikimedia list article (21),21,4112,38,38
+inception,21,Wikimedia list article (21),21,3853,39,39
+subclass of,21,Wikimedia list article (21),21,3634,40,40
+position held,21,Wikimedia list article (21),21,3417,41,41
+image,21,Wikimedia list article (21),21,3259,42,42
+of,21,Wikimedia list article (21),21,3005,43,43
+occupation,21,Wikimedia list article (21),21,2354,44,44
+heritage designation,21,Wikimedia list article (21),21,980,45,45
+22-rdf-syntax-ns#type,22,hill (22),22,2215050,1,1
+ontology#rank,22,hill (22),22,1857312,2,2
+GeoNames ID,22,hill (22),22,1568224,3,3
+coordinate location,22,hill (22),22,1290376,4,4
+description,22,hill (22),22,1252908,5,5
+prov#wasDerivedFrom,22,hill (22),22,1079908,6,6
+rdf-schema#label,22,hill (22),22,1075590,7,7
+instance of,22,hill (22),22,1047806,8,8
+country,22,hill (22),22,979993,9,9
+located in the administrative territorial entity,22,hill (22),22,917911,10,10
+GNS Unique Feature ID,22,hill (22),22,410780,11,11
+about,22,hill (22),22,355683,12,12
+inLanguage,22,hill (22),22,355683,13,13
+isPartOf,22,hill (22),22,355683,14,14
+name,22,hill (22),22,355683,15,15
+dateModified,22,hill (22),22,327277,16,16
+ontology#identifiers,22,hill (22),22,327277,17,17
+ontology#sitelinks,22,hill (22),22,327277,18,18
+ontology#statements,22,hill (22),22,327277,19,19
+version,22,hill (22),22,327277,20,20
+start time,22,hill (22),22,60252,21,21
+end time,22,hill (22),22,47858,22,22
+Google Knowledge Graph ID,22,hill (22),22,46855,23,23
+elevation above sea level,22,hill (22),22,40677,24,24
+GNIS ID,22,hill (22),22,33147,25,25
+heritage designation,22,hill (22),22,18906,26,26
+Iranian National Heritage registration number,22,hill (22),22,18252,27,27
+use,22,hill (22),22,18228,28,28
+directions,22,hill (22),22,17994,29,29
+SSR place name number,22,hill (22),22,16560,30,30
+location,22,hill (22),22,16545,31,31
+topographic prominence,22,hill (22),22,14499,32,32
+native label,22,hill (22),22,13682,33,33
+historic county,22,hill (22),22,11664,34,34
+Freebase ID,22,hill (22),22,8850,35,35
+image,22,hill (22),22,8642,36,36
+core#altLabel,22,hill (22),22,8063,37,37
+DoBIH Number,22,hill (22),22,7572,38,38
+mountain range,22,hill (22),22,7176,39,39
+Geographical Names Board of NSW ID,22,hill (22),22,4980,40,40
+object has role,22,hill (22),22,3462,41,41
+description,23,Wikinews article (23),23,14128436,1,1
+22-rdf-syntax-ns#type,23,Wikinews article (23),23,1114921,2,2
+instance of,23,Wikinews article (23),23,862083,3,3
+ontology#rank,23,Wikinews article (23),23,804307,4,4
+publication date,23,Wikinews article (23),23,743356,5,5
+language of work or name,23,Wikinews article (23),23,740980,6,6
+rdf-schema#label,23,Wikinews article (23),23,313986,7,7
+about,23,Wikinews article (23),23,310628,8,8
+inLanguage,23,Wikinews article (23),23,310628,9,9
+isPartOf,23,Wikinews article (23),23,310628,10,10
+name,23,Wikinews article (23),23,310628,11,11
+dateModified,23,Wikinews article (23),23,286950,12,12
+ontology#identifiers,23,Wikinews article (23),23,286950,13,13
+ontology#sitelinks,23,Wikinews article (23),23,286950,14,14
+ontology#statements,23,Wikinews article (23),23,286950,15,15
+version,23,Wikinews article (23),23,286950,16,16
+published in,23,Wikinews article (23),23,210042,17,17
+prov#wasDerivedFrom,23,Wikinews article (23),23,185355,18,18
+main subject,23,Wikinews article (23),23,14295,19,19
+country,23,Wikinews article (23),23,8898,20,20
+point in time,23,Wikinews article (23),23,5019,21,21
+core#altLabel,23,Wikinews article (23),23,4284,22,22
+described by source,23,Wikinews article (23),23,2289,23,23
+follows,23,Wikinews article (23),23,1763,24,24
+start time,23,Wikinews article (23),23,1752,25,25
+end time,23,Wikinews article (23),23,1748,26,26
+followed by,23,Wikinews article (23),23,1731,27,27
+title,23,Wikinews article (23),23,1664,28,28
+facet of,23,Wikinews article (23),23,843,29,29
+sport,23,Wikinews article (23),23,435,30,30
+competition class,23,Wikinews article (23),23,345,31,31
+Commons category,23,Wikinews article (23),23,339,32,32
+image,23,Wikinews article (23),23,335,33,33
+publisher,23,Wikinews article (23),23,249,34,34
+edition number,23,Wikinews article (23),23,246,35,35
+location,23,Wikinews article (23),23,243,36,36
+author,23,Wikinews article (23),23,192,37,37
+Google Knowledge Graph ID,23,Wikinews article (23),23,155,38,38
+ontology#badge,23,Wikinews article (23),23,147,39,39
+located in the administrative territorial entity,23,Wikinews article (23),23,90,40,40
+applies to part,23,Wikinews article (23),23,54,41,41
+ontology#wikiGroup,23,Wikinews article (23),23,45,42,42
+of,23,Wikinews article (23),23,40,43,43
+part of,23,Wikinews article (23),23,29,44,44
+22-rdf-syntax-ns#type,24,village (24),24,3307961,1,1
+description,24,village (24),24,3212844,2,2
+ontology#rank,24,village (24),24,2304145,3,3
+rdf-schema#label,24,village (24),24,2126962,4,4
+prov#wasDerivedFrom,24,village (24),24,1260331,5,5
+about,24,village (24),24,1058149,6,6
+inLanguage,24,village (24),24,1058149,7,7
+isPartOf,24,village (24),24,1058149,8,8
+name,24,village (24),24,1058149,9,9
+instance of,24,village (24),24,1045714,10,10
+country,24,village (24),24,819632,11,11
+located in the administrative territorial entity,24,village (24),24,740058,12,12
+coordinate location,24,village (24),24,729307,13,13
+Google Knowledge Graph ID,24,village (24),24,504490,14,14
+Freebase ID,24,village (24),24,412586,15,15
+located in time zone,24,village (24),24,408577,16,16
+GeoNames ID,24,village (24),24,314182,17,17
+population,24,village (24),24,313192,18,18
+dateModified,24,village (24),24,274840,19,19
+ontology#identifiers,24,village (24),24,274840,20,20
+ontology#sitelinks,24,village (24),24,274840,21,21
+ontology#statements,24,village (24),24,274840,22,22
+version,24,village (24),24,274840,23,23
+core#altLabel,24,village (24),24,245263,24,24
+point in time,24,village (24),24,236367,25,25
+postal code,24,village (24),24,230319,26,26
+Who's on First ID,24,village (24),24,159708,27,27
+elevation above sea level,24,village (24),24,128676,28,28
+TOID,24,village (24),24,123208,29,29
+image,24,village (24),24,115000,30,30
+administrative code of Indonesia,24,village (24),24,112047,31,31
+Commons category,24,village (24),24,97259,32,32
+OKTMO ID,24,village (24),24,93259,33,33
+OKATO ID,24,village (24),24,91256,34,34
+determination method,24,village (24),24,85518,35,35
+local dialing code,24,village (24),24,66317,36,36
+native label,24,village (24),24,62003,37,37
+historic county,24,village (24),24,59088,38,38
+start time,24,village (24),24,55120,39,39
+valid in period,24,village (24),24,47860,40,40
+subject has role,24,village (24),24,40276,41,41
+end time,24,village (24),24,40271,42,42
+named as,24,village (24),24,24182,43,43
+22-rdf-syntax-ns#type,25,album (25),25,2793067,1,1
+ontology#rank,25,album (25),25,2250457,2,2
+rdf-schema#label,25,album (25),25,1871641,3,3
+description,25,album (25),25,1490087,4,4
+prov#wasDerivedFrom,25,album (25),25,1439668,5,5
+publication date,25,album (25),25,950663,6,6
+instance of,25,album (25),25,811474,7,7
+performer,25,album (25),25,730102,8,8
+MusicBrainz release group ID,25,album (25),25,698115,9,9
+Freebase ID,25,album (25),25,600460,10,10
+genre,25,album (25),25,526993,11,11
+about,25,album (25),25,523700,12,12
+inLanguage,25,album (25),25,523700,13,13
+isPartOf,25,album (25),25,523700,14,14
+name,25,album (25),25,523700,15,15
+record label,25,album (25),25,475128,16,16
+follows,25,album (25),25,404697,17,17
+followed by,25,album (25),25,384597,18,18
+Google Knowledge Graph ID,25,album (25),25,366683,19,19
+Discogs master ID,25,album (25),25,293661,20,20
+dateModified,25,album (25),25,269095,21,21
+ontology#identifiers,25,album (25),25,269095,22,22
+ontology#sitelinks,25,album (25),25,269095,23,23
+ontology#statements,25,album (25),25,269095,24,24
+version,25,album (25),25,269095,25,25
+form of creative work,25,album (25),25,180876,26,26
+producer,25,album (25),25,140362,27,27
+language of work or name,25,album (25),25,138335,28,28
+distribution format,25,album (25),25,103677,29,29
+title,25,album (25),25,92089,30,30
+AllMusic album ID,25,album (25),25,81214,31,31
+core#altLabel,25,album (25),25,72040,32,32
+country of origin,25,album (25),25,69450,33,33
+number of parts of this work,25,album (25),25,64266,34,34
+tracklist,25,album (25),25,59890,35,35
+part of,25,album (25),25,58378,36,36
+Spotify album ID,25,album (25),25,53877,37,37
+place of publication,25,album (25),25,46889,38,38
+Amazon Standard Identification Number,25,album (25),25,40021,39,39
+named as,25,album (25),25,33859,40,40
+series ordinal,25,album (25),25,19706,41,41
+author name string,25,album (25),25,15032,42,42
+22-rdf-syntax-ns#type,26,building (26),26,2372759,1,1
+ontology#rank,26,building (26),26,2262925,2,2
+prov#wasDerivedFrom,26,building (26),26,1130158,3,3
+coordinate location,26,building (26),26,1009031,4,4
+instance of,26,building (26),26,953267,5,5
+located in the administrative territorial entity,26,building (26),26,804700,6,6
+country,26,building (26),26,795174,7,7
+heritage designation,26,building (26),26,625957,8,8
+rdf-schema#label,26,building (26),26,554270,9,9
+description,26,building (26),26,485332,10,10
+historic county,26,building (26),26,381873,11,11
+National Heritage List for England number,26,building (26),26,344826,12,12
+OS grid reference,26,building (26),26,344170,13,13
+start time,26,building (26),26,305878,14,14
+dateModified,26,building (26),26,265925,15,15
+ontology#identifiers,26,building (26),26,265925,16,16
+ontology#sitelinks,26,building (26),26,265925,17,17
+ontology#statements,26,building (26),26,265925,18,18
+version,26,building (26),26,265925,19,19
+image,26,building (26),26,241593,20,20
+street address,26,building (26),26,174756,21,21
+Google Knowledge Graph ID,26,building (26),26,152930,22,22
+Commons category,26,building (26),26,125549,23,23
+about,26,building (26),26,116341,24,24
+inLanguage,26,building (26),26,116340,25,25
+isPartOf,26,building (26),26,116340,26,26
+name,26,building (26),26,116340,27,27
+inception,26,building (26),26,93149,28,28
+location,26,building (26),26,92529,29,29
+located on street,26,building (26),26,74099,30,30
+architectural style,26,building (26),26,60437,31,31
+core#altLabel,26,building (26),26,59511,32,32
+postal code,26,building (26),26,53190,33,33
+Freebase ID,26,building (26),26,51285,34,34
+Inventari del Patrimoni Arquitectònic de Catalunya code,26,building (26),26,43273,35,35
+Rijksmonument ID,26,building (26),26,34099,36,36
+part of,26,building (26),26,31680,37,37
+official name,26,building (26),26,31576,38,38
+architect,26,building (26),26,30426,39,39
+point in time,26,building (26),26,21205,40,40
+appears in the heritage monument list,26,building (26),26,19512,41,41
+statement is subject of,26,building (26),26,18031,42,42
+street number,26,building (26),26,14509,43,43
+object has role,26,building (26),26,11315,44,44
+22-rdf-syntax-ns#type,27,film (27),27,7284887,1,1
+ontology#rank,27,film (27),27,6480184,2,2
+prov#wasDerivedFrom,27,film (27),27,3597645,3,3
+description,27,film (27),27,3240470,4,4
+cast member,27,film (27),27,2940511,5,5
+rdf-schema#label,27,film (27),27,1129590,6,6
+publication date,27,film (27),27,1091910,7,7
+genre,27,film (27),27,804904,8,8
+instance of,27,film (27),27,801539,9,9
+country of origin,27,film (27),27,781383,10,10
+about,27,film (27),27,779288,11,11
+inLanguage,27,film (27),27,779287,12,12
+isPartOf,27,film (27),27,779287,13,13
+name,27,film (27),27,779287,14,14
+director,27,film (27),27,653598,15,15
+IMDb ID,27,film (27),27,623197,16,16
+original language of film or TV show,27,film (27),27,592669,17,17
+Freebase ID,27,film (27),27,554026,18,18
+TMDb movie ID,27,film (27),27,491620,19,19
+Kinopoisk film ID,27,film (27),27,460660,20,20
+Google Knowledge Graph ID,27,film (27),27,445124,21,21
+duration,27,film (27),27,410700,22,22
+title,27,film (27),27,400274,23,23
+Letterboxd film ID,27,film (27),27,399889,24,24
+color,27,film (27),27,392725,25,25
+screenwriter,27,film (27),27,391656,26,26
+ČSFD film ID,27,film (27),27,372677,27,27
+elFilm film ID,27,film (27),27,359770,28,28
+OFDb film ID,27,film (27),27,278775,29,29
+core#altLabel,27,film (27),27,270213,30,30
+dateModified,27,film (27),27,263070,31,31
+ontology#identifiers,27,film (27),27,263070,32,32
+ontology#sitelinks,27,film (27),27,263070,33,33
+ontology#statements,27,film (27),27,263070,34,34
+version,27,film (27),27,263070,35,35
+composer,27,film (27),27,253543,36,36
+AllMovie title ID,27,film (27),27,253286,37,37
+distributed by,27,film (27),27,238786,38,38
+Douban film ID,27,film (27),27,231257,39,39
+director of photography,27,film (27),27,225114,40,40
+producer,27,film (27),27,221491,41,41
+description,28,lake (28),28,2406074,1,1
+22-rdf-syntax-ns#type,28,lake (28),28,2199894,2,2
+ontology#rank,28,lake (28),28,1813415,3,3
+prov#wasDerivedFrom,28,lake (28),28,1167489,4,4
+coordinate location,28,lake (28),28,1056791,5,5
+rdf-schema#label,28,lake (28),28,848982,6,6
+GeoNames ID,28,lake (28),28,828052,7,7
+instance of,28,lake (28),28,827842,8,8
+country,28,lake (28),28,779567,9,9
+elevation above sea level,28,lake (28),28,726235,10,10
+located in the administrative territorial entity,28,lake (28),28,673797,11,11
+about,28,lake (28),28,387267,12,12
+inLanguage,28,lake (28),28,387267,13,13
+isPartOf,28,lake (28),28,387267,14,14
+name,28,lake (28),28,387267,15,15
+area,28,lake (28),28,263477,16,16
+dateModified,28,lake (28),28,260135,17,17
+ontology#identifiers,28,lake (28),28,260135,18,18
+ontology#sitelinks,28,lake (28),28,260135,19,19
+ontology#statements,28,lake (28),28,260135,20,20
+version,28,lake (28),28,260135,21,21
+perimeter,28,lake (28),28,206343,22,22
+Google Knowledge Graph ID,28,lake (28),28,172375,23,23
+Lake ID (Sweden),28,lake (28),28,171973,24,24
+Banque de noms de lieux du Québec ID,28,lake (28),28,101156,25,25
+GNS Unique Feature ID,28,lake (28),28,82059,26,26
+GNIS ID,28,lake (28),28,67241,27,27
+vertical depth,28,lake (28),28,52050,28,28
+point in time,28,lake (28),28,51200,29,29
+Freebase ID,28,lake (28),28,44350,30,30
+image,28,lake (28),28,41523,31,31
+volume as quantity,28,lake (28),28,40275,32,32
+Finnish Lake ID,28,lake (28),28,39908,33,33
+basin country,28,lake (28),28,35656,34,34
+significant environmental impact,28,lake (28),28,35606,35,35
+core#altLabel,28,lake (28),28,32822,36,36
+native label,28,lake (28),28,29685,37,37
+part of,28,lake (28),28,15676,38,38
+determination method,28,lake (28),28,10402,39,39
+22-rdf-syntax-ns#type,29,church building (29),29,2541714,1,1
+ontology#rank,29,church building (29),29,2256786,2,2
+prov#wasDerivedFrom,29,church building (29),29,972599,3,3
+description,29,church building (29),29,943023,4,4
+coordinate location,29,church building (29),29,743386,5,5
+instance of,29,church building (29),29,696090,6,6
+country,29,church building (29),29,637511,7,7
+located in the administrative territorial entity,29,church building (29),29,618245,8,8
+image,29,church building (29),29,442807,9,9
+rdf-schema#label,29,church building (29),29,424363,10,10
+Commons category,29,church building (29),29,403674,11,11
+heritage designation,29,church building (29),29,381727,12,12
+Google Knowledge Graph ID,29,church building (29),29,303073,13,13
+about,29,church building (29),29,289027,14,14
+inLanguage,29,church building (29),29,289025,15,15
+isPartOf,29,church building (29),29,289025,16,16
+name,29,church building (29),29,289025,17,17
+diocese,29,church building (29),29,241245,18,18
+religion,29,church building (29),29,221729,19,19
+dateModified,29,church building (29),29,211291,20,20
+ontology#identifiers,29,church building (29),29,211291,21,21
+ontology#sitelinks,29,church building (29),29,211291,22,22
+ontology#statements,29,church building (29),29,211291,23,23
+version,29,church building (29),29,211291,24,24
+inception,29,church building (29),29,152750,25,25
+Clochers de France ID,29,church building (29),29,132029,26,26
+named after,29,church building (29),29,122583,27,27
+located in the ecclesiastical territorial entity,29,church building (29),29,120614,28,28
+street address,29,church building (29),29,109482,29,29
+start time,29,church building (29),29,99166,30,30
+core#altLabel,29,church building (29),29,94359,31,31
+architectural style,29,church building (29),29,93343,32,32
+dedicated to,29,church building (29),29,92185,33,33
+messes.info Catholic church ID,29,church building (29),29,87392,34,34
+Observatoire du Patrimoine Religieux ID,29,church building (29),29,83254,35,35
+historic county,29,church building (29),29,72795,36,36
+location,29,church building (29),29,67711,37,37
+Mérimée ID,29,church building (29),29,59158,38,38
+A Church Near You church ID,29,church building (29),29,45773,39,39
+National Heritage List for England number,29,church building (29),29,43881,40,40
+OS grid reference,29,church building (29),29,43626,41,41
+Wiki Loves Monuments ID,29,church building (29),29,38987,42,42
+appears in the heritage monument list,29,church building (29),29,12835,43,43
+22-rdf-syntax-ns#type,30,house (30),30,1893455,1,1
+ontology#rank,30,house (30),30,1825282,2,2
+coordinate location,30,house (30),30,744926,3,3
+instance of,30,house (30),30,628735,4,4
+prov#wasDerivedFrom,30,house (30),30,620793,5,5
+located in the administrative territorial entity,30,house (30),30,595545,6,6
+country,30,house (30),30,593009,7,7
+heritage designation,30,house (30),30,571420,8,8
+description,30,house (30),30,548514,9,9
+street address,30,house (30),30,376364,10,10
+rdf-schema#label,30,house (30),30,279663,11,11
+image,30,house (30),30,270181,12,12
+inception,30,house (30),30,220573,13,13
+dateModified,30,house (30),30,197736,14,14
+ontology#identifiers,30,house (30),30,197736,15,15
+ontology#sitelinks,30,house (30),30,197736,16,16
+ontology#statements,30,house (30),30,197736,17,17
+version,30,house (30),30,197736,18,18
+start time,30,house (30),30,134901,19,19
+Commons category,30,house (30),30,127860,20,20
+Bavarian monument authority ID,30,house (30),30,121632,21,21
+LfDS object ID,30,house (30),30,119839,22,22
+appears in the heritage monument list,30,house (30),30,108378,23,23
+historic county,30,house (30),30,100221,24,24
+National Heritage List for England number,30,house (30),30,88464,25,25
+OS grid reference,30,house (30),30,88160,26,26
+series ordinal,30,house (30),30,82509,27,27
+located on street,30,house (30),30,75181,28,28
+about,30,house (30),30,69959,29,29
+inLanguage,30,house (30),30,69959,30,30
+isPartOf,30,house (30),30,69959,31,31
+name,30,house (30),30,69959,32,32
+Google Knowledge Graph ID,30,house (30),30,58725,33,33
+location,30,house (30),30,50431,34,34
+Wiki Loves Monuments ID,30,house (30),30,39747,35,35
+Rijksmonument ID,30,house (30),30,39298,36,36
+Polish cultural heritage register number,30,house (30),30,36264,37,37
+postal code,30,house (30),30,35604,38,38
+official name,30,house (30),30,34664,39,39
+INSPIRE ID,30,house (30),30,34338,40,40
+point in time,30,house (30),30,29579,41,41
+core#altLabel,30,house (30),30,27818,42,42
+conscription number,30,house (30),30,20858,43,43
+22-rdf-syntax-ns#type,31,business (31),31,1948087,1,1
+ontology#rank,31,business (31),31,1669295,2,2
+prov#wasDerivedFrom,31,business (31),31,919184,3,3
+instance of,31,business (31),31,793332,4,4
+rdf-schema#label,31,business (31),31,726857,5,5
+inception,31,business (31),31,500856,6,6
+headquarters location,31,business (31),31,412629,7,7
+country,31,business (31),31,382093,8,8
+description,31,business (31),31,370188,9,9
+official website,31,business (31),31,327488,10,10
+about,31,business (31),31,301858,11,11
+inLanguage,31,business (31),31,301858,12,12
+isPartOf,31,business (31),31,301858,13,13
+name,31,business (31),31,301858,14,14
+Google Knowledge Graph ID,31,business (31),31,301737,15,15
+Freebase ID,31,business (31),31,262708,16,16
+core#altLabel,31,business (31),31,214027,17,17
+dateModified,31,business (31),31,193858,18,18
+ontology#identifiers,31,business (31),31,193858,19,19
+ontology#sitelinks,31,business (31),31,193858,20,20
+ontology#statements,31,business (31),31,193858,21,21
+version,31,business (31),31,193858,22,22
+legal form,31,business (31),31,160060,23,23
+industry,31,business (31),31,149454,24,24
+point in time,31,business (31),31,122242,25,25
+VIAF ID,31,business (31),31,120727,26,26
+Legal Entity Identifier,31,business (31),31,117432,27,27
+official name,31,business (31),31,99473,28,28
+GRID ID,31,business (31),31,87982,29,29
+ROR ID,31,business (31),31,86582,30,30
+start time,31,business (31),31,69538,31,31
+logo image,31,business (31),31,66993,32,32
+product or material produced,31,business (31),31,62566,33,33
+WorldCat Identities ID,31,business (31),31,61949,34,34
+Czech Registration ID,31,business (31),31,61865,35,35
+Corporate Number (Japan),31,business (31),31,59397,36,36
+ISDS ID,31,business (31),31,55656,37,37
+Commons category,31,business (31),31,54178,38,38
+social media followers,31,business (31),31,49221,39,39
+coordinate location,31,business (31),31,45012,40,40
+Twitter user numeric ID,31,business (31),31,29393,41,41
+postal code,31,business (31),31,29121,42,42
+language of work or name,31,business (31),31,22798,43,43
+named as,31,business (31),31,15419,44,44
+rdf-schema#label,32,calendar day of a given year (32),32,6152052,1,1
+instance of,32,calendar day of a given year (32),32,1146460,2,2
+22-rdf-syntax-ns#type,32,calendar day of a given year (32),32,1040850,3,3
+ontology#rank,32,calendar day of a given year (32),32,964484,4,4
+point in time,32,calendar day of a given year (32),32,757108,5,5
+description,32,calendar day of a given year (32),32,620020,6,6
+day of week,32,calendar day of a given year (32),32,567819,7,7
+part of,32,calendar day of a given year (32),32,566265,8,8
+follows,32,calendar day of a given year (32),32,378235,9,9
+followed by,32,calendar day of a given year (32),32,378227,10,10
+core#altLabel,32,calendar day of a given year (32),32,200644,11,11
+dateModified,32,calendar day of a given year (32),32,189366,12,12
+ontology#identifiers,32,calendar day of a given year (32),32,189366,13,13
+ontology#sitelinks,32,calendar day of a given year (32),32,189366,14,14
+ontology#statements,32,calendar day of a given year (32),32,189366,15,15
+version,32,calendar day of a given year (32),32,189366,16,16
+about,32,calendar day of a given year (32),32,76366,17,17
+inLanguage,32,calendar day of a given year (32),32,76366,18,18
+isPartOf,32,calendar day of a given year (32),32,76366,19,19
+name,32,calendar day of a given year (32),32,76366,20,20
+topic's main category,32,calendar day of a given year (32),32,19359,21,21
+Commons category,32,calendar day of a given year (32),32,15807,22,22
+prov#wasDerivedFrom,32,calendar day of a given year (32),32,6402,23,23
+Google Knowledge Graph ID,32,calendar day of a given year (32),32,5455,24,24
+Armeniapedia ID,32,calendar day of a given year (32),32,2529,25,25
+month of the year,32,calendar day of a given year (32),32,2439,26,26
+series ordinal,32,calendar day of a given year (32),32,1128,27,27
+criterion used,32,calendar day of a given year (32),32,365,28,28
+subclass of,32,calendar day of a given year (32),32,267,29,29
+publication date,32,calendar day of a given year (32),32,68,30,30
+short name,32,calendar day of a given year (32),32,45,31,31
+ontology#wikiGroup,32,calendar day of a given year (32),32,39,32,32
+day in year for periodic occurrence,32,calendar day of a given year (32),32,24,33,33
+determination method,32,calendar day of a given year (32),32,16,34,34
+is a list of,32,calendar day of a given year (32),32,12,35,35
+said to be the same as,32,calendar day of a given year (32),32,12,36,36
+time index,32,calendar day of a given year (32),32,8,37,37
+Fandom article ID,32,calendar day of a given year (32),32,6,38,38
+has part,32,calendar day of a given year (32),32,3,39,39
+BabelNet ID,32,calendar day of a given year (32),32,2,40,40
+MediaWiki page ID,32,calendar day of a given year (32),32,2,41,41
+language of work or name,32,calendar day of a given year (32),32,2,42,42
+named as,32,calendar day of a given year (32),32,2,43,43
+FilmPolski press collection ID,32,calendar day of a given year (32),32,1,44,44
+category for the view from the item,32,calendar day of a given year (32),32,1,45,45
+different from,32,calendar day of a given year (32),32,1,46,46
+has list,32,calendar day of a given year (32),32,1,47,47
+of,32,calendar day of a given year (32),32,1,48,48
+significant event,32,calendar day of a given year (32),32,1,49,49
+22-rdf-syntax-ns#type,33,watercourse (33),33,1256378,1,1
+ontology#rank,33,watercourse (33),33,1039967,2,2
+description,33,watercourse (33),33,1009377,3,3
+GeoNames ID,33,watercourse (33),33,850410,4,4
+coordinate location,33,watercourse (33),33,693160,5,5
+rdf-schema#label,33,watercourse (33),33,639048,6,6
+prov#wasDerivedFrom,33,watercourse (33),33,628455,7,7
+instance of,33,watercourse (33),33,548066,8,8
+country,33,watercourse (33),33,523112,9,9
+located in the administrative territorial entity,33,watercourse (33),33,437202,10,10
+GNS Unique Feature ID,33,watercourse (33),33,327429,11,11
+elevation above sea level,33,watercourse (33),33,240632,12,12
+about,33,watercourse (33),33,216470,13,13
+inLanguage,33,watercourse (33),33,216470,14,14
+isPartOf,33,watercourse (33),33,216470,15,15
+name,33,watercourse (33),33,216470,16,16
+dateModified,33,watercourse (33),33,174620,17,17
+ontology#identifiers,33,watercourse (33),33,174620,18,18
+ontology#sitelinks,33,watercourse (33),33,174620,19,19
+ontology#statements,33,watercourse (33),33,174620,20,20
+version,33,watercourse (33),33,174620,21,21
+Google Knowledge Graph ID,33,watercourse (33),33,44220,22,22
+Banque de noms de lieux du Québec ID,33,watercourse (33),33,14637,23,23
+length,33,watercourse (33),33,13884,24,24
+mouth of the watercourse,33,watercourse (33),33,12546,25,25
+drainage basin,33,watercourse (33),33,8763,26,26
+image,33,watercourse (33),33,6734,27,27
+core#altLabel,33,watercourse (33),33,5499,28,28
+Commons category,33,watercourse (33),33,4611,29,29
+tributary,33,watercourse (33),33,4518,30,30
+Freebase ID,33,watercourse (33),33,4495,31,31
+watershed area,33,watercourse (33),33,4410,32,32
+VIAF ID,33,watercourse (33),33,2897,33,33
+origin of the watercourse,33,watercourse (33),33,1542,34,34
+applies to part,33,watercourse (33),33,1414,35,35
+OpenStreetMap relation ID,33,watercourse (33),33,1336,36,36
+Gran Enciclopèdia Catalana ID,33,watercourse (33),33,1257,37,37
+different from,33,watercourse (33),33,1068,38,38
+22-rdf-syntax-ns#type,34,literary work (34),34,1478965,1,1
+ontology#rank,34,literary work (34),34,1252618,2,2
+instance of,34,literary work (34),34,617010,3,3
+description,34,literary work (34),34,436842,4,4
+prov#wasDerivedFrom,34,literary work (34),34,399973,5,5
+author,34,literary work (34),34,392462,6,6
+rdf-schema#label,34,literary work (34),34,350278,7,7
+language of work or name,34,literary work (34),34,344648,8,8
+publication date,34,literary work (34),34,297737,9,9
+genre,34,literary work (34),34,280536,10,10
+about,34,literary work (34),34,230228,11,11
+inLanguage,34,literary work (34),34,230228,12,12
+isPartOf,34,literary work (34),34,230228,13,13
+name,34,literary work (34),34,230228,14,14
+country of origin,34,literary work (34),34,229991,15,15
+Google Knowledge Graph ID,34,literary work (34),34,174038,16,16
+title,34,literary work (34),34,166403,17,17
+dateModified,34,literary work (34),34,164860,18,18
+ontology#identifiers,34,literary work (34),34,164860,19,19
+ontology#sitelinks,34,literary work (34),34,164860,20,20
+ontology#statements,34,literary work (34),34,164860,21,21
+version,34,literary work (34),34,164860,22,22
+Freebase ID,34,literary work (34),34,164382,23,23
+copyright status,34,literary work (34),34,148406,24,24
+publisher,34,literary work (34),34,101871,25,25
+ISBN-13,34,literary work (34),34,92379,26,26
+OCLC control number,34,literary work (34),34,70192,27,27
+core#altLabel,34,literary work (34),34,58619,28,28
+published in,34,literary work (34),34,58564,29,29
+main subject,34,literary work (34),34,55937,30,30
+OCLC work ID,34,literary work (34),34,55773,31,31
+determination method,34,literary work (34),34,51962,32,32
+applies to jurisdiction,34,literary work (34),34,51945,33,33
+Goodreads work ID,34,literary work (34),34,49962,34,34
+ISBN-10,34,literary work (34),34,45118,35,35
+Goodreads version/edition ID,34,literary work (34),34,44952,36,36
+has edition or translation,34,literary work (34),34,39279,37,37
+point in time,34,literary work (34),34,37462,38,38
+ISFDB title ID,34,literary work (34),34,32639,39,39
+follows,34,literary work (34),34,27463,40,40
+named as,34,literary work (34),34,16480,41,41
+followed by,34,literary work (34),34,8318,42,42
+22-rdf-syntax-ns#type,35,sports season (35),35,1572730,1,1
+ontology#rank,35,sports season (35),35,1156720,2,2
+instance of,35,sports season (35),35,496109,3,3
+rdf-schema#label,35,sports season (35),35,484761,4,4
+Google Knowledge Graph ID,35,sports season (35),35,436081,5,5
+about,35,sports season (35),35,415194,6,6
+inLanguage,35,sports season (35),35,415193,7,7
+isPartOf,35,sports season (35),35,415193,8,8
+name,35,sports season (35),35,415193,9,9
+sport,35,sports season (35),35,407698,10,10
+prov#wasDerivedFrom,35,sports season (35),35,373410,11,11
+point in time,35,sports season (35),35,357864,12,12
+country,35,sports season (35),35,303527,13,13
+Freebase ID,35,sports season (35),35,257660,14,14
+description,35,sports season (35),35,245220,15,15
+sports season of league or competition,35,sports season (35),35,205257,16,16
+dateModified,35,sports season (35),35,158877,17,17
+ontology#identifiers,35,sports season (35),35,158877,18,18
+ontology#sitelinks,35,sports season (35),35,158877,19,19
+ontology#statements,35,sports season (35),35,158877,20,20
+version,35,sports season (35),35,158877,21,21
+number of participants,35,sports season (35),35,158760,22,22
+time period,35,sports season (35),35,154191,23,23
+number of matches played/races/starts,35,sports season (35),35,133844,24,24
+follows,35,sports season (35),35,123767,25,25
+followed by,35,sports season (35),35,115194,26,26
+winner,35,sports season (35),35,108645,27,27
+organizer,35,sports season (35),35,105564,28,28
+edition number,35,sports season (35),35,103842,29,29
+core#altLabel,35,sports season (35),35,89803,30,30
+participating team,35,sports season (35),35,87649,31,31
+end time,35,sports season (35),35,81688,32,32
+start time,35,sports season (35),35,79648,33,33
+competition class,35,sports season (35),35,75516,34,34
+location,35,sports season (35),35,42511,35,35
+ranking,35,sports season (35),35,40882,36,36
+number of wins,35,sports season (35),35,34494,37,37
+number of losses,35,sports season (35),35,34086,38,38
+number of points/goals/set scored,35,sports season (35),35,32252,39,39
+number of points/goals conceded,35,sports season (35),35,31062,40,40
+number of draws/ties,35,sports season (35),35,30214,41,41
+22-rdf-syntax-ns#type,36,"version, edition, or translation (36)",36,1591708,1,1
+ontology#rank,36,"version, edition, or translation (36)",36,1538937,2,2
+prov#wasDerivedFrom,36,"version, edition, or translation (36)",36,712852,3,3
+instance of,36,"version, edition, or translation (36)",36,518044,4,4
+publication date,36,"version, edition, or translation (36)",36,498757,5,5
+description,36,"version, edition, or translation (36)",36,435289,6,6
+language of work or name,36,"version, edition, or translation (36)",36,434445,7,7
+title,36,"version, edition, or translation (36)",36,373835,8,8
+rdf-schema#label,36,"version, edition, or translation (36)",36,327936,9,9
+author,36,"version, edition, or translation (36)",36,293725,10,10
+edition or translation of,36,"version, edition, or translation (36)",36,222558,11,11
+place of publication,36,"version, edition, or translation (36)",36,220336,12,12
+publisher,36,"version, edition, or translation (36)",36,201499,13,13
+dateModified,36,"version, edition, or translation (36)",36,157486,14,14
+ontology#identifiers,36,"version, edition, or translation (36)",36,157486,15,15
+ontology#sitelinks,36,"version, edition, or translation (36)",36,157486,16,16
+ontology#statements,36,"version, edition, or translation (36)",36,157486,17,17
+version,36,"version, edition, or translation (36)",36,157486,18,18
+ISBN-13,36,"version, edition, or translation (36)",36,134529,19,19
+Open Library ID,36,"version, edition, or translation (36)",36,127021,20,20
+ISBN-10,36,"version, edition, or translation (36)",36,126973,21,21
+National Library of Wales Catalogue ID,36,"version, edition, or translation (36)",36,112500,22,22
+copyright status,36,"version, edition, or translation (36)",36,109590,23,23
+OCLC control number,36,"version, edition, or translation (36)",36,101018,24,24
+number of pages,36,"version, edition, or translation (36)",36,90581,25,25
+LIBRIS editions,36,"version, edition, or translation (36)",36,84585,26,26
+author name string,36,"version, edition, or translation (36)",36,83346,27,27
+published in,36,"version, edition, or translation (36)",36,74832,28,28
+Goodreads version/edition ID,36,"version, edition, or translation (36)",36,59154,29,29
+document file on Wikimedia Commons,36,"version, edition, or translation (36)",36,58266,30,30
+distribution format,36,"version, edition, or translation (36)",36,57459,31,31
+about,36,"version, edition, or translation (36)",36,52817,32,32
+inLanguage,36,"version, edition, or translation (36)",36,52811,33,33
+isPartOf,36,"version, edition, or translation (36)",36,52811,34,34
+name,36,"version, edition, or translation (36)",36,52811,35,35
+full work available at URL,36,"version, edition, or translation (36)",36,52230,36,36
+series ordinal,36,"version, edition, or translation (36)",36,51916,37,37
+stated as,36,"version, edition, or translation (36)",36,42908,38,38
+point in time,36,"version, edition, or translation (36)",36,39754,39,39
+applies to jurisdiction,36,"version, edition, or translation (36)",36,39022,40,40
+determination method,36,"version, edition, or translation (36)",36,39005,41,41
+core#altLabel,36,"version, edition, or translation (36)",36,35149,42,42
+named as,36,"version, edition, or translation (36)",36,20561,43,43
+22-rdf-syntax-ns#type,37,primary school (37),37,1252277,1,1
+ontology#rank,37,primary school (37),37,1236386,2,2
+prov#wasDerivedFrom,37,primary school (37),37,1008762,3,3
+instance of,37,primary school (37),37,928973,4,4
+country,37,primary school (37),37,471203,5,5
+coordinate location,37,primary school (37),37,438992,6,6
+located in the administrative territorial entity,37,primary school (37),37,412057,7,7
+rdf-schema#label,37,primary school (37),37,334104,8,8
+description,37,primary school (37),37,307787,9,9
+postal code,37,primary school (37),37,282657,10,10
+U-DISE code,37,primary school (37),37,195390,11,11
+street address,37,primary school (37),37,161430,12,12
+dateModified,37,primary school (37),37,157451,13,13
+ontology#identifiers,37,primary school (37),37,157451,14,14
+ontology#sitelinks,37,primary school (37),37,157451,15,15
+ontology#statements,37,primary school (37),37,157451,16,16
+version,37,primary school (37),37,157451,17,17
+official website,37,primary school (37),37,97317,18,18
+inception,37,primary school (37),37,79587,19,19
+phone number,37,primary school (37),37,56988,20,20
+parent organization,37,primary school (37),37,56976,21,21
+location,37,primary school (37),37,55020,22,22
+Italian School ID,37,primary school (37),37,54180,23,23
+Google Knowledge Graph ID,37,primary school (37),37,53170,24,24
+email address,37,primary school (37),37,51771,25,25
+historic county,37,primary school (37),37,50667,26,26
+DfE URN,37,primary school (37),37,50617,27,27
+UK Provider Reference Number,37,primary school (37),37,50170,28,28
+Google Maps Customer ID,37,primary school (37),37,49476,29,29
+religion,37,primary school (37),37,29331,30,30
+Basisregistratie Instellingen number,37,primary school (37),37,19287,31,31
+diocese,37,primary school (37),37,18081,32,32
+core#altLabel,37,primary school (37),37,16908,33,33
+about,37,primary school (37),37,16170,34,34
+inLanguage,37,primary school (37),37,16170,35,35
+isPartOf,37,primary school (37),37,16170,36,36
+name,37,primary school (37),37,16170,37,37
+WhatDoTheyKnow organisation ID,37,primary school (37),37,15879,38,38
+has part,37,primary school (37),37,15198,39,39
+KERIS school ID,37,primary school (37),37,14034,40,40
+point in time,37,primary school (37),37,9797,41,41
+students count,37,primary school (37),37,8706,42,42
+named as,37,primary school (37),37,5361,43,43
+applies to part,37,primary school (37),37,4438,44,44
+22-rdf-syntax-ns#type,38,biographical article (38),38,1212454,1,1
+ontology#rank,38,biographical article (38),38,1061395,2,2
+description,38,biographical article (38),38,532327,3,3
+instance of,38,biographical article (38),38,453324,4,4
+published in,38,biographical article (38),38,452917,5,5
+rdf-schema#label,38,biographical article (38),38,370648,6,6
+author,38,biographical article (38),38,320993,7,7
+main subject,38,biographical article (38),38,286834,8,8
+page(s),38,biographical article (38),38,268719,9,9
+volume,38,biographical article (38),38,254537,10,10
+language of work or name,38,biographical article (38),38,222807,11,11
+title,38,biographical article (38),38,211345,12,12
+copyright status,38,biographical article (38),38,183969,13,13
+prov#wasDerivedFrom,38,biographical article (38),38,168388,14,14
+name,38,biographical article (38),38,165941,15,15
+dateModified,38,biographical article (38),38,151026,16,16
+ontology#identifiers,38,biographical article (38),38,151026,17,17
+ontology#sitelinks,38,biographical article (38),38,151026,18,18
+ontology#statements,38,biographical article (38),38,151026,19,19
+version,38,biographical article (38),38,151026,20,20
+about,38,biographical article (38),38,150601,21,21
+inLanguage,38,biographical article (38),38,150526,22,22
+isPartOf,38,biographical article (38),38,150526,23,23
+followed by,38,biographical article (38),38,143619,24,24
+follows,38,biographical article (38),38,138996,25,25
+publication date,38,biographical article (38),38,105572,26,26
+determination method,38,biographical article (38),38,67698,27,27
+first line,38,biographical article (38),38,67229,28,28
+part of,38,biographical article (38),38,66362,29,29
+core#altLabel,38,biographical article (38),38,61934,30,30
+cites work,38,biographical article (38),38,60907,31,31
+applies to jurisdiction,38,biographical article (38),38,45342,32,32
+ontology#badge,38,biographical article (38),38,28023,33,33
+document file on Wikimedia Commons,38,biographical article (38),38,19245,34,34
+subtitle,38,biographical article (38),38,15620,35,35
+file page,38,biographical article (38),38,12806,36,36
+author name string,38,biographical article (38),38,6106,37,37
+object has role,38,biographical article (38),38,5143,38,38
+described by source,38,biographical article (38),38,4232,39,39
+statement is subject of,38,biographical article (38),38,3647,40,40
+number of pages,38,biographical article (38),38,2472,41,41
+DOI,38,biographical article (38),38,2185,42,42
+amended by,38,biographical article (38),38,1350,43,43
+"section, verse, paragraph, or clause",38,biographical article (38),38,1206,44,44
+named as,38,biographical article (38),38,1196,45,45
+of,38,biographical article (38),38,787,46,46
+series ordinal,38,biographical article (38),38,718,47,47
+stated as,38,biographical article (38),38,519,48,48
+22-rdf-syntax-ns#type,39,island (39),39,1282293,1,1
+ontology#rank,39,island (39),39,958245,2,2
+description,39,island (39),39,897631,3,3
+GeoNames ID,39,island (39),39,695106,4,4
+prov#wasDerivedFrom,39,island (39),39,607457,5,5
+coordinate location,39,island (39),39,596128,6,6
+rdf-schema#label,39,island (39),39,528144,7,7
+instance of,39,island (39),39,451561,8,8
+country,39,island (39),39,443553,9,9
+located in the administrative territorial entity,39,island (39),39,397940,10,10
+about,39,island (39),39,322894,11,11
+inLanguage,39,island (39),39,322894,12,12
+isPartOf,39,island (39),39,322894,13,13
+name,39,island (39),39,322894,14,14
+elevation above sea level,39,island (39),39,154814,15,15
+dateModified,39,island (39),39,148587,16,16
+ontology#identifiers,39,island (39),39,148587,17,17
+ontology#sitelinks,39,island (39),39,148587,18,18
+ontology#statements,39,island (39),39,148587,19,19
+version,39,island (39),39,148587,20,20
+GNS Unique Feature ID,39,island (39),39,135628,21,21
+area,39,island (39),39,81709,22,22
+Google Knowledge Graph ID,39,island (39),39,63970,23,23
+core#altLabel,39,island (39),39,55204,24,24
+Freebase ID,39,island (39),39,49785,25,25
+located in or next to body of water,39,island (39),39,47735,26,26
+GNIS ID,39,island (39),39,39687,27,27
+image,39,island (39),39,25831,28,28
+located in time zone,39,island (39),39,24423,29,29
+part of,39,island (39),39,23892,30,30
+population,39,island (39),39,17713,31,31
+length,39,island (39),39,17458,32,32
+start time,39,island (39),39,15415,33,33
+width,39,island (39),39,15299,34,34
+Commons category,39,island (39),39,14519,35,35
+end time,39,island (39),39,14507,36,36
+located in/on physical feature,39,island (39),39,12966,37,37
+OpenStreetMap relation ID,39,island (39),39,11100,38,38
+valid in period,39,island (39),39,4267,39,39
+22-rdf-syntax-ns#type,40,item of collection or exhibition (40),40,1821311,1,1
+ontology#rank,40,item of collection or exhibition (40),40,1820436,2,2
+part of,40,item of collection or exhibition (40),40,712206,3,3
+collection,40,item of collection or exhibition (40),40,571160,4,4
+instance of,40,item of collection or exhibition (40),40,533351,5,5
+title,40,item of collection or exhibition (40),40,434505,6,6
+copyright status,40,item of collection or exhibition (40),40,423910,7,7
+inventory number,40,item of collection or exhibition (40),40,377201,8,8
+location,40,item of collection or exhibition (40),40,371031,9,9
+level of description,40,item of collection or exhibition (40),40,355152,10,10
+U.S. National Archives Identifier,40,item of collection or exhibition (40),40,355065,11,11
+maintained by,40,item of collection or exhibition (40),40,354603,12,12
+use restriction status,40,item of collection or exhibition (40),40,344706,13,13
+access restriction status,40,item of collection or exhibition (40),40,237324,14,14
+production date,40,item of collection or exhibition (40),40,220887,15,15
+prov#wasDerivedFrom,40,item of collection or exhibition (40),40,204250,16,16
+rdf-schema#label,40,item of collection or exhibition (40),40,151527,17,17
+description,40,item of collection or exhibition (40),40,151481,18,18
+dateModified,40,item of collection or exhibition (40),40,147402,19,19
+ontology#statements,40,item of collection or exhibition (40),40,147402,20,20
+version,40,item of collection or exhibition (40),40,147402,21,21
+ontology#identifiers,40,item of collection or exhibition (40),40,147401,22,22
+ontology#sitelinks,40,item of collection or exhibition (40),40,147401,23,23
+determination method,40,item of collection or exhibition (40),40,141269,24,24
+described at URL,40,item of collection or exhibition (40),40,92711,25,25
+date of first performance,40,item of collection or exhibition (40),40,89252,26,26
+image,40,item of collection or exhibition (40),40,71731,27,27
+inception,40,item of collection or exhibition (40),40,30799,28,28
+start of covered period,40,item of collection or exhibition (40),40,16628,29,29
+end of covered period,40,item of collection or exhibition (40),40,16624,30,30
+made from material,40,item of collection or exhibition (40),40,11382,31,31
+on focus list of Wikimedia project,40,item of collection or exhibition (40),40,9624,32,32
+height,40,item of collection or exhibition (40),40,7474,33,33
+width,40,item of collection or exhibition (40),40,6940,34,34
+publication date,40,item of collection or exhibition (40),40,6876,35,35
+location of creation,40,item of collection or exhibition (40),40,4416,36,36
+creator,40,item of collection or exhibition (40),40,4095,37,37
+ontology#rank,41,architectural structure (41),41,1290969,1,1
+22-rdf-syntax-ns#type,41,architectural structure (41),41,1289149,2,2
+prov#wasDerivedFrom,41,architectural structure (41),41,725555,3,3
+located in the administrative territorial entity,41,architectural structure (41),41,575151,4,4
+coordinate location,41,architectural structure (41),41,546796,5,5
+instance of,41,architectural structure (41),41,466850,6,6
+country,41,architectural structure (41),41,431162,7,7
+heritage designation,41,architectural structure (41),41,396506,8,8
+description,41,architectural structure (41),41,319444,9,9
+start time,41,architectural structure (41),41,313030,10,10
+historic county,41,architectural structure (41),41,301712,11,11
+OS grid reference,41,architectural structure (41),41,209490,12,12
+Historic Scotland ID,41,architectural structure (41),41,183675,13,13
+rdf-schema#label,41,architectural structure (41),41,183289,14,14
+Canmore ID,41,architectural structure (41),41,150765,15,15
+dateModified,41,architectural structure (41),41,145957,16,16
+ontology#identifiers,41,architectural structure (41),41,145957,17,17
+ontology#sitelinks,41,architectural structure (41),41,145957,18,18
+ontology#statements,41,architectural structure (41),41,145957,19,19
+version,41,architectural structure (41),41,145957,20,20
+object has role,41,architectural structure (41),41,142889,21,21
+named as,41,architectural structure (41),41,118466,22,22
+National Heritage List for England number,41,architectural structure (41),41,106086,23,23
+image,41,architectural structure (41),41,103886,24,24
+location,41,architectural structure (41),41,89854,25,25
+Commons category,41,architectural structure (41),41,63787,26,26
+Google Knowledge Graph ID,41,architectural structure (41),41,62665,27,27
+street address,41,architectural structure (41),41,60484,28,28
+about,41,architectural structure (41),41,55592,29,29
+inLanguage,41,architectural structure (41),41,55592,30,30
+isPartOf,41,architectural structure (41),41,55592,31,31
+name,41,architectural structure (41),41,55592,32,32
+inventory number,41,architectural structure (41),41,55022,33,33
+official name,41,architectural structure (41),41,54036,34,34
+series ordinal,41,architectural structure (41),41,40261,35,35
+appears in the heritage monument list,41,architectural structure (41),41,30129,36,36
+PCP reference number,41,architectural structure (41),41,27276,37,37
+denkXweb identifier,41,architectural structure (41),41,23940,38,38
+postal code,41,architectural structure (41),41,22077,39,39
+elevation above sea level,41,architectural structure (41),41,21828,40,40
+core#altLabel,41,architectural structure (41),41,19759,41,41
+inception,41,architectural structure (41),41,19213,42,42
+part of,41,architectural structure (41),41,19067,43,43
+end time,41,architectural structure (41),41,11301,44,44
+street number,41,architectural structure (41),41,7492,45,45
+statement is subject of,41,architectural structure (41),41,4261,46,46
+description,42,village in India (42),42,2336722,1,1
+ontology#rank,42,village in India (42),42,1467450,2,2
+22-rdf-syntax-ns#type,42,village in India (42),42,1392224,3,3
+point in time,42,village in India (42),42,1329477,4,4
+prov#wasDerivedFrom,42,village in India (42),42,1031692,5,5
+male population,42,village in India (42),42,773761,6,6
+female population,42,village in India (42),42,773679,7,7
+instance of,42,village in India (42),42,439569,8,8
+located in the administrative territorial entity,42,village in India (42),42,439075,9,9
+country,42,village in India (42),42,437535,10,10
+population,42,village in India (42),42,425006,11,11
+number of households,42,village in India (42),42,423522,12,12
+determination method,42,village in India (42),42,369652,13,13
+rdf-schema#label,42,village in India (42),42,347765,14,14
+illiterate population,42,village in India (42),42,314634,15,15
+literate population,42,village in India (42),42,313648,16,16
+coordinate location,42,village in India (42),42,231977,17,17
+Indian census area code (2011),42,village in India (42),42,230826,18,18
+located in time zone,42,village in India (42),42,201474,19,19
+coordinates of geographic center,42,village in India (42),42,156555,20,20
+about,42,village in India (42),42,152080,21,21
+inLanguage,42,village in India (42),42,152080,22,22
+isPartOf,42,village in India (42),42,152080,23,23
+name,42,village in India (42),42,152080,24,24
+dateModified,42,village in India (42),42,145824,25,25
+ontology#identifiers,42,village in India (42),42,145824,26,26
+ontology#sitelinks,42,village in India (42),42,145824,27,27
+ontology#statements,42,village in India (42),42,145824,28,28
+version,42,village in India (42),42,145824,29,29
+area,42,village in India (42),42,136429,30,30
+Google Knowledge Graph ID,42,village in India (42),42,135975,31,31
+Indian census area code (2001),42,village in India (42),42,120240,32,32
+Freebase ID,42,village in India (42),42,72050,33,33
+postal code,42,village in India (42),42,68763,34,34
+elevation above sea level,42,village in India (42),42,17773,35,35
+core#altLabel,42,village in India (42),42,7054,36,36
+local dialing code,42,village in India (42),42,6171,37,37
+image,42,village in India (42),42,3670,38,38
+22-rdf-syntax-ns#type,43,branch post office (43),43,775436,1,1
+ontology#rank,43,branch post office (43),43,775436,2,2
+prov#wasDerivedFrom,43,branch post office (43),43,645628,3,3
+postal code,43,branch post office (43),43,387561,4,4
+operator,43,branch post office (43),43,387555,5,5
+country,43,branch post office (43),43,387552,6,6
+instance of,43,branch post office (43),43,387549,7,7
+owned by,43,branch post office (43),43,387549,8,8
+located in the administrative territorial entity,43,branch post office (43),43,386673,9,9
+rdf-schema#label,43,branch post office (43),43,129684,10,10
+dateModified,43,branch post office (43),43,129183,11,11
+ontology#identifiers,43,branch post office (43),43,129183,12,12
+ontology#sitelinks,43,branch post office (43),43,129183,13,13
+ontology#statements,43,branch post office (43),43,129183,14,14
+version,43,branch post office (43),43,129183,15,15
+description,43,branch post office (43),43,14004,16,16
+coordinate location,43,branch post office (43),43,2464,17,17
+location,43,branch post office (43),43,9,18,18
+street address,43,branch post office (43),43,9,19,19
+core#altLabel,43,branch post office (43),43,5,20,20
+Canadian Encyclopedia article ID,43,branch post office (43),43,3,21,21
+object has role,43,branch post office (43),43,1,22,22
+rdf-schema#label,44,cell line (44),44,1060304,1,1
+description,44,cell line (44),44,1042089,2,2
+22-rdf-syntax-ns#type,44,cell line (44),44,833878,3,3
+ontology#rank,44,cell line (44),44,833492,4,4
+prov#wasDerivedFrom,44,cell line (44),44,833068,5,5
+instance of,44,cell line (44),44,775251,6,6
+derived from organism type,44,cell line (44),44,389406,7,7
+Cellosaurus ID,44,cell line (44),44,386415,8,8
+described by source,44,cell line (44),44,343101,9,9
+established from medical condition,44,cell line (44),44,172131,10,10
+dateModified,44,cell line (44),44,128805,11,11
+ontology#identifiers,44,cell line (44),44,128805,12,12
+ontology#sitelinks,44,cell line (44),44,128805,13,13
+ontology#statements,44,cell line (44),44,128805,14,14
+version,44,cell line (44),44,128805,15,15
+parent cell line,44,cell line (44),44,122730,16,16
+sex or gender,44,cell line (44),44,115966,17,17
+exact match,44,cell line (44),44,112296,18,18
+Cell Line Ontology ID,44,cell line (44),44,101268,19,19
+core#altLabel,44,cell line (44),44,90715,20,20
+autologous cell line,44,cell line (44),44,80607,21,21
+hPSCreg cell line ID,44,cell line (44),44,15900,22,22
+different from,44,cell line (44),44,540,23,23
+about,44,cell line (44),44,386,24,24
+inLanguage,44,cell line (44),44,386,25,25
+isPartOf,44,cell line (44),44,386,26,26
+name,44,cell line (44),44,386,27,27
+Google Knowledge Graph ID,44,cell line (44),44,360,28,28
+Freebase ID,44,cell line (44),44,260,29,29
+Microsoft Academic ID,44,cell line (44),44,240,30,30
+MeSH descriptor ID,44,cell line (44),44,130,31,31
+Commons category,44,cell line (44),44,72,32,32
+MeSH tree code,44,cell line (44),44,45,33,33
+Research Resource Identifier,44,cell line (44),44,15,34,34
+main subject,44,cell line (44),44,12,35,35
+JSTOR topic ID,44,cell line (44),44,9,36,36
+image,44,cell line (44),44,9,37,37
+chemical formula,44,cell line (44),44,6,38,38
+Encyclopædia Britannica Online ID,44,cell line (44),44,2,39,39
+InChI,44,cell line (44),44,2,40,40
+canonical SMILES,44,cell line (44),44,2,41,41
+discoverer or inventor,44,cell line (44),44,2,42,42
+has part,44,cell line (44),44,2,43,43
+isomeric SMILES,44,cell line (44),44,2,44,44
+named after,44,cell line (44),44,2,45,45
+subclass of,44,cell line (44),44,2,46,46
+description,45,prime number (45),45,795712,1,1
+ontology#rank,45,prime number (45),45,644583,2,2
+22-rdf-syntax-ns#type,45,prime number (45),45,526967,3,3
+number of decimal digits,45,prime number (45),45,510176,4,4
+rdf-schema#label,45,prime number (45),45,468888,5,5
+instance of,45,prime number (45),45,392262,6,6
+prime factor,45,prime number (45),45,382509,7,7
+Prime Pages ID,45,prime number (45),45,378534,8,8
+numeric value,45,prime number (45),45,257660,9,9
+dateModified,45,prime number (45),45,127545,10,10
+ontology#identifiers,45,prime number (45),45,127545,11,11
+ontology#sitelinks,45,prime number (45),45,127545,12,12
+ontology#statements,45,prime number (45),45,127545,13,13
+version,45,prime number (45),45,127545,14,14
+reason for deprecation,45,prime number (45),45,126176,15,15
+about,45,prime number (45),45,8557,16,16
+inLanguage,45,prime number (45),45,8557,17,17
+isPartOf,45,prime number (45),45,8557,18,18
+name,45,prime number (45),45,8557,19,19
+KIT Linked Open Numbers ID,45,prime number (45),45,6670,20,20
+code,45,prime number (45),45,5943,21,21
+core#altLabel,45,prime number (45),45,4765,22,22
+followed by,45,prime number (45),45,3837,23,23
+follows,45,prime number (45),45,3831,24,24
+Commons category,45,prime number (45),45,3345,25,25
+encoding,45,prime number (45),45,1998,26,26
+Unicode character,45,prime number (45),45,362,27,27
+discoverer or inventor,45,prime number (45),45,240,28,28
+time of discovery or invention,45,prime number (45),45,237,29,29
+pronunciation audio,45,prime number (45),45,231,30,30
+prov#wasDerivedFrom,45,prime number (45),45,194,31,31
+Google Knowledge Graph ID,45,prime number (45),45,190,32,32
+different from,45,prime number (45),45,135,33,33
+series ordinal,45,prime number (45),45,119,34,34
+object has role,45,prime number (45),45,111,35,35
+language of work or name,45,prime number (45),45,96,36,36
+defining formula,45,prime number (45),45,89,37,37
+significant event,45,prime number (45),45,75,38,38
+OmegaWiki Defined Meaning,45,prime number (45),45,57,39,39
+image,45,prime number (45),45,56,40,40
+start time,45,prime number (45),45,52,41,41
+end time,45,prime number (45),45,48,42,42
+permanent duplicated item,45,prime number (45),45,48,43,43
+code (image),45,prime number (45),45,39,44,44
+spoken text audio,45,prime number (45),45,33,45,45
+criterion used,45,prime number (45),45,26,46,46
+Freebase ID,45,prime number (45),45,20,47,47
+22-rdf-syntax-ns#type,46,stream (46),46,873978,1,1
+ontology#rank,46,stream (46),46,734964,2,2
+GeoNames ID,46,stream (46),46,587699,3,3
+prov#wasDerivedFrom,46,stream (46),46,571742,4,4
+coordinate location,46,stream (46),46,495045,5,5
+instance of,46,stream (46),46,379477,6,6
+description,46,stream (46),46,379228,7,7
+country,46,stream (46),46,374899,8,8
+rdf-schema#label,46,stream (46),46,299342,9,9
+located in the administrative territorial entity,46,stream (46),46,289679,10,10
+GNS Unique Feature ID,46,stream (46),46,249108,11,11
+about,46,stream (46),46,139076,12,12
+inLanguage,46,stream (46),46,139076,13,13
+isPartOf,46,stream (46),46,139076,14,14
+name,46,stream (46),46,139076,15,15
+dateModified,46,stream (46),46,124853,16,16
+ontology#identifiers,46,stream (46),46,124853,17,17
+ontology#sitelinks,46,stream (46),46,124853,18,18
+ontology#statements,46,stream (46),46,124853,19,19
+version,46,stream (46),46,124853,20,20
+GNIS ID,46,stream (46),46,55377,21,21
+Google Knowledge Graph ID,46,stream (46),46,22935,22,22
+length,46,stream (46),46,22305,23,23
+mouth of the watercourse,46,stream (46),46,21683,24,24
+drainage basin,46,stream (46),46,16761,25,25
+elevation above sea level,46,stream (46),46,13358,26,26
+image,46,stream (46),46,8767,27,27
+Freebase ID,46,stream (46),46,7390,28,28
+watershed area,46,stream (46),46,6765,29,29
+Commons category,46,stream (46),46,6231,30,30
+applies to part,46,stream (46),46,6003,31,31
+tributary,46,stream (46),46,5598,32,32
+core#altLabel,46,stream (46),46,5409,33,33
+VIAF ID,46,stream (46),46,3439,34,34
+start time,46,stream (46),46,2630,35,35
+end time,46,stream (46),46,2613,36,36
+hydrological order number,46,stream (46),46,2391,37,37
+Sandre river ID,46,stream (46),46,2043,38,38
+Environmental Register code (Estonia),46,stream (46),46,1986,39,39
+tributary orientation,46,stream (46),46,527,40,40
+located in protected area,46,stream (46),46,421,41,41
+22-rdf-syntax-ns#type,47,position (47),47,616684,1,1
+ontology#rank,47,position (47),47,580022,2,2
+rdf-schema#label,47,position (47),47,544323,3,3
+instance of,47,position (47),47,370170,4,4
+subclass of,47,position (47),47,352983,5,5
+applies to jurisdiction,47,position (47),47,324627,6,6
+description,47,position (47),47,262391,7,7
+country,47,position (47),47,205898,8,8
+female form of label,47,position (47),47,193540,9,9
+core#altLabel,47,position (47),47,125545,10,10
+dateModified,47,position (47),47,120117,11,11
+ontology#identifiers,47,position (47),47,120117,12,12
+ontology#sitelinks,47,position (47),47,120117,13,13
+ontology#statements,47,position (47),47,120117,14,14
+version,47,position (47),47,120117,15,15
+"dissolved, abolished or demolished date",47,position (47),47,46773,16,16
+about,47,position (47),47,39668,17,17
+inLanguage,47,position (47),47,39667,18,18
+isPartOf,47,position (47),47,39667,19,19
+name,47,position (47),47,39667,20,20
+inception,47,position (47),47,29793,21,21
+part of,47,position (47),47,28157,22,22
+organization directed by the office or position,47,position (47),47,24946,23,23
+officeholder,47,position (47),47,24821,24,24
+topic's main category,47,position (47),47,22060,25,25
+Freebase ID,47,position (47),47,21978,26,26
+male form of label,47,position (47),47,21642,27,27
+prov#wasDerivedFrom,47,position (47),47,18383,28,28
+Google Knowledge Graph ID,47,position (47),47,15633,29,29
+start time,47,position (47),47,15347,30,30
+end time,47,position (47),47,9919,31,31
+has list,47,position (47),47,9035,32,32
+Commons category,47,position (47),47,6372,33,33
+official website,47,position (47),47,5026,34,34
+located in the administrative territorial entity,47,position (47),47,4250,35,35
+native label,47,position (47),47,3884,36,36
+appointed by,47,position (47),47,3878,37,37
+coat of arms image,47,position (47),47,3315,38,38
+replaced by,47,position (47),47,2731,39,39
+different from,47,position (47),47,2439,40,40
+point in time,47,position (47),47,2302,41,41
+of,47,position (47),47,1757,42,42
+series ordinal,47,position (47),47,1748,43,43
+replaces,47,position (47),47,803,44,44
+22-rdf-syntax-ns#type,48,print (48),48,1425563,1,1
+ontology#rank,48,print (48),48,1425199,2,2
+prov#wasDerivedFrom,48,print (48),48,1078309,3,3
+collection,48,print (48),48,749917,4,4
+instance of,48,print (48),48,388941,5,5
+inception,48,print (48),48,348383,6,6
+inventory number,48,print (48),48,343231,7,7
+title,48,print (48),48,278979,8,8
+creator,48,print (48),48,274104,9,9
+location,48,print (48),48,271731,10,10
+fabrication method,48,print (48),48,258090,11,11
+height,48,print (48),48,235527,12,12
+width,48,print (48),48,235437,13,13
+IIIF manifest,48,print (48),48,212571,14,14
+National Gallery of Art artwork ID,48,print (48),48,186699,15,15
+description,48,print (48),48,182928,16,16
+image,48,print (48),48,158568,17,17
+depicts,48,print (48),48,147112,18,18
+rdf-schema#label,48,print (48),48,139649,19,19
+dateModified,48,print (48),48,119806,20,20
+ontology#identifiers,48,print (48),48,119806,21,21
+ontology#sitelinks,48,print (48),48,119806,22,22
+ontology#statements,48,print (48),48,119806,23,23
+version,48,print (48),48,119806,24,24
+described at URL,48,print (48),48,91586,25,25
+copyright status,48,print (48),48,89938,26,26
+made from material,48,print (48),48,65466,27,27
+genre,48,print (48),48,36129,28,28
+determination method,48,print (48),48,32398,29,29
+publication date,48,print (48),48,32152,30,30
+part of,48,print (48),48,31455,31,31
+main subject,48,print (48),48,31122,32,32
+Handle ID,48,print (48),48,26475,33,33
+relative position within image,48,print (48),48,24858,34,34
+publisher,48,print (48),48,20565,35,35
+earliest date,48,print (48),48,16938,36,36
+latest date,48,print (48),48,16558,37,37
+applies to jurisdiction,48,print (48),48,12654,38,38
+sourcing circumstances,48,print (48),48,10939,39,39
+place of publication,48,print (48),48,9962,40,40
+object has role,48,print (48),48,8595,41,41
+applies to part,48,print (48),48,7212,42,42
+after a work by,48,print (48),48,6583,43,43
+22-rdf-syntax-ns#type,49,hamlet (49),49,1222418,1,1
+ontology#rank,49,hamlet (49),49,924362,2,2
+prov#wasDerivedFrom,49,hamlet (49),49,813808,3,3
+description,49,hamlet (49),49,550553,4,4
+rdf-schema#label,49,hamlet (49),49,454201,5,5
+instance of,49,hamlet (49),49,410079,6,6
+located in the administrative territorial entity,49,hamlet (49),49,370532,7,7
+country,49,hamlet (49),49,357554,8,8
+Google Knowledge Graph ID,49,hamlet (49),49,311080,9,9
+about,49,hamlet (49),49,309064,10,10
+inLanguage,49,hamlet (49),49,309064,11,11
+isPartOf,49,hamlet (49),49,309064,12,12
+name,49,hamlet (49),49,309064,13,13
+postal code,49,hamlet (49),49,295160,14,14
+OKTMO ID,49,hamlet (49),49,282329,15,15
+OKATO ID,49,hamlet (49),49,270726,16,16
+coordinate location,49,hamlet (49),49,255404,17,17
+dateModified,49,hamlet (49),49,118188,18,18
+ontology#identifiers,49,hamlet (49),49,118188,19,19
+ontology#sitelinks,49,hamlet (49),49,118188,20,20
+ontology#statements,49,hamlet (49),49,118188,21,21
+version,49,hamlet (49),49,118188,22,22
+population,49,hamlet (49),49,86544,23,23
+core#altLabel,49,hamlet (49),49,82146,24,24
+located in time zone,49,hamlet (49),49,57314,25,25
+point in time,49,hamlet (49),49,54788,26,26
+local dialing code,49,hamlet (49),49,41455,27,27
+start time,49,hamlet (49),49,39155,28,28
+elevation above sea level,49,hamlet (49),49,31542,29,29
+romanization of Belarusian (2007 system),49,hamlet (49),49,28932,30,30
+image,49,hamlet (49),49,17247,31,31
+end time,49,hamlet (49),49,15461,32,32
+Commons category,49,hamlet (49),49,14513,33,33
+Freebase ID,49,hamlet (49),49,14175,34,34
+TOID,49,hamlet (49),49,13718,35,35
+GeoNames ID,49,hamlet (49),49,13319,36,36
+historic county,49,hamlet (49),49,11172,37,37
+official name,49,hamlet (49),49,8986,38,38
+capital of,49,hamlet (49),49,8139,39,39
+SIMC place ID,49,hamlet (49),49,4496,40,40
+determination method,49,hamlet (49),49,4315,41,41
+valid in period,49,hamlet (49),49,2691,42,42
+22-rdf-syntax-ns#type,50,group of stereoisomers (50),50,874827,1,1
+ontology#rank,50,group of stereoisomers (50),50,871313,2,2
+found in taxon,50,group of stereoisomers (50),50,612198,3,3
+description,50,group of stereoisomers (50),50,416717,4,4
+instance of,50,group of stereoisomers (50),50,336822,5,5
+InChIKey,50,group of stereoisomers (50),50,334724,6,6
+InChI,50,group of stereoisomers (50),50,334619,7,7
+prov#wasDerivedFrom,50,group of stereoisomers (50),50,325130,8,8
+chemical formula,50,group of stereoisomers (50),50,311613,9,9
+canonical SMILES,50,group of stereoisomers (50),50,310605,10,10
+subclass of,50,group of stereoisomers (50),50,130622,11,11
+rdf-schema#label,50,group of stereoisomers (50),50,116175,12,12
+dateModified,50,group of stereoisomers (50),50,111599,13,13
+ontology#identifiers,50,group of stereoisomers (50),50,111599,14,14
+ontology#sitelinks,50,group of stereoisomers (50),50,111599,15,15
+ontology#statements,50,group of stereoisomers (50),50,111599,16,16
+version,50,group of stereoisomers (50),50,111599,17,17
+isomeric SMILES,50,group of stereoisomers (50),50,66005,18,18
+CAS Registry Number,50,group of stereoisomers (50),50,29042,19,19
+DSSTox substance ID,50,group of stereoisomers (50),50,27159,20,20
+DSSTOX compound identifier,50,group of stereoisomers (50),50,27116,21,21
+PubChem CID,50,group of stereoisomers (50),50,23713,22,22
+mass,50,group of stereoisomers (50),50,21480,23,23
+ChemSpider ID,50,group of stereoisomers (50),50,21135,24,24
+ChEBI ID,50,group of stereoisomers (50),50,18863,25,25
+core#altLabel,50,group of stereoisomers (50),50,8925,26,26
+LIPID MAPS ID,50,group of stereoisomers (50),50,4971,27,27
+KEGG ID,50,group of stereoisomers (50),50,3900,28,28
+mapping relation type,50,group of stereoisomers (50),50,3750,29,29
+about,50,group of stereoisomers (50),50,3613,30,30
+inLanguage,50,group of stereoisomers (50),50,3613,31,31
+isPartOf,50,group of stereoisomers (50),50,3613,32,32
+name,50,group of stereoisomers (50),50,3613,33,33
+ChEMBL ID,50,group of stereoisomers (50),50,3566,34,34
+MassBank accession ID,50,group of stereoisomers (50),50,3207,35,35
+UNII,50,group of stereoisomers (50),50,3099,36,36
+part of,50,group of stereoisomers (50),50,2175,37,37
+Reaxys registry number,50,group of stereoisomers (50),50,2106,38,38
+SPLASH,50,group of stereoisomers (50),50,2043,39,39
+NSC number,50,group of stereoisomers (50),50,1844,40,40
