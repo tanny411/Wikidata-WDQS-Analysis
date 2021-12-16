@@ -1,0 +1,342 @@
+subgraph,subgraph_code,label,item_count,triple_count,triple_percentage,item_percentage,subgraph_rank
+<http://www.wikidata.org/entity/Q13442814>,Q13442814,scholarly article,37426408,6573939332,48.935,39.815,1
+<http://www.wikidata.org/entity/Q6999>,Q6999,astronomical object,8405997,1166626391,8.684,8.943,2
+<http://www.wikidata.org/entity/Q5>,Q5,human,9442756,974547849,7.254,10.045,3
+<http://www.wikidata.org/entity/Q4167836>,Q4167836,Wikimedia category,4864202,780026683,5.806,5.175,4
+<http://www.wikidata.org/entity/Q16521>,Q16521,taxon,3289801,387604306,2.885,3.5,5
+<http://www.wikidata.org/entity/Q101352>,Q101352,family name,480477,221144531,1.646,0.511,6
+<http://www.wikidata.org/entity/Q4167410>,Q4167410,Wikimedia disambiguation page,1375900,181861616,1.354,1.464,7
+<http://www.wikidata.org/entity/Q7187>,Q7187,gene,1196477,122443119,0.911,1.273,8
+<http://www.wikidata.org/entity/Q11266439>,Q11266439,Wikimedia template,850094,114791318,0.854,0.904,9
+<http://www.wikidata.org/entity/Q29654788>,Q29654788,Unicode character,115484,112032055,0.834,0.123,10
+<http://www.wikidata.org/entity/Q11173>,Q11173,chemical compound,1223815,91855773,0.684,1.302,11
+<http://www.wikidata.org/entity/Q8054>,Q8054,protein,987333,88577329,0.659,1.05,12
+<http://www.wikidata.org/entity/Q3305213>,Q3305213,painting,544014,57254109,0.426,0.579,13
+<http://www.wikidata.org/entity/Q13100073>,Q13100073,village-level division in China,588477,51616011,0.384,0.626,14
+<http://www.wikidata.org/entity/Q11424>,Q11424,film,266692,48252396,0.359,0.284,15
+<http://www.wikidata.org/entity/Q486972>,Q486972,human settlement,574823,40065774,0.298,0.612,16
+<http://www.wikidata.org/entity/Q815382>,Q815382,meta-analysis,109713,35731131,0.266,0.117,17
+<http://www.wikidata.org/entity/Q13433827>,Q13433827,encyclopedia article,521394,33902844,0.252,0.555,18
+<http://www.wikidata.org/entity/Q13406463>,Q13406463,Wikimedia list article,333418,33478436,0.249,0.355,19
+<http://www.wikidata.org/entity/Q8502>,Q8502,mountain,525872,33370651,0.248,0.559,20
+<http://www.wikidata.org/entity/Q2668072>,Q2668072,collection,502286,32771753,0.244,0.534,21
+<http://www.wikidata.org/entity/Q79007>,Q79007,street,588780,30831514,0.23,0.626,22
+<http://www.wikidata.org/entity/Q4022>,Q4022,river,399077,28960730,0.216,0.425,23
+<http://www.wikidata.org/entity/Q30612>,Q30612,clinical trial,356847,27734182,0.206,0.38,24
+<http://www.wikidata.org/entity/Q532>,Q532,village,276736,26716197,0.199,0.294,25
+<http://www.wikidata.org/entity/Q484170>,Q484170,commune of France,45572,24002317,0.179,0.048,26
+<http://www.wikidata.org/entity/Q17633526>,Q17633526,Wikinews article,287004,21932762,0.163,0.305,27
+<http://www.wikidata.org/entity/Q482994>,Q482994,album,271029,21531657,0.16,0.288,28
+<http://www.wikidata.org/entity/Q23397>,Q23397,lake,261815,18266055,0.136,0.279,29
+<http://www.wikidata.org/entity/Q54050>,Q54050,hill,327366,17243202,0.128,0.348,30
+<http://www.wikidata.org/entity/Q16970>,Q16970,church building,213774,17146143,0.128,0.227,31
+<http://www.wikidata.org/entity/Q41176>,Q41176,building,272167,16669872,0.124,0.29,32
+<http://www.wikidata.org/entity/Q56436498>,Q56436498,village in India,145780,15375221,0.114,0.155,33
+<http://www.wikidata.org/entity/Q4830453>,Q4830453,business,195783,14438536,0.107,0.208,34
+<http://www.wikidata.org/entity/Q47150325>,Q47150325,calendar day of a given year,189366,14240746,0.106,0.201,35
+<http://www.wikidata.org/entity/Q3947>,Q3947,house,203217,12945616,0.096,0.216,36
+<http://www.wikidata.org/entity/Q7725634>,Q7725634,literary work,190766,11700002,0.087,0.203,37
+<http://www.wikidata.org/entity/Q3331189>,Q3331189,"version, edition, or translation",179717,11638767,0.087,0.191,38
+<http://www.wikidata.org/entity/Q1348305>,Q1348305,erratum,80444,11383092,0.085,0.086,39
+<http://www.wikidata.org/entity/Q27020041>,Q27020041,sports season,159174,10935379,0.081,0.169,40
+<http://www.wikidata.org/entity/Q18593264>,Q18593264,item of collection or exhibition,147214,10721903,0.08,0.157,41
+<http://www.wikidata.org/entity/Q22808320>,Q22808320,Wikimedia human name disambiguation page,70519,10335187,0.077,0.075,42
+<http://www.wikidata.org/entity/Q355304>,Q355304,watercourse,175208,10171807,0.076,0.186,43
+<http://www.wikidata.org/entity/Q55488>,Q55488,railway station,98222,9932982,0.074,0.104,44
+<http://www.wikidata.org/entity/Q23442>,Q23442,island,148956,9924142,0.074,0.158,45
+<http://www.wikidata.org/entity/Q11060274>,Q11060274,print,121858,9873462,0.073,0.13,46
+<http://www.wikidata.org/entity/Q12308941>,Q12308941,male given name,37498,9613621,0.072,0.04,47
+<http://www.wikidata.org/entity/Q277338>,Q277338,pseudogene,57752,9375672,0.07,0.061,48
+<http://www.wikidata.org/entity/Q2225692>,Q2225692,fourth-level administrative division in Indonesia,83120,9245719,0.069,0.088,49
+<http://www.wikidata.org/entity/Q5633421>,Q5633421,scientific journal,96893,9176337,0.068,0.103,50
+<http://www.wikidata.org/entity/Q5084>,Q5084,hamlet,117867,9079120,0.068,0.125,51
+<http://www.wikidata.org/entity/Q9842>,Q9842,primary school,154934,8784135,0.065,0.165,52
+<http://www.wikidata.org/entity/Q134556>,Q134556,single,96955,8632119,0.064,0.103,53
+<http://www.wikidata.org/entity/Q19389637>,Q19389637,biographical article,158153,8526891,0.063,0.168,54
+<http://www.wikidata.org/entity/Q215380>,Q215380,musical group,82157,8382769,0.062,0.087,55
+<http://www.wikidata.org/entity/Q93184>,Q93184,drawing,92807,8204535,0.061,0.099,56
+<http://www.wikidata.org/entity/Q21014462>,Q21014462,cell line,130952,8080712,0.06,0.139,57
+<http://www.wikidata.org/entity/Q11753321>,Q11753321,Wikimedia navigational template,45494,8043549,0.06,0.048,58
+<http://www.wikidata.org/entity/Q452237>,Q452237,motion,76764,7927502,0.059,0.082,59
+<http://www.wikidata.org/entity/Q23038290>,Q23038290,fossil taxon,104704,7874552,0.059,0.111,60
+<http://www.wikidata.org/entity/Q7889>,Q7889,video game,44770,7433674,0.055,0.048,61
+<http://www.wikidata.org/entity/Q3558970>,Q3558970,village of Poland,56097,7424915,0.055,0.06,62
+<http://www.wikidata.org/entity/Q5398426>,Q5398426,television series,58918,7324558,0.055,0.063,63
+<http://www.wikidata.org/entity/Q811979>,Q811979,architectural structure,113054,7260744,0.054,0.12,64
+<http://www.wikidata.org/entity/Q473972>,Q473972,protected area,83991,6843936,0.051,0.089,65
+<http://www.wikidata.org/entity/Q1260524>,Q1260524,time of the day,87881,6695967,0.05,0.093,66
+<http://www.wikidata.org/entity/Q47521>,Q47521,stream,125066,6691946,0.05,0.133,67
+<http://www.wikidata.org/entity/Q427087>,Q427087,non-coding RNA,85157,6608876,0.049,0.091,68
+<http://www.wikidata.org/entity/Q7604686>,Q7604686,UK Statutory Instrument,88776,6581853,0.049,0.094,69
+<http://www.wikidata.org/entity/Q105543609>,Q105543609,musical work/composition,93707,6366752,0.047,0.1,70
+<http://www.wikidata.org/entity/Q732577>,Q732577,publication,71739,6347829,0.047,0.076,71
+<http://www.wikidata.org/entity/Q86850539>,Q86850539,Whitaker's Latin frequency type C,10314,6282016,0.047,0.011,72
+<http://www.wikidata.org/entity/Q59199015>,Q59199015,group of stereoisomers,111664,6134279,0.046,0.119,73
+<http://www.wikidata.org/entity/Q21191270>,Q21191270,television series episode,64112,6035472,0.045,0.068,74
+<http://www.wikidata.org/entity/Q57733494>,Q57733494,badminton event,61053,6031482,0.045,0.065,75
+<http://www.wikidata.org/entity/Q59542487>,Q59542487,Wikimedia set category,34280,5832552,0.043,0.036,76
+<http://www.wikidata.org/entity/Q11879590>,Q11879590,female given name,23509,5784020,0.043,0.025,77
+<http://www.wikidata.org/entity/Q96739634>,Q96739634,individual motion,61198,5731934,0.043,0.065,78
+<http://www.wikidata.org/entity/Q1504425>,Q1504425,systematic review,12018,5683139,0.042,0.013,79
+<http://www.wikidata.org/entity/Q34442>,Q34442,road,68456,5450618,0.041,0.073,80
+<http://www.wikidata.org/entity/Q61443690>,Q61443690,branch post office,129183,5313144,0.04,0.137,81
+<http://www.wikidata.org/entity/Q253019>,Q253019,Ortsteil,41289,5305902,0.039,0.044,82
+<http://www.wikidata.org/entity/Q125191>,Q125191,photograph,59371,5255162,0.039,0.063,83
+<http://www.wikidata.org/entity/Q49008>,Q49008,prime number,127533,5189755,0.039,0.136,84
+<http://www.wikidata.org/entity/Q39816>,Q39816,valley,97085,5078721,0.038,0.103,85
+<http://www.wikidata.org/entity/Q22698>,Q22698,park,87291,4991691,0.037,0.093,86
+<http://www.wikidata.org/entity/Q47461344>,Q47461344,written work,73570,4971970,0.037,0.078,87
+<http://www.wikidata.org/entity/Q11446>,Q11446,ship,77369,4923455,0.037,0.082,88
+<http://www.wikidata.org/entity/Q4164871>,Q4164871,position,120463,4921979,0.037,0.128,89
+<http://www.wikidata.org/entity/Q43229>,Q43229,organization,76760,4906569,0.037,0.082,90
+<http://www.wikidata.org/entity/Q23894233>,Q23894233,Wikimedia templates category,34864,4884004,0.036,0.037,91
+<http://www.wikidata.org/entity/Q6881511>,Q6881511,enterprise,48678,4846287,0.036,0.052,92
+<http://www.wikidata.org/entity/Q191067>,Q191067,article,74196,4734709,0.035,0.079,93
+<http://www.wikidata.org/entity/Q12323>,Q12323,dam,74557,4395178,0.033,0.079,94
+<http://www.wikidata.org/entity/Q2065736>,Q2065736,cultural property,72859,4344960,0.032,0.078,95
+<http://www.wikidata.org/entity/Q985488>,Q985488,residential community of the People's Republic of China,90798,4324355,0.032,0.097,96
+<http://www.wikidata.org/entity/Q735428>,Q735428,town in China,21610,4110644,0.031,0.023,97
+<http://www.wikidata.org/entity/Q67383935>,Q67383935,co-educational school,73755,4072792,0.03,0.078,98
+<http://www.wikidata.org/entity/Q5185279>,Q5185279,poem,104483,3992943,0.03,0.111,99
+<http://www.wikidata.org/entity/Q1248784>,Q1248784,airport,24588,3927083,0.029,0.026,100
+<http://www.wikidata.org/entity/Q21672098>,Q21672098,village of Ukraine,26524,3921577,0.029,0.028,101
+<http://www.wikidata.org/entity/Q1002697>,Q1002697,periodical,54344,3798700,0.028,0.058,102
+<http://www.wikidata.org/entity/Q59541917>,Q59541917,Wikimedia topic category,13492,3790044,0.028,0.014,103
+<http://www.wikidata.org/entity/Q124714>,Q124714,spring,69778,3788251,0.028,0.074,104
+<http://www.wikidata.org/entity/Q61089180>,Q61089180,part of municipality in the Czech Republic,11513,3786633,0.028,0.012,105
+<http://www.wikidata.org/entity/Q19855165>,Q19855165,rural school,68032,3748686,0.028,0.072,106
+<http://www.wikidata.org/entity/Q860861>,Q860861,sculpture,48942,3721628,0.028,0.052,107
+<http://www.wikidata.org/entity/Q33506>,Q33506,museum,41368,3685814,0.027,0.044,108
+<http://www.wikidata.org/entity/Q55659167>,Q55659167,natural watercourse,66369,3656372,0.027,0.071,109
+<http://www.wikidata.org/entity/Q26211545>,Q26211545,desa,41029,3582892,0.027,0.044,110
+<http://www.wikidata.org/entity/Q17343829>,Q17343829,unincorporated community in the United States,38426,3457208,0.026,0.041,111
+<http://www.wikidata.org/entity/Q15632617>,Q15632617,fictional human,52770,3414061,0.025,0.056,112
+<http://www.wikidata.org/entity/Q476028>,Q476028,association football club,36203,3405673,0.025,0.039,113
+<http://www.wikidata.org/entity/Q2341654>,Q2341654,stone setting,60654,3292809,0.025,0.065,114
+<http://www.wikidata.org/entity/Q24862>,Q24862,short film,31229,3271885,0.024,0.033,115
+<http://www.wikidata.org/entity/Q108325>,Q108325,chapel,53708,3220744,0.024,0.057,116
+<http://www.wikidata.org/entity/Q3257686>,Q3257686,locality,39191,3216460,0.024,0.042,117
+<http://www.wikidata.org/entity/Q839954>,Q839954,archaeological site,47097,3160684,0.024,0.05,118
+<http://www.wikidata.org/entity/Q3957>,Q3957,town,14276,3101323,0.023,0.015,119
+<http://www.wikidata.org/entity/Q41253>,Q41253,movie theater,55859,3086254,0.023,0.059,120
+<http://www.wikidata.org/entity/Q1580166>,Q1580166,dictionary entry,120320,3078908,0.023,0.128,121
+<http://www.wikidata.org/entity/Q24046192>,Q24046192,Wikimedia category of stubs,22142,3005592,0.022,0.024,122
+<http://www.wikidata.org/entity/Q737498>,Q737498,academic journal,22246,2987277,0.022,0.024,123
+<http://www.wikidata.org/entity/Q99045339>,Q99045339,written question,34278,2882096,0.021,0.036,124
+<http://www.wikidata.org/entity/Q179700>,Q179700,statue,47246,2869421,0.021,0.05,125
+<http://www.wikidata.org/entity/Q27555384>,Q27555384,transformed cell line,47984,2788708,0.021,0.051,126
+<http://www.wikidata.org/entity/Q28564>,Q28564,public library,40691,2721115,0.02,0.043,127
+<http://www.wikidata.org/entity/Q39614>,Q39614,cemetery,49191,2715701,0.02,0.052,128
+<http://www.wikidata.org/entity/Q12284>,Q12284,canal,47603,2707216,0.02,0.051,129
+<http://www.wikidata.org/entity/Q820655>,Q820655,legislation,26557,2673815,0.02,0.028,130
+<http://www.wikidata.org/entity/Q187971>,Q187971,wadi,51980,2671078,0.02,0.055,131
+<http://www.wikidata.org/entity/Q22969563>,Q22969563,bodendenkmal,48716,2665991,0.02,0.052,132
+<http://www.wikidata.org/entity/Q506240>,Q506240,television film,17861,2620325,0.02,0.019,133
+<http://www.wikidata.org/entity/Q2996394>,Q2996394,biological process,42084,2579573,0.019,0.045,134
+<http://www.wikidata.org/entity/Q100532807>,Q100532807,Irish Statutory Instrument,33429,2568770,0.019,0.036,135
+<http://www.wikidata.org/entity/Q15416>,Q15416,television program,47201,2564552,0.019,0.05,136
+<http://www.wikidata.org/entity/Q1115575>,Q1115575,civil parish,12182,2541889,0.019,0.013,137
+<http://www.wikidata.org/entity/Q18340514>,Q18340514,events in a specific year or time period,45063,2510510,0.019,0.048,138
+<http://www.wikidata.org/entity/Q2151232>,Q2151232,townland,60792,2450999,0.018,0.065,139
+<http://www.wikidata.org/entity/Q820477>,Q820477,mine,45167,2443756,0.018,0.048,140
+<http://www.wikidata.org/entity/Q489357>,Q489357,farmhouse,40703,2413837,0.018,0.043,141
+<http://www.wikidata.org/entity/Q18918145>,Q18918145,academic journal article,30880,2391150,0.018,0.033,142
+<http://www.wikidata.org/entity/Q11032>,Q11032,newspaper,40773,2320389,0.017,0.043,143
+<http://www.wikidata.org/entity/Q34023>,Q34023,tumulus,44743,2278643,0.017,0.048,144
+<http://www.wikidata.org/entity/Q9826>,Q9826,high school,31359,2278048,0.017,0.033,145
+<http://www.wikidata.org/entity/Q5783996>,Q5783996,cottage,38333,2262500,0.017,0.041,146
+<http://www.wikidata.org/entity/Q4989906>,Q4989906,monument,29076,2175579,0.016,0.031,147
+<http://www.wikidata.org/entity/Q3914>,Q3914,school,36676,2165561,0.016,0.039,148
+<http://www.wikidata.org/entity/Q21199>,Q21199,natural number,10386,2164420,0.016,0.011,149
+<http://www.wikidata.org/entity/Q163740>,Q163740,nonprofit organization,26720,2149760,0.016,0.028,150
+<http://www.wikidata.org/entity/Q187685>,Q187685,doctoral thesis,33999,2141200,0.016,0.036,151
+<http://www.wikidata.org/entity/Q928830>,Q928830,metro station,14972,2134273,0.016,0.016,152
+<http://www.wikidata.org/entity/Q1516079>,Q1516079,cultural heritage ensemble,38004,2124159,0.016,0.04,153
+<http://www.wikidata.org/entity/Q1134686>,Q1134686,frazione,19051,2115355,0.016,0.02,154
+<http://www.wikidata.org/entity/Q3918>,Q3918,university,13667,2110114,0.016,0.015,155
+<http://www.wikidata.org/entity/Q15647814>,Q15647814,Wikimedia administration category,14163,2108159,0.016,0.015,156
+<http://www.wikidata.org/entity/Q56428020>,Q56428020,Wikimedia lists category,12971,2081988,0.015,0.014,157
+<http://www.wikidata.org/entity/Q220659>,Q220659,archaeological artifact,20067,2061833,0.015,0.021,158
+<http://www.wikidata.org/entity/Q192287>,Q192287,subdivisions of Russia,16372,2059100,0.015,0.017,159
+<http://www.wikidata.org/entity/Q24529780>,Q24529780,point,36811,2056279,0.015,0.039,160
+<http://www.wikidata.org/entity/Q585956>,Q585956,masia,38875,2052359,0.015,0.041,161
+<http://www.wikidata.org/entity/Q23058136>,Q23058136,cancer cell line,28237,1998140,0.015,0.03,162
+<http://www.wikidata.org/entity/Q891723>,Q891723,public company,12399,1987037,0.015,0.013,163
+<http://www.wikidata.org/entity/Q16917>,Q16917,hospital,25068,1964263,0.015,0.027,164
+<http://www.wikidata.org/entity/Q39594>,Q39594,bay,33669,1956247,0.015,0.036,165
+<http://www.wikidata.org/entity/Q773668>,Q773668,open-access journal,12081,1941344,0.014,0.013,166
+<http://www.wikidata.org/entity/Q838948>,Q838948,work of art,23217,1937677,0.014,0.025,167
+<http://www.wikidata.org/entity/Q634099>,Q634099,rural settlement of Russia,19129,1925413,0.014,0.02,168
+<http://www.wikidata.org/entity/Q104093746>,Q104093746,lake or pond,31278,1867789,0.014,0.033,169
+<http://www.wikidata.org/entity/Q23925393>,Q23925393,Douar,32024,1856153,0.014,0.034,170
+<http://www.wikidata.org/entity/Q14350>,Q14350,radio station,26844,1852279,0.014,0.029,171
+<http://www.wikidata.org/entity/Q26887310>,Q26887310,association football team season,34861,1847249,0.014,0.037,172
+<http://www.wikidata.org/entity/Q126807>,Q126807,kindergarten,34264,1837730,0.014,0.036,173
+<http://www.wikidata.org/entity/Q15303838>,Q15303838,municipality seat,18098,1828342,0.014,0.019,174
+<http://www.wikidata.org/entity/Q123705>,Q123705,neighborhood,26040,1815709,0.014,0.028,175
+<http://www.wikidata.org/entity/Q41298>,Q41298,magazine,28911,1805005,0.013,0.031,176
+<http://www.wikidata.org/entity/Q15184295>,Q15184295,Wikimedia module,49338,1804848,0.013,0.052,177
+<http://www.wikidata.org/entity/Q46831>,Q46831,mountain range,22843,1781453,0.013,0.024,178
+<http://www.wikidata.org/entity/Q23413>,Q23413,castle,21445,1781047,0.013,0.023,179
+<http://www.wikidata.org/entity/Q16510064>,Q16510064,sporting event,28199,1762080,0.013,0.03,180
+<http://www.wikidata.org/entity/Q34770>,Q34770,language,10198,1753911,0.013,0.011,181
+<http://www.wikidata.org/entity/Q12280>,Q12280,bridge,25007,1688432,0.013,0.027,182
+<http://www.wikidata.org/entity/Q46190676>,Q46190676,tennis event,26702,1687525,0.013,0.028,183
+<http://www.wikidata.org/entity/Q1529096>,Q1529096,village in Turkey,18614,1639503,0.012,0.02,184
+<http://www.wikidata.org/entity/Q2514025>,Q2514025,posyolok,18776,1628315,0.012,0.02,185
+<http://www.wikidata.org/entity/Q34763>,Q34763,peninsula,26764,1602840,0.012,0.028,186
+<http://www.wikidata.org/entity/Q7278>,Q7278,political party,18627,1565162,0.012,0.02,187
+<http://www.wikidata.org/entity/Q310890>,Q310890,monotypic taxon,10064,1501870,0.011,0.011,188
+<http://www.wikidata.org/entity/Q97695005>,Q97695005,committee group motion,11638,1497229,0.011,0.012,189
+<http://www.wikidata.org/entity/Q62447>,Q62447,aerodrome,18388,1472320,0.011,0.02,190
+<http://www.wikidata.org/entity/Q5358913>,Q5358913,elementary school in Japan,18406,1472292,0.011,0.02,191
+<http://www.wikidata.org/entity/Q7075>,Q7075,library,23190,1466096,0.011,0.025,192
+<http://www.wikidata.org/entity/Q3464665>,Q3464665,television series season,18841,1463611,0.011,0.02,193
+<http://www.wikidata.org/entity/Q10870555>,Q10870555,report,21796,1428616,0.011,0.023,194
+<http://www.wikidata.org/entity/Q3052382>,Q3052382,fonds,21358,1425742,0.011,0.023,195
+<http://www.wikidata.org/entity/Q4421>,Q4421,forest,24696,1413000,0.011,0.026,196
+<http://www.wikidata.org/entity/Q189004>,Q189004,college,25749,1409798,0.01,0.027,197
+<http://www.wikidata.org/entity/Q852190>,Q852190,shipwreck,24505,1389565,0.01,0.026,198
+<http://www.wikidata.org/entity/Q10429085>,Q10429085,report,10353,1386717,0.01,0.011,199
+<http://www.wikidata.org/entity/Q7777570>,Q7777570,theatrical production,10314,1352138,0.01,0.011,200
+<http://www.wikidata.org/entity/Q207326>,Q207326,summit,23516,1343620,0.01,0.025,201
+<http://www.wikidata.org/entity/Q212198>,Q212198,pub,15067,1316999,0.01,0.016,202
+<http://www.wikidata.org/entity/Q751876>,Q751876,château,23804,1314902,0.01,0.025,203
+<http://www.wikidata.org/entity/Q121117>,Q121117,supercomputer,18228,1314528,0.01,0.019,204
+<http://www.wikidata.org/entity/Q131681>,Q131681,reservoir,20160,1309943,0.01,0.021,205
+<http://www.wikidata.org/entity/Q47345468>,Q47345468,tennis tournament edition,14233,1296763,0.01,0.015,206
+<http://www.wikidata.org/entity/Q65954115>,Q65954115,State Bank of India branch,26369,1294595,0.01,0.028,207
+<http://www.wikidata.org/entity/Q159334>,Q159334,secondary school,18309,1286489,0.01,0.019,208
+<http://www.wikidata.org/entity/Q18663566>,Q18663566,dissolved municipality of Japan,15247,1283602,0.01,0.016,209
+<http://www.wikidata.org/entity/Q210272>,Q210272,cultural heritage,21452,1274850,0.009,0.023,210
+<http://www.wikidata.org/entity/Q1195098>,Q1195098,ward,26308,1269777,0.009,0.028,211
+<http://www.wikidata.org/entity/Q847017>,Q847017,sports club,22229,1266100,0.009,0.024,212
+<http://www.wikidata.org/entity/Q19860854>,Q19860854,destroyed building or structure,21560,1260290,0.009,0.023,213
+<http://www.wikidata.org/entity/Q179049>,Q179049,nature reserve,13211,1241531,0.009,0.014,214
+<http://www.wikidata.org/entity/Q202444>,Q202444,given name,20389,1232939,0.009,0.022,215
+<http://www.wikidata.org/entity/Q1302249>,Q1302249,cross-reference,16988,1231275,0.009,0.018,216
+<http://www.wikidata.org/entity/Q26267864>,Q26267864,Wikimedia KML file,11167,1229641,0.009,0.012,217
+<http://www.wikidata.org/entity/Q6453643>,Q6453643,decree law,12397,1228969,0.009,0.013,218
+<http://www.wikidata.org/entity/Q30198>,Q30198,marsh,23656,1228586,0.009,0.025,219
+<http://www.wikidata.org/entity/Q133056>,Q133056,mountain pass,21569,1224713,0.009,0.023,220
+<http://www.wikidata.org/entity/Q965568>,Q965568,kelurahan,11032,1215962,0.009,0.012,221
+<http://www.wikidata.org/entity/Q26703203>,Q26703203,stumbling stone,16350,1213025,0.009,0.017,222
+<http://www.wikidata.org/entity/Q16887380>,Q16887380,group,21202,1202816,0.009,0.023,223
+<http://www.wikidata.org/entity/Q1681353>,Q1681353,bog,27709,1190962,0.009,0.029,224
+<http://www.wikidata.org/entity/Q66826848>,Q66826848,"protein obsoleted in UniProtKB, SwissProt, TrEMBL",23629,1186690,0.009,0.025,225
+<http://www.wikidata.org/entity/Q67015940>,Q67015940,Government Boys' Primary School,26161,1184666,0.009,0.028,226
+<http://www.wikidata.org/entity/Q178561>,Q178561,battle,14380,1171938,0.009,0.015,227
+<http://www.wikidata.org/entity/Q728937>,Q728937,railway line,14017,1171724,0.009,0.015,228
+<http://www.wikidata.org/entity/Q106006703>,Q106006703,local regulations of the People's Republic of China,15576,1165520,0.009,0.017,229
+<http://www.wikidata.org/entity/Q5707594>,Q5707594,news article,24543,1162016,0.009,0.026,230
+<http://www.wikidata.org/entity/Q1303167>,Q1303167,barn,20111,1158015,0.009,0.021,231
+<http://www.wikidata.org/entity/Q7604693>,Q7604693,Statutory Rules of Northern Ireland,17145,1153578,0.009,0.018,232
+<http://www.wikidata.org/entity/Q571>,Q571,book,20743,1150869,0.009,0.022,233
+<http://www.wikidata.org/entity/Q1505023>,Q1505023,Interpellation,12570,1144832,0.009,0.013,234
+<http://www.wikidata.org/entity/Q3231690>,Q3231690,automobile model,10926,1133034,0.008,0.012,235
+<http://www.wikidata.org/entity/Q185113>,Q185113,cape,20596,1132808,0.008,0.022,236
+<http://www.wikidata.org/entity/Q3950>,Q3950,villa,16288,1125806,0.008,0.017,237
+<http://www.wikidata.org/entity/Q24354>,Q24354,theatre,11770,1121415,0.008,0.013,238
+<http://www.wikidata.org/entity/Q2042028>,Q2042028,ravine,19516,1116705,0.008,0.021,239
+<http://www.wikidata.org/entity/Q174782>,Q174782,square,14870,1087029,0.008,0.016,240
+<http://www.wikidata.org/entity/Q16560>,Q16560,palace,13293,1065182,0.008,0.014,241
+<http://www.wikidata.org/entity/Q14204246>,Q14204246,Wikimedia project page,31216,1062467,0.008,0.033,242
+<http://www.wikidata.org/entity/Q2593777>,Q2593777,grave field,19204,1043908,0.008,0.02,243
+<http://www.wikidata.org/entity/Q65661087>,Q65661087,village in Belarus,16395,1041638,0.008,0.017,244
+<http://www.wikidata.org/entity/Q155076>,Q155076,juridical person,23516,1038900,0.008,0.025,245
+<http://www.wikidata.org/entity/Q740445>,Q740445,ridge,17577,1037716,0.008,0.019,246
+<http://www.wikidata.org/entity/Q176799>,Q176799,military unit,22325,1036252,0.008,0.024,247
+<http://www.wikidata.org/entity/Q12317349>,Q12317349,main library,13636,1035967,0.008,0.015,248
+<http://www.wikidata.org/entity/Q15773317>,Q15773317,television character,10579,1032262,0.008,0.011,249
+<http://www.wikidata.org/entity/Q327333>,Q327333,government agency,13786,1028330,0.008,0.015,250
+<http://www.wikidata.org/entity/Q61443650>,Q61443650,sub post office,24761,1011667,0.008,0.026,251
+<http://www.wikidata.org/entity/Q27686>,Q27686,hotel,12591,1004430,0.007,0.013,252
+<http://www.wikidata.org/entity/Q55850593>,Q55850593,music track with vocals,11511,1001974,0.007,0.012,253
+<http://www.wikidata.org/entity/Q1577547>,Q1577547,revenue house,18971,995770,0.007,0.02,254
+<http://www.wikidata.org/entity/Q42195>,Q42195,petroglyph,18727,994507,0.007,0.02,255
+<http://www.wikidata.org/entity/Q2334719>,Q2334719,legal case,27154,992979,0.007,0.029,256
+<http://www.wikidata.org/entity/Q19692072>,Q19692072,United States Supreme Court decision,19415,992067,0.007,0.021,257
+<http://www.wikidata.org/entity/Q44613>,Q44613,monastery,12757,988039,0.007,0.014,258
+<http://www.wikidata.org/entity/Q2116450>,Q2116450,manor estate,19179,987747,0.007,0.02,259
+<http://www.wikidata.org/entity/Q2309609>,Q2309609,wayside cross,20952,986847,0.007,0.022,260
+<http://www.wikidata.org/entity/Q2085381>,Q2085381,publisher,13639,981238,0.007,0.015,261
+<http://www.wikidata.org/entity/Q575759>,Q575759,war memorial,16162,974374,0.007,0.017,262
+<http://www.wikidata.org/entity/Q1497375>,Q1497375,architectural ensemble,10292,969429,0.007,0.011,263
+<http://www.wikidata.org/entity/Q1266946>,Q1266946,thesis,16714,962063,0.007,0.018,264
+<http://www.wikidata.org/entity/Q107102664>,Q107102664,cell line from embryonic stem cells,16104,959394,0.007,0.017,265
+<http://www.wikidata.org/entity/Q2732840>,Q2732840,Gram panchayat,14811,958080,0.007,0.016,266
+<http://www.wikidata.org/entity/Q35127>,Q35127,website,12918,948288,0.007,0.014,267
+<http://www.wikidata.org/entity/Q29023906>,Q29023906,temporary exhibition,20266,942172,0.007,0.022,268
+<http://www.wikidata.org/entity/Q26895936>,Q26895936,American football team season,23786,933729,0.007,0.025,269
+<http://www.wikidata.org/entity/Q417841>,Q417841,protein family,23279,923466,0.007,0.025,270
+<http://www.wikidata.org/entity/Q40080>,Q40080,beach,16033,919698,0.007,0.017,271
+<http://www.wikidata.org/entity/Q55659107>,Q55659107,intermittent natural watercourse,18076,913669,0.007,0.019,272
+<http://www.wikidata.org/entity/Q4414033>,Q4414033,rural council of Ukraine,10098,913622,0.007,0.011,273
+<http://www.wikidata.org/entity/Q40231>,Q40231,election,18699,904772,0.007,0.02,274
+<http://www.wikidata.org/entity/Q21198342>,Q21198342,manga series,13768,901455,0.007,0.015,275
+<http://www.wikidata.org/entity/Q102496>,Q102496,parish,15195,901367,0.007,0.016,276
+<http://www.wikidata.org/entity/Q7321974>,Q7321974,cairn,16755,897620,0.007,0.018,277
+<http://www.wikidata.org/entity/Q17018380>,Q17018380,bight,16318,897016,0.007,0.017,278
+<http://www.wikidata.org/entity/Q169930>,Q169930,extended play,12639,895427,0.007,0.013,279
+<http://www.wikidata.org/entity/Q51591359>,Q51591359,voting result,10510,894918,0.007,0.011,280
+<http://www.wikidata.org/entity/Q618779>,Q618779,award,19400,877176,0.007,0.021,281
+<http://www.wikidata.org/entity/Q166735>,Q166735,swamp,14693,869158,0.006,0.016,282
+<http://www.wikidata.org/entity/Q15221623>,Q15221623,bilateral relation,15777,849868,0.006,0.017,283
+<http://www.wikidata.org/entity/Q43460564>,Q43460564,chemical entity,14651,847753,0.006,0.016,284
+<http://www.wikidata.org/entity/Q207524>,Q207524,islet,17115,844107,0.006,0.018,285
+<http://www.wikidata.org/entity/Q31855>,Q31855,research institute,10952,840421,0.006,0.012,286
+<http://www.wikidata.org/entity/Q1520033>,Q1520033,count noun,10961,835222,0.006,0.012,287
+<http://www.wikidata.org/entity/Q420927>,Q420927,protein complex,13274,831726,0.006,0.014,288
+<http://www.wikidata.org/entity/Q35509>,Q35509,cave,14743,818418,0.006,0.016,289
+<http://www.wikidata.org/entity/Q15243209>,Q15243209,historic district,10683,817329,0.006,0.011,290
+<http://www.wikidata.org/entity/Q21573182>,Q21573182,Naturdenkmal in Germany,18759,811569,0.006,0.02,291
+<http://www.wikidata.org/entity/Q56731284>,Q56731284,Act of the Parliament of Australia,12432,806025,0.006,0.013,292
+<http://www.wikidata.org/entity/Q11755880>,Q11755880,residential building,11931,798834,0.006,0.013,293
+<http://www.wikidata.org/entity/Q107103143>,Q107103143,Induced pluripotent stem cell line,12732,787381,0.006,0.014,294
+<http://www.wikidata.org/entity/Q18127>,Q18127,record label,10286,773191,0.006,0.011,295
+<http://www.wikidata.org/entity/Q18761202>,Q18761202,watercolor painting,11256,772058,0.006,0.012,296
+<http://www.wikidata.org/entity/Q106474968>,Q106474968,ethnic group by settlement in Macedonia,14280,771225,0.006,0.015,297
+<http://www.wikidata.org/entity/Q67015883>,Q67015883,group or class of enzymes,10905,760868,0.006,0.012,298
+<http://www.wikidata.org/entity/Q726>,Q726,horse,13444,748191,0.006,0.014,299
+<http://www.wikidata.org/entity/Q2467461>,Q2467461,academic department,15567,744934,0.006,0.017,300
+<http://www.wikidata.org/entity/Q1081138>,Q1081138,historic site,10367,742297,0.006,0.011,301
+<http://www.wikidata.org/entity/Q7397>,Q7397,software,11159,737953,0.005,0.012,302
+<http://www.wikidata.org/entity/Q358>,Q358,heritage site,14845,736773,0.005,0.016,303
+<http://www.wikidata.org/entity/Q4504495>,Q4504495,award ceremony,11590,720305,0.005,0.012,304
+<http://www.wikidata.org/entity/Q13406554>,Q13406554,sports competition,13281,705855,0.005,0.014,305
+<http://www.wikidata.org/entity/Q187223>,Q187223,lagoon,12228,703372,0.005,0.013,306
+<http://www.wikidata.org/entity/Q783794>,Q783794,company,11383,697178,0.005,0.012,307
+<http://www.wikidata.org/entity/Q27671617>,Q27671617,finite cell line,11153,694407,0.005,0.012,308
+<http://www.wikidata.org/entity/Q294414>,Q294414,public office,13247,687833,0.005,0.014,309
+<http://www.wikidata.org/entity/Q34038>,Q34038,waterfall,10861,687748,0.005,0.012,310
+<http://www.wikidata.org/entity/Q953806>,Q953806,bus stop,11926,686379,0.005,0.013,311
+<http://www.wikidata.org/entity/Q160091>,Q160091,plain,11988,681972,0.005,0.013,312
+<http://www.wikidata.org/entity/Q26894053>,Q26894053,basketball team season,12238,674775,0.005,0.013,313
+<http://www.wikidata.org/entity/Q67035425>,Q67035425,ASTM standard,17305,674211,0.005,0.018,314
+<http://www.wikidata.org/entity/Q50231>,Q50231,administrative territorial entity of the People's Republic of China,13989,666175,0.005,0.015,315
+<http://www.wikidata.org/entity/Q1539532>,Q1539532,sports season of a sports club,19615,639920,0.005,0.021,316
+<http://www.wikidata.org/entity/Q842402>,Q842402,Hindu temple,14899,619213,0.005,0.016,317
+<http://www.wikidata.org/entity/Q14860489>,Q14860489,molecular function,10940,611951,0.005,0.012,318
+<http://www.wikidata.org/entity/Q3508250>,Q3508250,Syndicat intercommunal,14334,603396,0.004,0.015,319
+<http://www.wikidata.org/entity/Q149566>,Q149566,middle school,12725,591063,0.004,0.014,320
+<http://www.wikidata.org/entity/Q814254>,Q814254,feature,10769,589997,0.004,0.011,321
+<http://www.wikidata.org/entity/Q50386450>,Q50386450,operatic character,14473,574670,0.004,0.015,322
+<http://www.wikidata.org/entity/Q46135307>,Q46135307,nation at sport competition,11715,553864,0.004,0.012,323
+<http://www.wikidata.org/entity/Q17524420>,Q17524420,aspect of history,12317,553772,0.004,0.013,324
+<http://www.wikidata.org/entity/Q1238720>,Q1238720,volume,12280,550882,0.004,0.013,325
+<http://www.wikidata.org/entity/Q13417114>,Q13417114,noble family,9998,525549,0.004,0.011,326
+<http://www.wikidata.org/entity/Q235557>,Q235557,file format,12418,519246,0.004,0.013,327
+<http://www.wikidata.org/entity/Q459297>,Q459297,qanat,13596,515221,0.004,0.014,328
+<http://www.wikidata.org/entity/Q20541692>,Q20541692,"settlement in Galicia, Spain",14555,512674,0.004,0.015,329
+<http://www.wikidata.org/entity/Q2231510>,Q2231510,col,10981,487906,0.004,0.012,330
+<http://www.wikidata.org/entity/Q8436>,Q8436,family,11839,478846,0.004,0.013,331
+<http://www.wikidata.org/entity/Q14659>,Q14659,coat of arms,10506,442959,0.003,0.011,332
+<http://www.wikidata.org/entity/Q61278455>,Q61278455,health sub-centre,11383,430969,0.003,0.012,333
+<http://www.wikidata.org/entity/Q81505329>,Q81505329,protein family associated with domain,12461,421355,0.003,0.013,334
+<http://www.wikidata.org/entity/Q6451276>,Q6451276,Congressional Research Service report,13981,421239,0.003,0.015,335
+<http://www.wikidata.org/entity/Q482>,Q482,poetry,16359,417885,0.003,0.017,336
+<http://www.wikidata.org/entity/Q46686>,Q46686,reredos,10140,348082,0.003,0.011,337
+<http://www.wikidata.org/entity/Q6503489>,Q6503489,Law of the Republic of China,13233,346947,0.003,0.014,338
+<http://www.wikidata.org/entity/Q898273>,Q898273,protein domain,11274,321900,0.002,0.012,339
+<http://www.wikidata.org/entity/Q25379>,Q25379,play,1437,75601,0.001,0.002,340
+<http://www.wikidata.org/entity/Q16466010>,Q16466010,association football match,953,72645,0.001,0.001,341
