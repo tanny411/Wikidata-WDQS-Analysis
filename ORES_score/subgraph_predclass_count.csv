@@ -1,0 +1,1383 @@
+prediction,count,subgraph,label
+D,6469,Q166735,swamp
+E,747,Q166735,swamp
+C,468,Q166735,swamp
+B,6,Q166735,swamp
+A,3,Q618779,award
+B,11,Q618779,award
+C,1847,Q618779,award
+E,6388,Q618779,award
+D,9126,Q618779,award
+B,2,Q14204246,Wikimedia project page
+A,1,Q14204246,Wikimedia project page
+E,28873,Q14204246,Wikimedia project page
+D,2061,Q14204246,Wikimedia project page
+C,361,Q14204246,Wikimedia project page
+B,152,Q965568,kelurahan
+E,170,Q965568,kelurahan
+C,8078,Q965568,kelurahan
+D,415,Q965568,kelurahan
+B,47,Q4164871,position
+C,3028,Q4164871,position
+D,109311,Q4164871,position
+A,12,Q4164871,position
+E,4802,Q4164871,position
+A,9,Q12308941,male given name
+C,20739,Q12308941,male given name
+B,524,Q12308941,male given name
+D,15338,Q12308941,male given name
+E,1033,Q12308941,male given name
+A,2,Q189004,college
+B,40,Q189004,college
+E,2790,Q189004,college
+C,1486,Q189004,college
+D,21475,Q189004,college
+A,1,Q15243209,historic district
+E,1343,Q15243209,historic district
+B,39,Q15243209,historic district
+D,7765,Q15243209,historic district
+C,1383,Q15243209,historic district
+B,5,Q34023,tumulus
+E,665,Q34023,tumulus
+C,7504,Q34023,tumulus
+D,1377,Q34023,tumulus
+B,70,Q12284,canal
+E,4956,Q12284,canal
+C,3297,Q12284,canal
+D,29670,Q12284,canal
+D,1000,Q585956,masia
+C,41967,Q585956,masia
+E,50,Q585956,masia
+A,1,Q22808320,Wikimedia human name disambiguation page
+C,1739,Q22808320,Wikimedia human name disambiguation page
+D,5030,Q22808320,Wikimedia human name disambiguation page
+B,13,Q22808320,Wikimedia human name disambiguation page
+E,63903,Q22808320,Wikimedia human name disambiguation page
+D,4518,Q11753321,Wikimedia navigational template
+C,3108,Q11753321,Wikimedia navigational template
+E,37484,Q11753321,Wikimedia navigational template
+B,1,Q11753321,Wikimedia navigational template
+C,1919,Q327333,government agency
+E,2082,Q327333,government agency
+D,8176,Q327333,government agency
+B,54,Q327333,government agency
+A,2,Q327333,government agency
+D,27542,Q26887310,association football team season
+E,1534,Q26887310,association football team season
+C,5861,Q26887310,association football team season
+D,37970,Q860861,sculpture
+E,1311,Q860861,sculpture
+C,7945,Q860861,sculpture
+B,84,Q860861,sculpture
+A,1,Q860861,sculpture
+B,8,Q185113,cape
+D,8643,Q185113,cape
+E,3852,Q185113,cape
+C,2478,Q185113,cape
+C,29345,Q7889,video game
+B,4646,Q7889,video game
+E,1205,Q7889,video game
+D,9136,Q7889,video game
+A,794,Q7889,video game
+D,5243,Q192287,subdivisions of Russia
+B,1420,Q192287,subdivisions of Russia
+C,8868,Q192287,subdivisions of Russia
+E,339,Q192287,subdivisions of Russia
+A,53,Q192287,subdivisions of Russia
+D,853,Q121117,supercomputer
+C,54,Q121117,supercomputer
+A,1,Q121117,supercomputer
+E,17301,Q121117,supercomputer
+B,3,Q121117,supercomputer
+C,3260,Q31855,research institute
+D,7168,Q31855,research institute
+E,268,Q31855,research institute
+B,233,Q31855,research institute
+A,11,Q31855,research institute
+D,11834,Q3052382,fonds
+E,18,Q3052382,fonds
+C,307,Q3052382,fonds
+E,957,Q18761202,watercolor painting
+B,52,Q18761202,watercolor painting
+C,402,Q18761202,watercolor painting
+D,7954,Q18761202,watercolor painting
+D,12796,Q1002697,periodical
+E,3148,Q1002697,periodical
+C,35549,Q1002697,periodical
+A,2,Q1002697,periodical
+B,212,Q1002697,periodical
+C,1856,Q24529780,point
+B,15,Q24529780,point
+E,3792,Q24529780,point
+D,19631,Q24529780,point
+D,71,Q104093746,lake or pond
+C,31050,Q104093746,lake or pond
+B,152,Q104093746,lake or pond
+E,1,Q104093746,lake or pond
+D,96492,Q27020041,sports season
+B,563,Q27020041,sports season
+C,31017,Q27020041,sports season
+A,2,Q27020041,sports season
+E,23607,Q27020041,sports season
+B,5,Q133056,mountain pass
+C,1848,Q133056,mountain pass
+E,1154,Q133056,mountain pass
+D,12042,Q133056,mountain pass
+B,72,Q7397,software
+A,4,Q7397,software
+E,2085,Q7397,software
+C,2277,Q7397,software
+D,5160,Q7397,software
+D,2552206,Q6999,astronomical object
+C,4107902,Q6999,astronomical object
+E,227741,Q6999,astronomical object
+B,1516261,Q6999,astronomical object
+A,797,Q6999,astronomical object
+E,3941,Q3914,school
+A,1,Q3914,school
+C,8476,Q3914,school
+B,45,Q3914,school
+D,23309,Q3914,school
+C,961,Q417841,protein family
+B,53,Q417841,protein family
+D,22013,Q417841,protein family
+E,1176,Q417841,protein family
+A,1,Q417841,protein family
+E,220,Q22969563,bodendenkmal
+C,49768,Q22969563,bodendenkmal
+D,190,Q22969563,bodendenkmal
+D,11159,Q26894053,basketball team season
+E,500,Q26894053,basketball team season
+C,351,Q26894053,basketball team season
+D,38089,Q489357,farmhouse
+E,131,Q489357,farmhouse
+C,1948,Q489357,farmhouse
+E,56,Q732577,publication
+D,8952,Q732577,publication
+B,39,Q732577,publication
+C,24170,Q732577,publication
+E,1469,Q27686,hotel
+B,92,Q27686,hotel
+D,8382,Q27686,hotel
+C,2683,Q27686,hotel
+A,1,Q27686,hotel
+D,784,Q21672098,village of Ukraine
+E,9,Q21672098,village of Ukraine
+B,14,Q21672098,village of Ukraine
+C,25712,Q21672098,village of Ukraine
+D,268,Q15184295,Wikimedia module
+E,49080,Q15184295,Wikimedia module
+C,64,Q15184295,Wikimedia module
+C,10485,Q15303838,municipality seat
+E,2890,Q15303838,municipality seat
+B,216,Q15303838,municipality seat
+A,10,Q15303838,municipality seat
+D,1784,Q15303838,municipality seat
+E,3079,Q178561,battle
+A,2,Q178561,battle
+D,5464,Q178561,battle
+C,5355,Q178561,battle
+B,17,Q178561,battle
+A,16,Q23397,lake
+D,169769,Q23397,lake
+E,5941,Q23397,lake
+B,1308,Q23397,lake
+C,84230,Q23397,lake
+D,11861,Q66826848,"protein obsoleted in UniProtKB, SwissProt, TrEMBL"
+C,7932,Q66826848,"protein obsoleted in UniProtKB, SwissProt, TrEMBL"
+E,7,Q66826848,"protein obsoleted in UniProtKB, SwissProt, TrEMBL"
+C,6418,Q7278,political party
+D,10937,Q7278,political party
+E,1092,Q7278,political party
+A,37,Q7278,political party
+B,244,Q7278,political party
+E,3695,Q34038,waterfall
+C,1172,Q34038,waterfall
+D,5570,Q34038,waterfall
+A,1,Q34038,waterfall
+B,10,Q34038,waterfall
+C,87,Q14860489,molecular function
+B,1,Q14860489,molecular function
+E,1,Q14860489,molecular function
+D,10808,Q14860489,molecular function
+D,20293,Q16887380,group
+C,364,Q16887380,group
+E,168,Q16887380,group
+B,9,Q16887380,group
+A,2,Q16887380,group
+C,5033,Q2065736,cultural property
+A,5,Q2065736,cultural property
+D,31998,Q2065736,cultural property
+B,250,Q2065736,cultural property
+E,16313,Q2065736,cultural property
+C,2826,Q15773317,television character
+D,6076,Q15773317,television character
+E,342,Q15773317,television character
+A,21,Q15773317,television character
+B,86,Q15773317,television character
+E,179,Q506240,television film
+D,9441,Q506240,television film
+C,7367,Q506240,television film
+A,6,Q506240,television film
+B,753,Q506240,television film
+C,1,Q61278455,health sub-centre
+D,75,Q61278455,health sub-centre
+E,8,Q61278455,health sub-centre
+D,5003,Q29023906,temporary exhibition
+E,29,Q29023906,temporary exhibition
+C,1102,Q29023906,temporary exhibition
+B,76,Q29023906,temporary exhibition
+B,3,Q2593777,grave field
+D,9465,Q2593777,grave field
+E,672,Q2593777,grave field
+C,755,Q2593777,grave field
+C,7261,Q484170,commune of France
+A,11513,Q484170,commune of France
+B,26205,Q484170,commune of France
+E,9,Q484170,commune of France
+D,590,Q484170,commune of France
+D,9063,Q277338,pseudogene
+E,55,Q277338,pseudogene
+C,7303,Q277338,pseudogene
+B,41294,Q277338,pseudogene
+C,808759,Q4167836,Wikimedia category
+D,1107390,Q4167836,Wikimedia category
+E,1546826,Q4167836,Wikimedia category
+E,2136,Q35127,website
+C,2427,Q35127,website
+D,7203,Q35127,website
+A,38,Q35127,website
+B,216,Q35127,website
+E,2561,Q26267864,Wikimedia KML file
+D,3,Q26267864,Wikimedia KML file
+E,76,Q23038290,fossil taxon
+D,28683,Q23038290,fossil taxon
+B,1174,Q23038290,fossil taxon
+A,10,Q23038290,fossil taxon
+C,74816,Q23038290,fossil taxon
+C,26402,Q126807,kindergarten
+E,1061,Q126807,kindergarten
+D,6746,Q126807,kindergarten
+D,6285,Q149566,middle school
+E,890,Q149566,middle school
+C,2857,Q149566,middle school
+C,4,Q1505023,Interpellation
+D,12566,Q1505023,Interpellation
+B,880,Q26211545,desa
+D,863,Q26211545,desa
+C,16925,Q26211545,desa
+E,83,Q26211545,desa
+D,116,Q310890,monotypic taxon
+A,6,Q310890,monotypic taxon
+C,5577,Q310890,monotypic taxon
+B,4368,Q310890,monotypic taxon
+A,1,Q852190,shipwreck
+C,216,Q852190,shipwreck
+D,24205,Q852190,shipwreck
+B,22,Q852190,shipwreck
+E,58,Q852190,shipwreck
+C,14330,Q59542487,Wikimedia set category
+D,19832,Q59542487,Wikimedia set category
+E,50,Q59542487,Wikimedia set category
+B,246,Q163740,nonprofit organization
+D,13912,Q163740,nonprofit organization
+C,3896,Q163740,nonprofit organization
+E,1612,Q163740,nonprofit organization
+A,22,Q163740,nonprofit organization
+C,454,Q59199015,group of stereoisomers
+E,751,Q59199015,group of stereoisomers
+D,122336,Q59199015,group of stereoisomers
+A,16,Q59199015,group of stereoisomers
+B,215,Q59199015,group of stereoisomers
+C,50,Q81505329,protein family associated with domain
+E,1,Q81505329,protein family associated with domain
+B,5,Q81505329,protein family associated with domain
+D,12404,Q81505329,protein family associated with domain
+B,14,Q25379,play
+C,432,Q25379,play
+E,289,Q25379,play
+D,896,Q25379,play
+B,1,Q47345468,tennis tournament edition
+E,596,Q47345468,tennis tournament edition
+D,4078,Q47345468,tennis tournament edition
+C,9347,Q47345468,tennis tournament edition
+C,735,Q30198,marsh
+D,18673,Q30198,marsh
+B,1,Q30198,marsh
+E,2737,Q30198,marsh
+C,38296,Q47461344,written work
+B,222,Q47461344,written work
+A,22,Q47461344,written work
+D,35764,Q47461344,written work
+E,4721,Q47461344,written work
+B,69,Q15416,television program
+A,6,Q15416,television program
+C,4621,Q15416,television program
+D,29969,Q15416,television program
+E,10090,Q15416,television program
+D,14934,Q176799,military unit
+C,1267,Q176799,military unit
+E,4087,Q176799,military unit
+B,8,Q176799,military unit
+A,1,Q3950,villa
+B,46,Q3950,villa
+D,11545,Q3950,villa
+C,3202,Q3950,villa
+E,1438,Q3950,villa
+B,16079,Q107102664,cell line from embryonic stem cells
+C,24,Q107102664,cell line from embryonic stem cells
+B,864,Q6881511,enterprise
+D,13631,Q6881511,enterprise
+A,147,Q6881511,enterprise
+E,4192,Q6881511,enterprise
+C,29261,Q6881511,enterprise
+E,4662,Q11446,ship
+B,15,Q11446,ship
+D,61467,Q11446,ship
+C,12020,Q11446,ship
+D,5,Q6453643,decree law
+C,12386,Q6453643,decree law
+C,7,Q56731284,Act of the Parliament of Australia
+D,521,Q56731284,Act of the Parliament of Australia
+E,1,Q56731284,Act of the Parliament of Australia
+C,388,Q40231,election
+E,8230,Q40231,election
+D,9541,Q40231,election
+D,6146,Q8436,family
+C,1880,Q8436,family
+E,3449,Q8436,family
+B,4,Q8436,family
+A,1,Q8436,family
+A,29,Q7187,gene
+B,184886,Q7187,gene
+D,203880,Q7187,gene
+E,1247,Q7187,gene
+C,315693,Q7187,gene
+D,35506,Q215380,musical group
+C,39062,Q215380,musical group
+A,97,Q215380,musical group
+E,5997,Q215380,musical group
+B,1823,Q215380,musical group
+E,156,Q2151232,townland
+C,222,Q2151232,townland
+D,60391,Q2151232,townland
+E,1,Q1134686,frazione
+C,17750,Q1134686,frazione
+A,11,Q1134686,frazione
+B,135,Q1134686,frazione
+D,1073,Q1134686,frazione
+B,15,Q13406463,Wikimedia list article
+D,217874,Q13406463,Wikimedia list article
+E,92132,Q13406463,Wikimedia list article
+A,1,Q13406463,Wikimedia list article
+C,25688,Q13406463,Wikimedia list article
+A,53,Q1248784,airport
+E,75,Q1248784,airport
+C,17406,Q1248784,airport
+B,2314,Q1248784,airport
+D,4554,Q1248784,airport
+B,231,Q1266946,thesis
+D,852,Q1266946,thesis
+E,1516,Q1266946,thesis
+C,43,Q1266946,thesis
+E,34368,Q7725634,literary work
+D,116994,Q7725634,literary work
+B,375,Q7725634,literary work
+C,30538,Q7725634,literary work
+A,111,Q7725634,literary work
+D,23561,Q9826,high school
+B,11,Q9826,high school
+C,6115,Q9826,high school
+E,946,Q9826,high school
+E,3510,Q39594,bay
+B,75,Q39594,bay
+D,25875,Q39594,bay
+A,2,Q39594,bay
+C,2738,Q39594,bay
+C,902,Q187971,wadi
+E,19735,Q187971,wadi
+D,6904,Q187971,wadi
+B,5,Q187971,wadi
+C,392,Q5783996,cottage
+E,18,Q5783996,cottage
+B,2,Q5783996,cottage
+D,37176,Q5783996,cottage
+C,10217,Q11060274,print
+D,120936,Q11060274,print
+B,61,Q11060274,print
+E,1139,Q11060274,print
+D,15795,Q46831,mountain range
+C,5487,Q46831,mountain range
+E,860,Q46831,mountain range
+A,4,Q46831,mountain range
+B,123,Q46831,mountain range
+B,50,Q1115575,civil parish
+A,10,Q1115575,civil parish
+C,10068,Q1115575,civil parish
+D,2029,Q1115575,civil parish
+A,1,Q18663566,dissolved municipality of Japan
+D,4205,Q18663566,dissolved municipality of Japan
+C,11002,Q18663566,dissolved municipality of Japan
+B,12,Q18663566,dissolved municipality of Japan
+E,18,Q18663566,dissolved municipality of Japan
+C,5354,Q571,book
+B,15,Q571,book
+D,18412,Q571,book
+A,3,Q571,book
+E,2813,Q571,book
+D,204317,Q4022,river
+C,142400,Q4022,river
+E,13005,Q4022,river
+A,24,Q4022,river
+B,2221,Q4022,river
+E,3459,Q839954,archaeological site
+A,32,Q839954,archaeological site
+C,12750,Q839954,archaeological site
+B,543,Q839954,archaeological site
+D,34607,Q839954,archaeological site
+E,1,Q51591359,voting result
+D,10507,Q51591359,voting result
+C,2,Q51591359,voting result
+D,227702,Q79007,street
+E,5315,Q79007,street
+C,353927,Q79007,street
+A,1,Q79007,street
+B,69,Q79007,street
+C,272,Q985488,residential community of the People's Republic of China
+D,2493,Q985488,residential community of the People's Republic of China
+E,826,Q985488,residential community of the People's Republic of China
+B,129906,Q21014462,cell line
+D,1,Q21014462,cell line
+C,1041,Q21014462,cell line
+D,564,Q773668,open-access journal
+E,6,Q773668,open-access journal
+C,10770,Q773668,open-access journal
+B,749,Q773668,open-access journal
+B,1212,Q253019,Ortsteil
+E,148,Q253019,Ortsteil
+C,35404,Q253019,Ortsteil
+D,4020,Q253019,Ortsteil
+E,15244,Q101352,family name
+B,2157,Q101352,family name
+C,402507,Q101352,family name
+A,2,Q101352,family name
+D,34751,Q101352,family name
+E,36741,Q3331189,"version, edition, or translation"
+B,43,Q3331189,"version, edition, or translation"
+D,74328,Q3331189,"version, edition, or translation"
+A,4,Q3331189,"version, edition, or translation"
+C,43689,Q3331189,"version, edition, or translation"
+E,2203,Q191067,article
+D,31608,Q191067,article
+C,23639,Q191067,article
+B,8,Q191067,article
+E,25,Q1529096,village in Turkey
+D,1553,Q1529096,village in Turkey
+B,1,Q1529096,village in Turkey
+C,17313,Q1529096,village in Turkey
+D,6386,Q891723,public company
+E,1121,Q891723,public company
+A,194,Q891723,public company
+B,739,Q891723,public company
+C,3937,Q891723,public company
+D,3466,Q55659167,natural watercourse
+B,22,Q55659167,natural watercourse
+C,17298,Q55659167,natural watercourse
+E,363,Q55659167,natural watercourse
+C,14789,Q125191,photograph
+E,821,Q125191,photograph
+D,41661,Q125191,photograph
+B,2084,Q125191,photograph
+E,19878,Q8054,protein
+C,486888,Q8054,protein
+A,7,Q8054,protein
+B,595,Q8054,protein
+D,302601,Q8054,protein
+B,758,Q23413,castle
+E,1849,Q23413,castle
+A,6,Q23413,castle
+C,8481,Q23413,castle
+D,9778,Q23413,castle
+C,11049,Q2467461,academic department
+D,4599,Q2467461,academic department
+B,1,Q2467461,academic department
+E,32,Q2467461,academic department
+A,1,Q2467461,academic department
+B,7,Q55850593,music track with vocals
+D,9247,Q55850593,music track with vocals
+C,2202,Q55850593,music track with vocals
+C,32909,Q34442,road
+E,3387,Q34442,road
+D,26488,Q34442,road
+B,15,Q34442,road
+B,1505,Q4830453,business
+D,97428,Q4830453,business
+A,222,Q4830453,business
+E,34299,Q4830453,business
+C,53553,Q4830453,business
+C,368,Q898273,protein domain
+E,996,Q898273,protein domain
+D,10341,Q898273,protein domain
+B,2,Q898273,protein domain
+E,3178,Q5398426,television series
+B,4237,Q5398426,television series
+C,28904,Q5398426,television series
+A,271,Q5398426,television series
+D,22581,Q5398426,television series
+A,26,Q15632617,fictional human
+B,189,Q15632617,fictional human
+E,1282,Q15632617,fictional human
+D,17082,Q15632617,fictional human
+C,9406,Q15632617,fictional human
+A,31,Q33506,museum
+D,26710,Q33506,museum
+E,938,Q33506,museum
+B,1184,Q33506,museum
+C,12439,Q33506,museum
+C,4,Q10429085,report
+D,10345,Q10429085,report
+D,61142,Q96739634,individual motion
+C,18,Q96739634,individual motion
+C,8775,Q61089180,part of municipality in the Czech Republic
+B,31,Q61089180,part of municipality in the Czech Republic
+D,2669,Q61089180,part of municipality in the Czech Republic
+D,24250,Q3257686,locality
+C,12198,Q3257686,locality
+B,414,Q3257686,locality
+E,2508,Q3257686,locality
+A,6,Q3257686,locality
+C,2437,Q131681,reservoir
+E,2746,Q131681,reservoir
+D,6953,Q131681,reservoir
+A,1,Q131681,reservoir
+B,72,Q131681,reservoir
+C,129615,Q29654788,Unicode character
+B,25,Q29654788,Unicode character
+D,21520,Q29654788,Unicode character
+E,1,Q29654788,Unicode character
+D,302327,Q486972,human settlement
+C,188177,Q486972,human settlement
+B,2909,Q486972,human settlement
+A,121,Q486972,human settlement
+E,55697,Q486972,human settlement
+E,10545,Q93184,drawing
+D,68243,Q93184,drawing
+C,12390,Q93184,drawing
+B,41,Q93184,drawing
+C,2,Q67015940,Government Boys' Primary School
+E,64,Q67015940,Government Boys' Primary School
+D,6,Q67015940,Government Boys' Primary School
+D,27618,Q22698,park
+C,3717,Q22698,park
+B,74,Q22698,park
+E,1984,Q22698,park
+D,19928,Q838948,work of art
+C,3375,Q838948,work of art
+E,179,Q838948,work of art
+B,16,Q838948,work of art
+A,6,Q2668072,collection
+E,103,Q2668072,collection
+B,54,Q2668072,collection
+C,282,Q2668072,collection
+D,433904,Q2668072,collection
+E,6414,Q134556,single
+B,406,Q134556,single
+A,2,Q134556,single
+D,18857,Q134556,single
+C,66962,Q134556,single
+B,147,Q2514025,posyolok
+D,9855,Q2514025,posyolok
+C,5237,Q2514025,posyolok
+E,824,Q2514025,posyolok
+C,4057,Q207326,summit
+B,5,Q207326,summit
+E,8109,Q207326,summit
+D,5040,Q207326,summit
+A,1,Q207326,summit
+C,95,Q16466010,association football match
+D,439,Q16466010,association football match
+E,95,Q16466010,association football match
+E,4946,Q46190676,tennis event
+D,16639,Q46190676,tennis event
+C,4246,Q46190676,tennis event
+C,746,Q4504495,award ceremony
+B,4,Q4504495,award ceremony
+E,3878,Q4504495,award ceremony
+D,7951,Q4504495,award ceremony
+C,737,Q358,heritage site
+A,2,Q358,heritage site
+D,11970,Q358,heritage site
+E,380,Q358,heritage site
+B,31,Q358,heritage site
+A,1525,Q11173,chemical compound
+E,2263,Q11173,chemical compound
+D,1218961,Q11173,chemical compound
+C,11804,Q11173,chemical compound
+B,9632,Q11173,chemical compound
+E,1220,Q17018380,bight
+C,872,Q17018380,bight
+D,13299,Q17018380,bight
+B,4,Q17018380,bight
+D,88844,Q56436498,village in India
+C,56210,Q56436498,village in India
+E,668,Q56436498,village in India
+B,54,Q56436498,village in India
+B,86,Q18127,record label
+D,5133,Q18127,record label
+C,3334,Q18127,record label
+A,8,Q18127,record label
+E,1644,Q18127,record label
+E,1,Q49008,prime number
+C,1262,Q49008,prime number
+D,126247,Q49008,prime number
+B,1,Q49008,prime number
+A,4,Q49008,prime number
+C,7285,Q7075,library
+A,6,Q7075,library
+B,221,Q7075,library
+D,15126,Q7075,library
+E,554,Q7075,library
+D,42508,Q55488,railway station
+E,919,Q55488,railway station
+B,1099,Q55488,railway station
+A,4,Q55488,railway station
+C,56101,Q55488,railway station
+B,922,Q2225692,fourth-level administrative division in Indonesia
+C,77091,Q2225692,fourth-level administrative division in Indonesia
+E,114,Q2225692,fourth-level administrative division in Indonesia
+D,4784,Q2225692,fourth-level administrative division in Indonesia
+E,1835,Q1516079,cultural heritage ensemble
+C,4676,Q1516079,cultural heritage ensemble
+B,9,Q1516079,cultural heritage ensemble
+D,30965,Q1516079,cultural heritage ensemble
+B,5,Q124714,spring
+E,1511,Q124714,spring
+D,41383,Q124714,spring
+C,5842,Q124714,spring
+E,15394,Q41176,building
+D,197815,Q41176,building
+C,66708,Q41176,building
+B,320,Q41176,building
+A,3,Q41176,building
+C,8694,Q3464665,television series season
+B,60,Q3464665,television series season
+D,9807,Q3464665,television series season
+E,502,Q3464665,television series season
+C,13,Q19855165,rural school
+D,549,Q19855165,rural school
+E,67463,Q19855165,rural school
+A,5,Q1497375,architectural ensemble
+C,1961,Q1497375,architectural ensemble
+D,3739,Q1497375,architectural ensemble
+E,901,Q1497375,architectural ensemble
+B,158,Q1497375,architectural ensemble
+E,5916,Q55659107,intermittent natural watercourse
+D,10104,Q55659107,intermittent natural watercourse
+C,366,Q55659107,intermittent natural watercourse
+B,202,Q2085381,publisher
+D,6869,Q2085381,publisher
+E,1306,Q2085381,publisher
+A,20,Q2085381,publisher
+C,5231,Q2085381,publisher
+E,1631,Q24862,short film
+C,17984,Q24862,short film
+B,237,Q24862,short film
+D,9911,Q24862,short film
+A,1,Q24862,short film
+D,3690,Q3231690,automobile model
+E,951,Q3231690,automobile model
+B,81,Q3231690,automobile model
+C,5763,Q3231690,automobile model
+E,626990,Q5,human
+B,693124,Q5,human
+C,3572265,Q5,human
+D,4247974,Q5,human
+A,25967,Q5,human
+C,5417,Q210272,cultural heritage
+A,2,Q210272,cultural heritage
+D,7947,Q210272,cultural heritage
+E,5102,Q210272,cultural heritage
+B,116,Q210272,cultural heritage
+C,1414,Q65954115,State Bank of India branch
+E,3081,Q65954115,State Bank of India branch
+D,17969,Q65954115,State Bank of India branch
+E,15826,Q13433827,encyclopedia article
+C,46945,Q13433827,encyclopedia article
+B,16,Q13433827,encyclopedia article
+D,377650,Q13433827,encyclopedia article
+C,1907,Q16510064,sporting event
+E,6084,Q16510064,sporting event
+D,19861,Q16510064,sporting event
+E,878,Q67035425,ASTM standard
+D,16418,Q67035425,ASTM standard
+B,65,Q1081138,historic site
+C,3206,Q1081138,historic site
+D,2754,Q1081138,historic site
+E,2550,Q1081138,historic site
+E,2225,Q473972,protected area
+C,74144,Q473972,protected area
+A,3,Q473972,protected area
+B,2207,Q473972,protected area
+D,4866,Q473972,protected area
+E,329,Q220659,archaeological artifact
+D,17841,Q220659,archaeological artifact
+A,2,Q220659,archaeological artifact
+B,6,Q220659,archaeological artifact
+C,1816,Q220659,archaeological artifact
+D,2881,Q740445,ridge
+B,7,Q740445,ridge
+E,9188,Q740445,ridge
+C,538,Q740445,ridge
+B,5805,Q482994,album
+C,187245,Q482994,album
+D,67287,Q482994,album
+E,9828,Q482994,album
+A,32,Q482994,album
+E,361,Q5633421,scientific journal
+C,38821,Q5633421,scientific journal
+D,53026,Q5633421,scientific journal
+B,4712,Q5633421,scientific journal
+A,5,Q5633421,scientific journal
+E,5528,Q15647814,Wikimedia administration category
+C,699,Q15647814,Wikimedia administration category
+D,5771,Q15647814,Wikimedia administration category
+C,83,Q427087,non-coding RNA
+E,49,Q427087,non-coding RNA
+D,35370,Q427087,non-coding RNA
+B,41782,Q427087,non-coding RNA
+D,96616,Q532,village
+B,3978,Q532,village
+A,13,Q532,village
+E,14200,Q532,village
+C,147322,Q532,village
+E,3004,Q105543609,musical work/composition
+A,9,Q105543609,musical work/composition
+D,47464,Q105543609,musical work/composition
+B,1317,Q105543609,musical work/composition
+C,43840,Q105543609,musical work/composition
+D,14280,Q106474968,ethnic group by settlement in Macedonia
+E,1070194,Q4167410,Wikimedia disambiguation page
+B,281,Q4167410,Wikimedia disambiguation page
+D,120132,Q4167410,Wikimedia disambiguation page
+C,187687,Q4167410,Wikimedia disambiguation page
+D,8797,Q40080,beach
+E,4763,Q40080,beach
+C,1677,Q40080,beach
+B,103,Q40080,beach
+B,42,Q3947,house
+C,24350,Q3947,house
+D,162786,Q3947,house
+E,14221,Q3947,house
+C,5682,Q728937,railway line
+D,8123,Q728937,railway line
+E,387,Q728937,railway line
+B,27,Q728937,railway line
+A,1,Q728937,railway line
+D,9085,Q46135307,nation at sport competition
+C,269,Q46135307,nation at sport competition
+E,2399,Q46135307,nation at sport competition
+E,16,Q155076,juridical person
+A,1,Q155076,juridical person
+C,27,Q155076,juridical person
+D,23461,Q155076,juridical person
+B,1,Q155076,juridical person
+D,21659,Q26895936,American football team season
+E,896,Q26895936,American football team season
+C,32,Q26895936,American football team season
+D,5386,Q4414033,rural council of Ukraine
+C,4482,Q4414033,rural council of Ukraine
+E,225,Q4414033,rural council of Ukraine
+B,2,Q5707594,news article
+E,532,Q5707594,news article
+C,128,Q5707594,news article
+D,5960,Q5707594,news article
+E,50450,Q17633526,Wikinews article
+B,3,Q17633526,Wikinews article
+C,4482,Q17633526,Wikinews article
+D,232001,Q17633526,Wikinews article
+B,24,Q4421,forest
+D,11254,Q4421,forest
+C,1709,Q4421,forest
+E,8648,Q4421,forest
+A,2,Q4421,forest
+C,83,Q1539532,sports season of a sports club
+D,16291,Q1539532,sports season of a sports club
+E,2434,Q1539532,sports season of a sports club
+D,90,Q50386450,operatic character
+C,1115,Q50386450,operatic character
+B,266,Q44613,monastery
+C,3740,Q44613,monastery
+E,2117,Q44613,monastery
+D,6987,Q44613,monastery
+A,2,Q44613,monastery
+B,452,Q62447,aerodrome
+C,9428,Q62447,aerodrome
+A,1,Q62447,aerodrome
+D,6318,Q62447,aerodrome
+E,2142,Q62447,aerodrome
+A,3,Q16917,hospital
+B,991,Q16917,hospital
+D,19529,Q16917,hospital
+C,6404,Q16917,hospital
+E,759,Q16917,hospital
+A,10,Q21199,natural number
+B,5,Q21199,natural number
+D,215,Q21199,natural number
+C,10156,Q21199,natural number
+E,1,Q21199,natural number
+A,3,Q28564,public library
+E,139,Q28564,public library
+D,28601,Q28564,public library
+B,156,Q28564,public library
+C,6586,Q28564,public library
+B,127,Q355304,watercourse
+D,87366,Q355304,watercourse
+E,530,Q355304,watercourse
+C,77660,Q355304,watercourse
+E,8071,Q3305213,painting
+D,396399,Q3305213,painting
+C,127481,Q3305213,painting
+A,34,Q3305213,painting
+B,9618,Q3305213,painting
+A,3,Q39614,cemetery
+E,3620,Q39614,cemetery
+C,10220,Q39614,cemetery
+D,68579,Q39614,cemetery
+B,103,Q39614,cemetery
+B,4,Q820655,legislation
+E,665,Q820655,legislation
+D,10785,Q820655,legislation
+C,15561,Q820655,legislation
+D,4831,Q19692072,United States Supreme Court decision
+C,502,Q19692072,United States Supreme Court decision
+E,67,Q19692072,United States Supreme Court decision
+C,421,Q842402,Hindu temple
+B,6,Q842402,Hindu temple
+E,49,Q842402,Hindu temple
+D,14441,Q842402,Hindu temple
+A,1,Q842402,Hindu temple
+E,9160,Q735428,town in China
+D,7689,Q735428,town in China
+C,3363,Q735428,town in China
+B,1,Q735428,town in China
+E,45,Q928830,metro station
+A,5,Q928830,metro station
+C,10756,Q928830,metro station
+B,626,Q928830,metro station
+D,3644,Q928830,metro station
+C,767,Q294414,public office
+A,1,Q294414,public office
+E,947,Q294414,public office
+D,11797,Q294414,public office
+B,13,Q294414,public office
+E,409,Q12323,dam
+C,6724,Q12323,dam
+D,42252,Q12323,dam
+B,60,Q12323,dam
+A,12,Q16560,palace
+B,287,Q16560,palace
+D,4867,Q16560,palace
+C,3129,Q16560,palace
+E,3557,Q16560,palace
+D,7754,Q820477,mine
+B,9,Q820477,mine
+C,1433,Q820477,mine
+E,278,Q820477,mine
+E,107,Q1348305,erratum
+B,1355,Q1348305,erratum
+C,54560,Q1348305,erratum
+D,22899,Q1348305,erratum
+B,349153,Q16521,taxon
+D,570503,Q16521,taxon
+C,2407628,Q16521,taxon
+E,4432,Q16521,taxon
+A,6461,Q16521,taxon
+E,405,Q21191270,television series episode
+C,23623,Q21191270,television series episode
+B,1053,Q21191270,television series episode
+D,40424,Q21191270,television series episode
+D,6525,Q21198342,manga series
+C,2306,Q21198342,manga series
+E,4421,Q21198342,manga series
+B,118,Q21198342,manga series
+A,6,Q21198342,manga series
+C,1124,Q783794,company
+E,3326,Q783794,company
+B,51,Q783794,company
+D,6642,Q783794,company
+A,7,Q783794,company
+D,24516,Q9842,primary school
+C,42625,Q9842,primary school
+E,64247,Q9842,primary school
+B,2,Q9842,primary school
+A,1,Q9842,primary school
+E,2350,Q108325,chapel
+B,69,Q108325,chapel
+A,1,Q108325,chapel
+D,33286,Q108325,chapel
+C,19992,Q108325,chapel
+D,1688,Q1302249,cross-reference
+C,14709,Q1302249,cross-reference
+E,72,Q1302249,cross-reference
+C,10585,Q811979,architectural structure
+E,3645,Q811979,architectural structure
+A,2,Q811979,architectural structure
+B,108,Q811979,architectural structure
+D,94255,Q811979,architectural structure
+C,8493,Q10870555,report
+E,339,Q10870555,report
+D,11585,Q10870555,report
+B,5,Q10870555,report
+E,1,Q1260524,time of the day
+D,87869,Q1260524,time of the day
+C,12,Q1260524,time of the day
+D,10820,Q11032,newspaper
+C,23626,Q11032,newspaper
+A,9,Q11032,newspaper
+B,140,Q11032,newspaper
+E,5194,Q11032,newspaper
+E,3580,Q17524420,aspect of history
+D,7458,Q17524420,aspect of history
+C,1039,Q17524420,aspect of history
+A,1,Q17524420,aspect of history
+A,3739,Q11424,film
+D,105796,Q11424,film
+E,12646,Q11424,film
+B,30156,Q11424,film
+C,107851,Q11424,film
+B,58,Q54050,hill
+C,129988,Q54050,hill
+E,20293,Q54050,hill
+D,161708,Q54050,hill
+D,2180,Q187223,lagoon
+A,1,Q187223,lagoon
+C,479,Q187223,lagoon
+B,10,Q187223,lagoon
+E,1847,Q187223,lagoon
+E,626,Q174782,square
+A,1,Q174782,square
+B,65,Q174782,square
+C,6386,Q174782,square
+D,7840,Q174782,square
+D,26624,Q18340514,events in a specific year or time period
+E,7806,Q18340514,events in a specific year or time period
+C,10609,Q18340514,events in a specific year or time period
+C,53184,Q3558970,village of Poland
+B,643,Q3558970,village of Poland
+D,2244,Q3558970,village of Poland
+E,4,Q3558970,village of Poland
+A,104,Q3918,university
+D,6287,Q3918,university
+C,5418,Q3918,university
+E,777,Q3918,university
+B,1045,Q3918,university
+B,3,Q18593264,item of collection or exhibition
+D,128706,Q18593264,item of collection or exhibition
+E,41,Q18593264,item of collection or exhibition
+C,1134,Q18593264,item of collection or exhibition
+E,398161,Q13442814,scholarly article
+C,24539904,Q13442814,scholarly article
+D,3816100,Q13442814,scholarly article
+A,7,Q13442814,scholarly article
+B,5168895,Q13442814,scholarly article
+D,5771,Q13417114,noble family
+B,8,Q13417114,noble family
+C,2087,Q13417114,noble family
+E,2070,Q13417114,noble family
+B,422,Q23442,island
+A,46,Q23442,island
+E,623,Q23442,island
+C,46883,Q23442,island
+D,101298,Q23442,island
+E,353,Q123705,neighborhood
+D,14200,Q123705,neighborhood
+B,137,Q123705,neighborhood
+A,2,Q123705,neighborhood
+C,11830,Q123705,neighborhood
+B,3,Q953806,bus stop
+D,11162,Q953806,bus stop
+E,191,Q953806,bus stop
+C,240,Q953806,bus stop
+B,11099,Q27671617,finite cell line
+C,54,Q27671617,finite cell line
+B,1,Q7321974,cairn
+E,145,Q7321974,cairn
+C,47,Q7321974,cairn
+D,940,Q7321974,cairn
+C,13959,Q43229,organization
+E,8680,Q43229,organization
+B,454,Q43229,organization
+D,54764,Q43229,organization
+A,32,Q43229,organization
+C,80941,Q815382,meta-analysis
+D,1330,Q815382,meta-analysis
+E,45,Q815382,meta-analysis
+B,27377,Q815382,meta-analysis
+B,16,Q212198,pub
+D,4137,Q212198,pub
+C,10813,Q212198,pub
+E,47,Q212198,pub
+E,3145,Q2334719,legal case
+C,125,Q2334719,legal case
+D,3793,Q2334719,legal case
+E,13084,Q482,poetry
+D,3083,Q482,poetry
+B,2,Q482,poetry
+C,163,Q482,poetry
+E,1,Q814254,feature
+C,10702,Q814254,feature
+D,65,Q814254,feature
+C,4600,Q24354,theatre
+D,6331,Q24354,theatre
+E,401,Q24354,theatre
+B,481,Q24354,theatre
+A,3,Q24354,theatre
+C,23,Q452237,motion
+D,76702,Q452237,motion
+E,3,Q452237,motion
+C,616,Q20541692,"settlement in Galicia, Spain"
+D,8617,Q20541692,"settlement in Galicia, Spain"
+B,2,Q20541692,"settlement in Galicia, Spain"
+E,242,Q20541692,"settlement in Galicia, Spain"
+B,47,Q19860854,destroyed building or structure
+D,20219,Q19860854,destroyed building or structure
+C,1136,Q19860854,destroyed building or structure
+A,2,Q19860854,destroyed building or structure
+E,253,Q19860854,destroyed building or structure
+B,47875,Q27555384,transformed cell line
+C,109,Q27555384,transformed cell line
+C,678,Q207524,islet
+D,6755,Q207524,islet
+B,5,Q207524,islet
+E,9446,Q207524,islet
+E,214,Q5358913,elementary school in Japan
+C,527,Q5358913,elementary school in Japan
+D,17669,Q5358913,elementary school in Japan
+B,1,Q5358913,elementary school in Japan
+C,58,Q2341654,stone setting
+D,58424,Q2341654,stone setting
+D,432,Q42195,petroglyph
+E,25,Q42195,petroglyph
+C,80,Q42195,petroglyph
+C,216,Q46686,reredos
+D,4022,Q46686,reredos
+E,19,Q46686,reredos
+B,35,Q46686,reredos
+E,1,Q420927,protein complex
+C,9,Q420927,protein complex
+D,13145,Q420927,protein complex
+A,2,Q420927,protein complex
+B,1,Q420927,protein complex
+B,2,Q65661087,village in Belarus
+C,9326,Q65661087,village in Belarus
+E,4090,Q65661087,village in Belarus
+D,3194,Q65661087,village in Belarus
+C,1905,Q30612,clinical trial
+E,8,Q30612,clinical trial
+D,354786,Q30612,clinical trial
+B,35,Q30612,clinical trial
+B,389,Q41253,movie theater
+A,1,Q41253,movie theater
+D,48817,Q41253,movie theater
+C,3640,Q41253,movie theater
+E,151,Q41253,movie theater
+C,18518,Q476028,association football club
+B,177,Q476028,association football club
+E,460,Q476028,association football club
+A,64,Q476028,association football club
+D,17028,Q476028,association football club
+B,1367,Q5084,hamlet
+E,1858,Q5084,hamlet
+C,33401,Q5084,hamlet
+A,2,Q5084,hamlet
+D,57514,Q5084,hamlet
+C,5341,Q34770,language
+A,174,Q34770,language
+E,325,Q34770,language
+D,1571,Q34770,language
+B,2047,Q34770,language
+D,8717,Q751876,château
+E,10135,Q751876,château
+B,203,Q751876,château
+C,5851,Q751876,château
+A,7,Q751876,château
+C,2880,Q847017,sports club
+E,3954,Q847017,sports club
+B,18,Q847017,sports club
+D,15033,Q847017,sports club
+A,6,Q847017,sports club
+E,1212,Q35509,cave
+D,11473,Q35509,cave
+C,1846,Q35509,cave
+A,1,Q35509,cave
+B,47,Q35509,cave
+C,22355,Q1195098,ward
+D,3380,Q1195098,ward
+E,323,Q1195098,ward
+C,449,Q187685,doctoral thesis
+E,134,Q187685,doctoral thesis
+B,191,Q187685,doctoral thesis
+D,21132,Q187685,doctoral thesis
+A,1,Q47521,stream
+D,29482,Q47521,stream
+C,7454,Q47521,stream
+E,15769,Q47521,stream
+B,257,Q47521,stream
+E,791070,Q11266439,Wikimedia template
+C,10830,Q11266439,Wikimedia template
+B,27,Q11266439,Wikimedia template
+D,48347,Q11266439,Wikimedia template
+D,8777,Q24046192,Wikimedia category of stubs
+C,641,Q24046192,Wikimedia category of stubs
+E,63,Q24046192,Wikimedia category of stubs
+C,16426,Q2116450,manor estate
+E,49,Q2116450,manor estate
+D,2741,Q2116450,manor estate
+C,53240,Q19389637,biographical article
+D,105556,Q19389637,biographical article
+E,3135,Q19389637,biographical article
+D,7462,Q2042028,ravine
+C,851,Q2042028,ravine
+E,555,Q2042028,ravine
+A,1,Q39816,valley
+C,3957,Q39816,valley
+D,33660,Q39816,valley
+B,25,Q39816,valley
+E,29246,Q39816,valley
+C,6856,Q4989906,monument
+D,16959,Q4989906,monument
+A,3,Q4989906,monument
+E,1666,Q4989906,monument
+B,1142,Q4989906,monument
+E,26105,Q1681353,bog
+D,1094,Q1681353,bog
+B,3,Q1681353,bog
+C,215,Q1681353,bog
+E,3,Q12317349,main library
+A,1,Q12317349,main library
+C,462,Q12317349,main library
+B,125,Q12317349,main library
+D,12904,Q12317349,main library
+D,31739,Q23925393,Douar
+C,270,Q23925393,Douar
+B,12712,Q107103143,Induced pluripotent stem cell line
+C,18,Q107103143,Induced pluripotent stem cell line
+C,86393,Q16970,church building
+E,17467,Q16970,church building
+A,3,Q16970,church building
+B,1788,Q16970,church building
+D,104927,Q16970,church building
+A,4,Q17343829,unincorporated community in the United States
+C,25385,Q17343829,unincorporated community in the United States
+E,34,Q17343829,unincorporated community in the United States
+B,1817,Q17343829,unincorporated community in the United States
+D,11666,Q17343829,unincorporated community in the United States
+E,47642,Q13100073,village-level division in China
+C,986,Q13100073,village-level division in China
+D,36999,Q13100073,village-level division in China
+C,4449,Q11755880,residential building
+D,7246,Q11755880,residential building
+E,117,Q11755880,residential building
+B,30,Q11755880,residential building
+A,2,Q5185279,poem
+B,4,Q5185279,poem
+D,86244,Q5185279,poem
+C,2081,Q5185279,poem
+E,16234,Q5185279,poem
+D,16795,Q1577547,revenue house
+E,31,Q1577547,revenue house
+C,1718,Q1577547,revenue house
+E,291,Q26703203,stumbling stone
+C,3999,Q26703203,stumbling stone
+D,12055,Q26703203,stumbling stone
+B,1,Q26703203,stumbling stone
+E,204,Q737498,academic journal
+D,3214,Q737498,academic journal
+A,3,Q737498,academic journal
+C,17327,Q737498,academic journal
+B,1385,Q737498,academic journal
+E,67422,Q1580166,dictionary entry
+C,336,Q1580166,dictionary entry
+D,2591,Q1580166,dictionary entry
+E,2097,Q13406554,sports competition
+C,1516,Q13406554,sports competition
+D,9939,Q13406554,sports competition
+B,1,Q1303167,barn
+D,15855,Q1303167,barn
+E,247,Q1303167,barn
+C,3799,Q1303167,barn
+C,346,Q235557,file format
+B,38,Q235557,file format
+D,11638,Q235557,file format
+E,37,Q235557,file format
+A,5,Q235557,file format
+E,212,Q23894233,Wikimedia templates category
+C,1322,Q23894233,Wikimedia templates category
+D,13153,Q23894233,Wikimedia templates category
+C,3558,Q634099,rural settlement of Russia
+D,14993,Q634099,rural settlement of Russia
+B,7,Q634099,rural settlement of Russia
+E,202,Q634099,rural settlement of Russia
+D,7967,Q15221623,bilateral relation
+C,3355,Q15221623,bilateral relation
+E,3962,Q15221623,bilateral relation
+B,5,Q15221623,bilateral relation
+D,9928,Q12280,bridge
+E,694,Q12280,bridge
+B,72,Q12280,bridge
+C,14017,Q12280,bridge
+C,9597,Q1504425,systematic review
+D,8,Q1504425,systematic review
+B,2415,Q1504425,systematic review
+D,13777,Q6451276,Congressional Research Service report
+D,11606,Q97695005,committee group motion
+C,26,Q97695005,committee group motion
+D,9638,Q14350,radio station
+B,32,Q14350,radio station
+E,1015,Q14350,radio station
+A,7,Q14350,radio station
+C,15180,Q14350,radio station
+D,58714,Q57733494,badminton event
+B,5,Q57733494,badminton event
+C,2311,Q57733494,badminton event
+E,6814,Q2231510,col
+D,3927,Q2231510,col
+C,242,Q2231510,col
+D,9988,Q102496,parish
+C,403,Q102496,parish
+E,1624,Q102496,parish
+B,4378,Q179049,nature reserve
+E,286,Q179049,nature reserve
+A,1,Q179049,nature reserve
+C,2305,Q179049,nature reserve
+D,2920,Q179049,nature reserve
+A,17,Q8502,mountain
+C,315073,Q8502,mountain
+E,7531,Q8502,mountain
+B,2356,Q8502,mountain
+D,175874,Q8502,mountain
+E,13117,Q6503489,Law of the Republic of China
+D,102,Q6503489,Law of the Republic of China
+C,8,Q6503489,Law of the Republic of China
+C,1576,Q2309609,wayside cross
+D,17958,Q2309609,wayside cross
+E,321,Q2309609,wayside cross
+B,113,Q2996394,biological process
+D,41176,Q2996394,biological process
+A,12,Q2996394,biological process
+E,48,Q2996394,biological process
+C,487,Q2996394,biological process
+E,2299,Q34763,peninsula
+D,18509,Q34763,peninsula
+A,7,Q34763,peninsula
+C,4619,Q34763,peninsula
+B,58,Q34763,peninsula
+D,4580,Q21573182,Naturdenkmal in Germany
+C,579,Q21573182,Naturdenkmal in Germany
+E,88,Q21573182,Naturdenkmal in Germany
+C,11383,Q59541917,Wikimedia topic category
+E,16,Q59541917,Wikimedia topic category
+D,2094,Q59541917,Wikimedia topic category
+C,383,Q23058136,cancer cell line
+B,27852,Q23058136,cancer cell line
+D,1910,Q67383935,co-educational school
+E,71794,Q67383935,co-educational school
+C,46,Q67383935,co-educational school
+D,15560,Q106006703,local regulations of the People's Republic of China
+E,5,Q106006703,local regulations of the People's Republic of China
+C,4,Q106006703,local regulations of the People's Republic of China
+C,34,Q61443650,sub post office
+E,23440,Q61443650,sub post office
+D,1287,Q61443650,sub post office
+C,129,Q1238720,volume
+E,10862,Q1238720,volume
+D,1001,Q1238720,volume
+E,29,Q56428020,Wikimedia lists category
+D,10623,Q56428020,Wikimedia lists category
+C,2281,Q56428020,Wikimedia lists category
+C,1991,Q67015883,group or class of enzymes
+D,8824,Q67015883,group or class of enzymes
+A,1,Q67015883,group or class of enzymes
+B,85,Q67015883,group or class of enzymes
+E,3,Q67015883,group or class of enzymes
+C,307,Q14659,coat of arms
+D,6612,Q14659,coat of arms
+E,2388,Q14659,coat of arms
+B,197,Q11879590,female given name
+A,7,Q11879590,female given name
+C,12591,Q11879590,female given name
+E,759,Q11879590,female given name
+D,10003,Q11879590,female given name
+D,40701,Q179700,statue
+C,2566,Q179700,statue
+B,47,Q179700,statue
+A,4,Q179700,statue
+E,755,Q179700,statue
+C,1472,Q575759,war memorial
+B,12,Q575759,war memorial
+D,13796,Q575759,war memorial
+E,1031,Q575759,war memorial
+C,2915,Q726,horse
+B,9,Q726,horse
+D,9521,Q726,horse
+E,929,Q726,horse
+E,4215,Q159334,secondary school
+C,5827,Q159334,secondary school
+B,8,Q159334,secondary school
+D,6856,Q159334,secondary school
+D,12325,Q41298,magazine
+B,282,Q41298,magazine
+A,9,Q41298,magazine
+E,9167,Q41298,magazine
+C,3988,Q41298,magazine
+D,2837,Q61443690,branch post office
+E,125802,Q61443690,branch post office
+C,539,Q61443690,branch post office
+D,12560,Q202444,given name
+E,4096,Q202444,given name
+A,1,Q202444,given name
+B,15,Q202444,given name
+C,3548,Q202444,given name
+C,1,Q3508250,Syndicat intercommunal
+E,14210,Q3508250,Syndicat intercommunal
+D,121,Q3508250,Syndicat intercommunal
+C,960,Q7777570,theatrical production
+D,1284,Q7777570,theatrical production
+E,44,Q7777570,theatrical production
+B,1,Q7777570,theatrical production
+A,135,Q3957,town
+D,2095,Q3957,town
+C,9939,Q3957,town
+E,150,Q3957,town
+B,1949,Q3957,town
+E,90,Q47150325,calendar day of a given year
+C,6407,Q47150325,calendar day of a given year
+D,182860,Q47150325,calendar day of a given year
+C,4001,Q169930,extended play
+E,447,Q169930,extended play
+B,55,Q169930,extended play
+D,7939,Q169930,extended play
+D,12215,Q18918145,academic journal article
+C,6977,Q18918145,academic journal article
+E,3054,Q18918145,academic journal article
+B,20,Q18918145,academic journal article
+C,7,Q459297,qanat
+E,13541,Q459297,qanat
+D,48,Q459297,qanat
+D,34269,Q99045339,written question
+C,7,Q99045339,written question
+D,3021,Q2732840,Gram panchayat
+E,50,Q2732840,Gram panchayat
+C,952,Q2732840,Gram panchayat
+B,5,Q2732840,Gram panchayat
+C,15,Q50231,administrative territorial entity of the People's Republic of China
+D,320,Q50231,administrative territorial entity of the People's Republic of China
+E,181,Q50231,administrative territorial entity of the People's Republic of China
+D,83307,Q7604686,UK Statutory Instrument
+C,5439,Q7604686,UK Statutory Instrument
+C,498,Q160091,plain
+D,6327,Q160091,plain
+E,3495,Q160091,plain
+B,9,Q160091,plain
+D,17121,Q7604693,Statutory Rules of Northern Ireland
+D,33420,Q100532807,Irish Statutory Instrument
